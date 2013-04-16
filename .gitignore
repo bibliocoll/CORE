@@ -1,0 +1,9 @@
+vufind/web/interface/cache/*
+vufind/web/interface/compile/*
+get_data_gwdg.sh
+httpd-vufind.conf
+install_vzg
+vufind/web/conf/config.ini
+nohup.out
+*bzr*
+*~

@@ -1,0 +1,167 @@
+<?php
+Header ("Content-type: text/css");
+$configArray = parse_ini_file('../../../../conf/config.ini', true);
+?>
+
+/* Laschen f. Homepage */
+body #clipbox1 {
+background: url(<?php echo $configArray['Site']['path'];?>/interface/themes/mpg/images/rdg/Papierlasche-Askus.png);
+top: 36%;
+}
+
+body #clipbox2 {
+background: url(<?php echo $configArray['Site']['path'];?>/interface/themes/mpg/images/rdg/Papierlasche-Agent.png);
+top: 50%;
+}
+
+body #clipbox3 {
+background: url(<?php echo $configArray['Site']['path'];?>/interface/themes/mpg/images/rdg/Papierlasche-EZB.png);
+top: 64%;
+}
+
+body .clipboxinner {
+width: 50%;
+margin: 0px auto;
+}
+
+body .clipbox {
+width: 300px;
+height:50px;
+position: fixed;
+left: -245px;
+margin-top: -78px;
+background-size: 300px;
+-moz-transition: all 500ms ease-out;
+-webkit-transition: all 500ms ease-out;
+-o-transition: all 500ms ease-out;
+-ms-transition: all 500ms ease-out;
+transition: all 500ms ease-out;
+border-radius: 8px;
+text-align:center;
+}
+
+body .clipbox a {
+display: block;
+width: 100%;
+height: 100%;
+text-indent: -1000em;
+border: none;
+}
+
+body #clipbox1:hover,
+body #clipbox2:hover,
+body #clipbox3:hover {
+left: -60px;
+}
+
+/* Extrawurst für IE: lieber kein CSS-3! .clipbox-ie */
+body #clipbox1-ie #clipbox1 {
+top: 1px;
+left: 1px;
+background: url(<?php echo $configArray['Site']['path'];?>/interface/themes/mpg/images/rdg/Papierlasche-Askus-IE.png);
+}
+
+body #clipbox2-ie #clipbox2 {
+top: 60px;
+left: 1px;
+background: url(<?php echo $configArray['Site']['path'];?>/interface/themes/mpg/images/rdg/Papierlasche-Agent-IE.png);
+}
+
+body #clipbox3-ie #clipbox3 {
+top: 120px;
+left: 1px;
+background: url(<?php echo $configArray['Site']['path'];?>/interface/themes/mpg/images/rdg/Papierlasche-EZB-IE.png);
+}
+
+body .clipbox-ie a {
+color:#ffffff;
+/*background-color:#a68e08;*/
+text-decoration:none;
+/* resets */
+text-indent: 0;
+}
+
+body .clipbox-ie .clipbox {
+color:#ffffff;
+position: fixed;
+text-align:center;
+width:50px;
+border-radius: 0px 0px 8px 0px;
+height:50px;
+/* resets */
+background: none;
+background-size: 0;
+margin-top: 0px;
+transition: none;
+border-radius: 8px;
+}
+
+body .clipbox-ie .clipboxinner { 
+padding:10px;
+margin: 0px auto;
+}
+
+/* Ende Extrawurst IE */
+
+#headerimg {
+height: 172px;
+margin: 1em 0;
+clear: both;
+}
+
+/* Beta-Streifen */
+body #dbeta {
+position: relative;
+}
+
+body #dbeta img {
+position: absolute;
+top: 0px;
+right:0px;
+}
+
+/* Beta-Feedback-Hinweis (alte Einbindung, noch drinlassen) */
+#betafeedback {
+margin-top: -20px;
+}
+  
+#betafeedback a {
+color: red;
+font-weight: bold;
+}
+
+/* Record: zusätzlicher Tab "Linked Record" hervorheben */
+#MPGDownLink > a {
+/*font-weight:bold;*/
+font-style:italic;
+/*color:#198806;*/
+}
+
+/* neuer Footer */
+#ft {
+text-align:center;
+border:0;
+}
+
+#ft > a {
+padding:10px;
+}
+
+/* Links auf Startseite in gespaltener Box */
+div.homeFloatParent {
+text-align:center;
+}
+
+div.homeFloatChild {
+vertical-align:top;
+text-align:left;
+float:none;
+display:inline-block;
+border:none;
+line-height:1.5em;
+width:16em;
+margin-top:4em;
+min-height:10em;
+padding:0;
+}
+

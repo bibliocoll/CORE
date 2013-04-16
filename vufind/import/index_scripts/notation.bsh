@@ -1,0 +1,38 @@
+import org.marc4j.marc.Record;
+import org.marc4j.marc.ControlField;
+import org.marc4j.marc.DataField;
+
+/**
+ * Determine Record Format(s)
+ *
+ * @param  Record          record
+ * @return Set     format of record
+ */
+public Set getNotation(Record record){
+    Set result = new LinkedHashSet();
+    List fields = record.getVariableFields("084");
+    Iterator fieldsIter = fields.iterator();
+    if (fields != null) {
+        DataField notation;
+        while(fieldsIter.hasNext()) {
+            notation = (DataField) fieldsIter.next();
+            na = notation.getSubfield('a');
+            if (na != null) {
+
+                ControlField id = (ControlField) record.getVariableField("003");
+                if (id != null) {
+                    if (id.getData().substring(0,3).equals("EBX")) {
+                        result.add(na.getData());
+                    }
+                    else if (id.getData().substring(0,3).equals("DE-")) {
+                        result.add(na.getData());
+                    }
+                    else {
+                         result.add(na.getData() + " [Library Catalog]");
+                    }
+                }
+            }
+        }
+    }
+    return result;
+}

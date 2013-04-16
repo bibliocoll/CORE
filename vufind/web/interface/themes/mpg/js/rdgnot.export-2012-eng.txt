@@ -1,0 +1,2143 @@
+BAP a 100 - Bibliographies / Universal bibliographies+
+BAP a 200 - Bibliographies / Bio-bibliographies+
+BAP a 300 - Bibliographies / Index of official academy publications, printed documents and theses+
+BAP a 400 - Bibliographies / Bibliographies of series, periodicals and newspapers+
+BAP a 500 - Bibliographies / Subject bibliographies+
+BAP a 510 - Bibliographies / Subject bibliographies / Subject bibliographies legal studies+
+BAP a 520 - Bibliographies / Subject bibliographies / Subject bibliographies politics+
+BAP a 530 - Bibliographies / Subject bibliographies / Subject bibliographies economics+
+BAP a 540 - Bibliographies / Subject bibliographies / Subject bibliographies psychology+
+BAP a 550 - Bibliographies / Subject bibliographies / Subject bibliographies sociology+
+BAP a 560 - Bibliographies / Subject bibliographies / Subject bibliographies philosophy+
+BAP a 590 - Bibliographies / Subject bibliographies / Other subject bibliographies+
+BAP b 100 - Dictionaries / Universal encyclopedias, universal dictionaries, universal reference books+
+BAP b 200 - Dictionaries / General and subject-related yearbooks+
+BAP b 300 - Dictionaries / Language and foreign-language dictionaries+
+BAP b 310 - Dictionaries / Language and foreign-language dictionaries / German+
+BAP b 320 - Dictionaries / Language and foreign-language dictionaries / English+
+BAP b 330 - Dictionaries / Language and foreign-language dictionaries / French+
+BAP b 340 - Dictionaries / Language and foreign-language dictionaries / Italian+
+BAP b 350 - Dictionaries / Language and foreign-language dictionaries / Dutch+
+BAP b 360 - Dictionaries / Language and foreign-language dictionaries / Portuguese+
+BAP b 370 - Dictionaries / Language and foreign-language dictionaries / Spanish+
+BAP b 380 - Dictionaries / Language and foreign-language dictionaries / Chinese+
+BAP b 390 - Dictionaries / Language and foreign-language dictionaries / Others+
+BAP b 400 - Dictionaries / Subject dictionaries and foreign-language subject dictionaries+
+BAP b 410 - Dictionaries / Subject dictionaries and foreign-language subject dictionaries / Subject dictionaries legal studies+
+BAP b 420 - Dictionaries / Subject dictionaries and foreign-language subject dictionaries / Subject dictionaries politics+
+BAP b 430 - Dictionaries / Subject dictionaries and foreign-language subject dictionaries / Subject dictionaries economics+
+BAP b 440 - Dictionaries / Subject dictionaries and foreign-language subject dictionaries / Subject dictionaries psychology+
+BAP b 450 - Dictionaries / Subject dictionaries and foreign-language subject dictionaries / Subject dictionaries sociology+
+BAP b 460 - Dictionaries / Subject dictionaries and foreign-language subject dictionaries / Subject dictionaries philosophy+
+BAP b 490 - Dictionaries / Subject dictionaries and foreign-language subject dictionaries / Other subject dictionaries+
+BAP b 500 - Dictionaries / Grammar, introductions+
+BAP b 510 - Dictionaries / Grammar, introductions / German language+
+BAP b 520 - Dictionaries / Grammar, introductions / English language+
+BAP b 590 - Dictionaries / Grammar, introductions / Other languages+
+BAP d 100 - Persons / Biographies, autobiographies, collective volumes, directories+
+BAP d 110 - Persons / Collected works of individual persons+
+BAP d 200 - Persons / Festschriften+
+BAP e 100 - Institutions / Writings about institutions+
+BAP e 200 - Institutions / Yearbooks, annual reports, congresses, festschriften, jubilees, anniversaries+
+BAP h 100 - Data processing and software / General+
+BAP h 200 - Data processing and software / Applications+
+BAP h 210 - Data processing and software / Applications / MS Office+
+BAP h 220 - Data processing and software / Applications / Other applications+
+BAP h 300 - Data processing and software / Programming languages+
+BAP h 400 - Data processing and software / Internet+
+BAP h 500 - Data processing and software / Operating system, system administration+
+BAP h 600 - Data processing and software / Hardware and devices+
+BAP i 100 - Librarianship and information technology / General+
+BAP i 1000 - Librarianship and information technology / Aspects of library usage+
+BAP i 110 - Librarianship and information technology / General / Historical bibliography and library history+
+BAP i 1100 - Librarianship and information technology / Aspects of library usage / Loans, inter-library lending+
+BAP i 120 - Librarianship and information technology / General / Bibliology+
+BAP i 150 - Librarianship and information technology / General / Book trade+
+BAP i 170 - Librarianship and information technology / General / Publishers+
+BAP i 200 - Librarianship and information technology / Associations, institutions+
+BAP i 300 - Librarianship and information technology / Legal bases, incl. commentaries+
+BAP i 400 - Librarianship and information technology / Planning, organisation, supervision+
+BAP i 500 - Librarianship and information technology / Codes, classification systems, thesauri+
+BAP i 600 - Librarianship and information technology / Electronic information and communications technology+
+BAP i 620 - Librarianship and information technology / Electronic information and communications technology / Digital library, electronic library+
+BAP i 630 - Librarianship and information technology / Electronic information and communications technology / Electronic journals+
+BAP i 640 - Librarianship and information technology / Electronic information and communications technology / E-Books+
+BAP i 650 - Librarianship and information technology / Electronic information and communications technology / Electronic publishing+
+BAP i 660 - Librarianship and information technology / Electronic information and communications technology / Open Access+
+BAP i 700 - Librarianship and information technology / Library software+
+BAP i 800 - Librarianship and information technology / Database usage+
+BAP i 900 - Librarianship and information technology / Library construction, safety and technology+
+BAP k 100 - Professional practice, personnel matters, communication techniques / Professional practice, labor economics+
+BAP k 105 - Professional practice, personnel matters, communication techniques / Professional practice, labor economics / General information and history+
+BAP k 110 - Professional practice, personnel matters, communication techniques / Professional practice, labor economics / Vocational training, career choice, career advice, job descriptions+
+BAP k 120 - Professional practice, personnel matters, communication techniques / Professional practice, labor economics / Apprenticeship, further training, adult education+
+BAP k 130 - Professional practice, personnel matters, communication techniques / Professional practice, labor economics / Employment provision, job market+
+BAP k 140 - Professional practice, personnel matters, communication techniques / Professional practice, labor economics / Employee-employer-relations, standard wage negotiations+
+BAP k 150 - Professional practice, personnel matters, communication techniques / Professional practice, labor economics / Ergonomics+
+BAP k 200 - Professional practice, personnel matters, communication techniques / Personnel matters+
+BAP k 205 - Professional practice, personnel matters, communication techniques / Personnel matters / General information and history+
+BAP k 210 - Professional practice, personnel matters, communication techniques / Personnel matters / Personnel planning, personnel policy, personnel administration+
+BAP k 220 - Professional practice, personnel matters, communication techniques / Personnel matters / Human relations, working atmosphere+
+BAP k 230 - Professional practice, personnel matters, communication techniques / Personnel matters / Job evaluation, wage types+
+BAP k 300 - Professional practice, personnel matters, communication techniques / Communication techniques, techniques of creativity, practical guides+
+BAP k 305 - Professional practice, personnel matters, communication techniques / Communication techniques, techniques of creativity, practical guides / General+
+BAP k 310 - Professional practice, personnel matters, communication techniques / Communication techniques, techniques of creativity, practical guides / Rhetoric, negotiating, moderating+
+BAP k 320 - Professional practice, personnel matters, communication techniques / Communication techniques, techniques of creativity, practical guides / Writing and publishing (author)+
+BAP k 330 - Professional practice, personnel matters, communication techniques / Communication techniques, techniques of creativity, practical guides / Networking+
+BAP k 340 - Professional practice, personnel matters, communication techniques / Communication techniques, techniques of creativity, practical guides / Practice of leadership+
+BAP k 350 - Professional practice, personnel matters, communication techniques / Communication techniques, techniques of creativity, practical guides / Project management+
+BAP k 360 - Professional practice, personnel matters, communication techniques / Communication techniques, techniques of creativity, practical guides / Self-management, time-management+
+BAP k 370 - Professional practice, personnel matters, communication techniques / Communication techniques, techniques of creativity, practical guides / Techniques of creativity+
+BAP k 380 - Professional practice, personnel matters, communication techniques / Communication techniques, techniques of creativity, practical guides / Practical guides+
+BAP k 400 - Professional practice, personnel matters, communication techniques / Equal opportunities, equal rights+
+BAP k 405 - Professional practice, personnel matters, communication techniques / Equal opportunities, equal rights / General information and history+
+BAP k 410 - Professional practice, personnel matters, communication techniques / Equal opportunities, equal rights / Women professionals+
+BAP k 420 - Professional practice, personnel matters, communication techniques / Equal opportunities, equal rights / Equal opportunities+
+ENG a 100 - General / Information material+
+ENG a 1000 - General / Basics of energy+
+ENG a 1100 - General / Research+
+ENG a 1200 - General / Corporations, institutions+
+ENG a 1300 - General / Archives, collections+
+ENG a 1400 - General / Apprenticeship, profession, further training+
+ENG a 200 - General / Dictionaries, reference works, encyclopaedias+
+ENG a 300 - General / Directories+
+ENG a 400 - General / Statistics, tables, data+
+ENG a 500 - General / Norms, guidelines+
+ENG a 600 - General / Congress and convention proceedings+
+ENG a 700 - General / Maps, atlases+
+ENG a 800 - General / History of energy+
+ENG a 900 - General / Comprehensive accounts+
+ENG a 950 - General / Comprehensive accounts / Country-related (comprehensive) accounts+
+ENG b 100 - Special items / General. Basics of the energy sector+
+ENG b 200 - Special items / Energy transformation, power production+
+ENG b 205 - Special items / Energy transformation, power production / General+
+ENG b 210 - Special items / Energy transformation, power production / Generation and processing of gas+
+ENG b 211 - Special items / Energy transformation, power production / Extraction and processing of petroleum+
+ENG b 215 - Special items / Energy transformation, power production / Fuel and combusting technology+
+ENG b 220 - Special items / Energy transformation, power production / Electric energy, electricity, electricity supply industry+
+ENG b 225 - Special items / Energy transformation, power production / Thermal energy technology, heat economy, heat generation+
+ENG b 230 - Special items / Energy transformation, power production / Energy and heat generation plants+
+ENG b 235 - Special items / Energy transformation, power production / Light engineering, light generation, lighting technology+
+ENG b 240 - Special items / Energy transformation, power production / Nuclear power+
+ENG b 245 - Special items / Energy transformation, power production / Power plant construction and operation, general+
+ENG b 250 - Special items / Energy transformation, power production / Construction and operation of plants and tools for renewable energy sources+
+ENG b 300 - Special items / Energy storage+
+ENG b 305 - Special items / Energy storage / General+
+ENG b 310 - Special items / Energy storage / Hydrogen storage+
+ENG b 315 - Special items / Energy storage / Emergency power supply stations, stationary and mobile standby set+
+ENG b 320 - Special items / Energy storage / Direct energy converter+
+ENG b 400 - Special items / Energy transport+
+ENG b 500 - Special items / Energy trade+
+ENG b 600 - Special items / Energy carriers, raw materials+
+ENG b 605 - Special items / Energy carriers, raw materials / General+
+ENG b 610 - Special items / Energy carriers, raw materials / Primary energy carriers, primary energy+
+ENG b 611 - Special items / Energy carriers, raw materials / Primary energy carriers, primary energy / Fossil fuels+
+ENG b 612 - Special items / Energy carriers, raw materials / Primary energy carriers, primary energy / Renewable energy sources+
+ENG b 613 - Special items / Energy carriers, raw materials / Primary energy carriers, primary energy / Nuclear energy carriers+
+ENG b 620 - Special items / Energy carriers, raw materials / Secondary energy carriers, secondary energy+
+ENG b 621 - Special items / Energy carriers, raw materials / Secondary energy carriers, secondary energy / Electrical power+
+ENG b 622 - Special items / Energy carriers, raw materials / Secondary energy carriers, secondary energy / Domestic fuel oil, petrol, diesel oil, briquettes, liquefied gas+
+ENG b 623 - Special items / Energy carriers, raw materials / Secondary energy carriers, secondary energy / District heating+
+ENG b 630 - Special items / Energy carriers, raw materials / Commodity reserves and natural resources+
+ENG b 700 - Special items / Mining; coal, iron and steel industry; metallurgy+
+ENG b 705 - Special items / Mining; coal, iron and steel industry; metallurgy / General+
+ENG b 710 - Special items / Mining; coal, iron and steel industry; metallurgy / History of mining and metallurgy+
+ENG b 715 - Special items / Mining; coal, iron and steel industry; metallurgy / Mining+
+ENG b 720 - Special items / Mining; coal, iron and steel industry; metallurgy / Mining lore+
+ENG b 725 - Special items / Mining; coal, iron and steel industry; metallurgy / Mining areas+
+ENG b 730 - Special items / Mining; coal, iron and steel industry; metallurgy / Treatment+
+ENG b 735 - Special items / Mining; coal, iron and steel industry; metallurgy / Transport+
+ENG b 740 - Special items / Mining; coal, iron and steel industry; metallurgy / Concomitant phenomena, safety, damages, accidents+
+ENG b 745 - Special items / Mining; coal, iron and steel industry; metallurgy / Repository and raw materials+
+ENG b 750 - Special items / Mining; coal, iron and steel industry; metallurgy / Metallurgy+
+ENG b 800 - Special items / Comparison of several items+
+ENG d 100 - Goals and problems / General+
+ENG d 1000 - Goals and problems / Protection, safety, security+
+ENG d 1100 - Goals and problems / Consequences of obtaining energy+
+ENG d 200 - Goals and problems / Coordination and coordination deficits+
+ENG d 250 - Special items / Mining; coal, iron and steel industry; metallurgy / Questions of competition policy+
+ENG d 300 - Goals and problems / Distribution+
+ENG d 400 - Goals and problems / Inalienability and security of supply+
+ENG d 500 - Goals and problems / Conflict-solving+
+ENG d 600 - Goals and problems / Information and risk problems+
+ENG d 700 - Goals and problems / Temporal dimension+
+ENG d 800 - Goals and problems / Operationaliszation of goals+
+ENG d 900 - Goals and problems / Energy consumption+
+ENG f 100 - Instruments / General+
+ENG f 200 - Instruments / Market structure+
+ENG f 300 - Instruments / Market behavior+
+ENG f 310 - Instruments / Market behavior / General and comparative+
+ENG f 320 - Instruments / Market behavior / Positive regulation+
+ENG f 330 - Instruments / Market behavior / Negative regulation+
+ENG f 340 - Instruments / Market behavior / Incentives+
+ENG f 350 - Instruments / Market behavior / Entrepreneurial state action+
+ENG f 360 - Instruments / Market behavior / State information action+
+ENG f 370 - Instruments / Market behavior / Regulation through organizations and proceedings+
+ENG f 400 - Instruments / Market behavior /+
+ENG f 500 - Instruments / Energy supply, energy distribution networks+
+ENG f 505 - Instruments / Market behavior / General+
+ENG f 510 - Instruments / Energy supply, energy distribution networks / Electricity industry, electricity network+
+ENG f 520 - Instruments / Energy supply, energy distribution networks / Gas industry, gas network+
+ENG f 530 - Instruments / Energy supply, energy distribution networks / Heat economy, district heating network+
+ENG f 540 - Instruments / Energy supply, energy distribution networks / Oil industry+
+ENG h 100 - Actors / General+
+ENG h 200 - Actors / Governmental organizations+
+ENG h 210 - Actors / Governmental organizations / United Nations+
+ENG h 220 - Actors / Governmental organizations / European Union+
+ENG h 230 - Actors / Governmental organizations / States, governments+
+ENG h 240 - Actors / Governmental organizations / Federal states+
+ENG h 250 - Actors / Governmental organizations / Local authorities+
+ENG h 300 - Actors / Non-governmental organizations+
+ENG h 310 - Actors / Non-governmental organizations / Associations+
+ENG h 320 - Actors / Non-governmental organizations / Parties+
+ENG h 330 - Actors / Non-governmental organizations / The public, the media+
+ENG h 340 - Actors / Non-governmental organizations / Private business+
+ENG h 350 - Actors / Non-governmental organizations / Petroleum industry, coal industry, gas industry+
+ENG h 360 - Actors / Non-governmental organizations / Energy providers, utility companies+
+ENG h 363 - Actors / Non-governmental organizations / Transmission providers+
+ENG k 100 - Proceedings, decision processes and proceedings / General+
+ENG k 200 - Proceedings, decision processes and proceedings / Energy industry law+
+ENG k 300 - Proceedings, decision processes and proceedings / Mining law+
+ENG k 400 - Proceedings, decision processes and proceedings / Nuclear law+
+ENG p 100 - Political economy / General+
+ENG p 200 - Political economy / Politics, economy, financing+
+ENG p 205 - Political economy / Politics, economy, financing / General+
+ENG p 210 - Political economy / Politics, economy, financing / Energy policy+
+ENG p 215 - Political economy / Politics, economy, financing / Energy industry, industry and energy+
+ENG p 220 - Political economy / Politics, economy, financing / Financing, cost, insurance+
+ENG r 100 - International / General+
+ENG r 200 - International / Treaties and agreements relating to public international law+
+ENG r 300 - International / International regimes+
+ENG r 400 - International / Multilevel analysis+
+ENG r 500 - International / International cooperation+
+FIN a 100 - General / Information material+
+FIN a 1000 - General / Comprehensive accounts+
+FIN a 1100 - General / Research+
+FIN a 1200 - General / Corporations, institutions+
+FIN a 1300 - General / Archives, collections+
+FIN a 1400 - General / Apprenticeship, profession, further training+
+FIN a 200 - General / Dictionaries, reference works, encyclopaedias+
+FIN a 300 - General / Directories+
+FIN a 400 - General / Statistics, tables, data+
+FIN a 500 - General / Norms, guidelines+
+FIN a 600 - General / Congress and convention proceedings+
+FIN a 700 - General / Maps, atlases+
+FIN a 800 - General / History of finance+
+FIN a 900 - General / Comprehensive accounts+
+FIN a 950 - General / Comprehensive accounts / Country-related (comprehensive) accounts+
+FIN b 100 - Special items / General+
+FIN b 1000 - Special items / Calculation+
+FIN b 200 - Special items / Financial market+
+FIN b 205 - Special items / Financial market / General+
+FIN b 210 - Special items / Financial market / Foreign exchange markets+
+FIN b 215 - Special items / Financial market / Money markets+
+FIN b 220 - Special items / Financial market / Capital markets+
+FIN b 225 - Special items / Financial market / Credit markets+
+FIN b 230 - Special items / Financial market / Financial analysis+
+FIN b 300 - Special items / Monetary system, money, currency+
+FIN b 305 - Special items / Monetary system, money, currency / General. History+
+FIN b 310 - Special items / Monetary system, money, currency+
+FIN b 315 - Special items / Monetary system, money, currency / Methods of payment and payment transactions+
+FIN b 320 - Special items / Monetary system, money, currency / Amount of money, velocity of circulation, demand for money+
+FIN b 325 - Special items / Monetary system, money, currency / Currency standards, covering rules+
+FIN b 330 - Special items / Monetary system, money, currency+
+FIN b 335 - Special items / Monetary system, money, currency / Transaction costs+
+FIN b 340 - Special items / Monetary system, money, currency / Currency reforms+
+FIN b 345 - Special items / Monetary system, money, currency / Monetary unions+
+FIN b 400 - Special items / Banking, banking system, credit system+
+FIN b 405 - Special items / Banking, banking system, credit system / General. History+
+FIN b 410 - Special items / Banking, banking sysem, credit system / Capital investment, investment advice, investor behavior, administration of assets+
+FIN b 415 - Special items / Banking, banking system, credit system / Banking management+
+FIN b 420 - Special items / Banking, banking system, credit system / Portfolio analysis and management+
+FIN b 425 - Special items / Banking, banking system, credit system / Information technologies in the banking sector, E-finance+
+FIN b 450 - Special items / Banking, banking system, credit system / Credit institutions+
+FIN b 451 - Special items / Banking, banking system, credit system / Credit institutions / General+
+FIN b 452 - Special items / Banking, banking system, credit system / Credit institutions / Commercial banks+
+FIN b 453 - Special items / Banking, banking system, credit system / Credit institutions / International Monetary Fund (IMF)+
+FIN b 454 - Special items / Banking, banking system, credit system / Credit institutions / Bank for International Settlements+
+FIN b 455 - Special items / Banking, banking system, credit system / Credit institutions / World Bank, World Bank Group+
+FIN b 460 - Special items / Banking, banking system, credit system / Non-bank+
+FIN b 462 - Special items / Banking, banking system, credit system / Non-bank / Capital collection points in the non-bank sector+
+FIN b 500 - Special items / Stock market+
+FIN b 505 - Special items / Stock market / General. History+
+FIN b 510 - Special items / Stock market / Stock trading+
+FIN b 515 - Special items / Stock market / Foreign exchange trade, foreign currency+
+FIN b 520 - Special items / Stock market / Securities trading+
+FIN b 600 - Special items / Financial products+
+FIN b 605 - Special items / Financial products / General+
+FIN b 610 - Special items / Financial products / Credits+
+FIN b 615 - Special items / Financial products / Shares+
+FIN b 620 - Special items / Financial products / Bond loans, pensions+
+FIN b 625 - Special items / Financial products / Funds+
+FIN b 630 - Special items / Financial productss / Insurance, insurance business+
+FIN b 635 - Special items / Financial products / Derivative financial instruments+
+FIN b 700 - Special items / Comparison of several items+
+FIN b 800 - Special items / Finance and accountancy+
+FIN b 805 - Special items / Finance and accountancy / General+
+FIN b 810 - Special items / Finance and accountancy / Accountancy+
+FIN b 815 - Special items / Finance and accountancy / Treasury+
+FIN b 820 - Special items / Finance and accountancy / Liquidity protection, liquidity+
+FIN b 900 - Special items / Administrative accounting, financial accounting+
+FIN b 905 - Special items / Administrative accounting, financial accounting / General+
+FIN b 910 - Special items / Aministrative accounting, financial accounting / Balance sheets, accounting theory+
+FIN b 915 - Special items / Administrative accounting, financial accounting / Special forms of accounting+
+FIN d 100 - Goals and problems / General+
+FIN d 200 - Goals and problems / Coordination and coordination deficits+
+FIN d 250 - Goals and problems / Coordination and coordination deficits / Questions of competition policy+
+FIN d 300 - Goals and problems / Distribution+
+FIN d 400 - Goals and problems / Investor protection+
+FIN d 500 - Goals and problems / Conflict-solving+
+FIN d 600 - Goals and problems / Information risk and problems+
+FIN d 700 - Goals and problems / Temporal dimension+
+FIN d 800 - Goals and problems / Operationalization of goals+
+FIN d 900 - Goals and problems / Financial crises+
+FIN d 905 - Goals and problems / Financial crises / General+
+FIN d 910 - Goals and problems / Financial crises / Banking crises+
+FIN d 915 - Goals and problems / Financial crises / Currency crises+
+FIN f 100 - Instruments / General+
+FIN f 200 - Instruments / Market structure+
+FIN f 300 - Instruments / Market behavior+
+FIN f 310 - Instruments / Market behavior / General and comparative+
+FIN f 320 - Instruments / Market behavior / Positive regulation+
+FIN f 330 - Instruments / Market behavior / Negative regulation+
+FIN f 340 - Instruments / Market behavior / Incentives+
+FIN f 350 - Instruments / Market behavior / Entrepreneurial state action+
+FIN f 360 - Instruments / Market behavior / State information action+
+FIN f 370 - Instruments / Market behavior / Regulation through organizations and proceedings+
+FIN f 372 - Instruments / Market behavior / Regulation through organizations and proceedings / Capital market regulation+
+FIN f 400 - Instruments / Market result+
+FIN f 500 - Instruments / Controlling+
+FIN h 100 - Actors / General+
+FIN h 200 - Actors / Governmental organizations+
+FIN h 210 - Actors / Governmental organizations / United Nations+
+FIN h 220 - Actors / Governmental organizations / European Union+
+FIN h 230 - Actors / Governmental organizations / States, governments+
+FIN h 240 - Actors / Governmental organizations / Federal states+
+FIN h 250 - Actors / Governmental organizations / Local authorities+
+FIN h 260 - Actors / Governmental organizations / Emitter, Central Bank, Federal Reserve+
+FIN h 300 - Actors / Non-governmental organizations+
+FIN h 310 - Actors / Non-governmental organizations / Associations+
+FIN h 320 - Actors / Non-governmental organizations / Parties+
+FIN h 330 - Actors / Non-governmental organizations / The public, the media+
+FIN h 340 - Actors / Non-governmental organizations / Private business+
+FIN h 400 - Actors / Financial market actors+
+FIN h 405 - Actors / Financial market actors / General+
+FIN h 410 - Actors / Financial market actors / Broker, stockbroker+
+FIN h 415 - Actors / Financial market actors / Insurer, insurance, insured party+
+FIN h 420 - Actors / Financial market actors / Rating agencies+
+FIN h 425 - Actors / Financial market actors / Investors+
+FIN h 430 - Actors / Financial market actors / Business manager, Chief Fiancial Officer+
+FIN h 435 - Actors / Financial market actors / Pension fund+
+FIN k 100 - Proceedings, decision processes and proceedings / General+
+FIN k 200 - Proceedings, decision processes and proceedings / Stock corporation law, investment law+
+FIN k 300 - Proceedings, decision processes and proceedings / Stock corporation law+
+FIN k 400 - Proceedings, decision processes and proceedings / Exchange law+
+FIN k 500 - Proceedings, decision processes and proceedings / Law on securities+
+FIN k 600 - Proceedings, decision processes and proceedings / Insider law+
+FIN k 700 - Proceedings, decision processes and proceedings / Insurance law, insurance contract law+
+FIN p 100 - Political economy / General+
+FIN p 200 - Political economy / Politics, economy+
+FIN p 205 - Political economy / Politics, economy / General+
+FIN p 210 - Political economy / Politics, economy / Economics and Finance+
+FIN p 215 - Political economy / Politics, economy / Cognitive economics. Economic behavior. Man and the economy. Behavioral economics+
+FIN p 220 - Political economy / Politics, economy / Corporate finance+
+FIN p 221 - Political economy / Politics, economy / Corporate finance / General+
+FIN p 223 - Political economy / Politics, economy / Corporate finance / Investment+
+FIN p 224 - Political economy / Politics, economy / Corporate finance / Financing+
+FIN p 225 - Political economy / Politics, economy / Corporate finance / Risk management+
+FIN p 226 - Political economy / Politics, economy / Corporate finance / Portfolio theory+
+FIN p 227 - Political economy / Politics, economy / Corporate finance / Capital asset pricing model+
+FIN p 228 - Political economy / Politics, economy / Corporate finance / Option pricing theory+
+FIN r 100 - International / General+
+FIN r 200 - International / Treaties and agreements relating to public international law+
+FIN r 300 - International / International regimes+
+FIN r 400 - International / Multilevel analysis+
+FIN r 500 - International / International cooperation+
+FIN r 600 - International / International banking law, stock exchange law, capital market law, law of the credit system+
+FIN r 700 - International / Internationalization of financial markets, international money and capital markets+
+FIN r 800 - International / International currency trade, international currency policy+
+GES a 100 - General / General accounts on history+
+JUR a 100 - General / Comprehensive accounts, general legal system, cross-section+
+JUR a 200 - General / Study and training, profession+
+JUR a 300 - General / Introductions and comprehensive accounts of the laws of other countries+
+JUR b 100 - Law gazettes, official bulletins / EC, EU+
+JUR b 200 - Law gazettes, official bulletins / FRG+
+JUR b 300 - Law gazettes, official bulletins / Federal states+
+JUR d 100 - Civil law, general private law / General+
+JUR d 1000 - Civil law, general private law / Federal High Court of Justice+
+JUR d 101 - Civil law, general private law / General / Text and decision collections+
+JUR d 102 - Civil law, general private law / General / Draft bills, materials, reform literature and history of the field of law+
+JUR d 103 - Civil law, general private law / General / Dictionaries, reference works, instruction books, case collections, finding lists, aids, synopses of jurisprudence+
+JUR d 104 - Civil law, general private law / General / Congress and convention proceedings+
+JUR d 105 - Civil law, general private law / General / Commentaries, annotated editions+
+JUR d 106 - Civil law, general private law / General / Comprehensive accounts: introductions, compendia, manuals, textbooks, collections+
+JUR d 107 - Civil law, general private law / General / Foreign and comparative law+
+JUR d 108 - Civil law, general private law / General / Aspects of European law+
+JUR d 109 - Civil law, general private law / General / Special aspects+
+JUR d 200 - Civil law, general private law / General section of the German Civil Code+
+JUR d 210 - Civil law, general private law / General section of the German Civil Code / Natural persons+
+JUR d 220 - Civil law, general private law / General section of the German Civil Code / Legal persons, law of the associations of persons+
+JUR d 230 - Civil law, general private law / General section of the German Civil Code / Legal transactions, declaration of intent, absence of intent, representation+
+JUR d 240 - Civil law, general private law / General section of the German Civil Code / Contract, law of contract+
+JUR d 300 - Civil law, general private law / Law of obligations+
+JUR d 310 - Civil law, general private law / Law of obligations / Law of obligations, general+
+JUR d 320 - Civil law, general private law / Law of obligations / Individual obligations+
+JUR d 330 - Civil law, general private law / Law of obligations / Unjustified enrichment and tortious acts+
+JUR d 500 - Civil law, general private law / Property law+
+JUR d 600 - Civil law, general private law / Family law+
+JUR d 700 - Civil law, general private law / Law of succession+
+JUR d 800 - Civil law, general private law / Introductory law of the Civil Code without conflict of laws, implementing statutes and regulations concerning the Civil Code+
+JUR d 900 - Civil law, general private law / Civil-law supplementary statutes and consumer protection laws+
+JUR f 100 - Commercial law, corporate law, business law, other private commercial law / General+
+JUR f 101 - Commercial law, corporate law, business law, other private commercial law / General / Text and decision collections+
+JUR f 102 - Commercial law, corporate law, business law, other private commercial law / General / Draft bills, materials, reform literature and history of the field of law+
+JUR f 103 - Commercial law, corporate law, business law, other private commercial law / General / Dictionaries, reference works, instruction books, case collections, finding lists, aids, synopses of jurisprudence+
+JUR f 104 - Commercial law, corporate law, business law, other private commercial law / General / Congress and convention proceedings+
+JUR f 105 - Commercial law, corporate law, business law, other private commercial law / General / Commentaries, annotated editions+
+JUR f 106 - Commercial law, corporate law, business law, other private commercial law / General / Comprehensive accounts: introductions, compendia, manuals, textbooks, collections+
+JUR f 107 - Commercial law, corporate law, business law, other private commercial law / General / Foreign and comparative law+
+JUR f 108 - Commercial law, corporate law, business law, other private commercial law / General / Aspects of European law+
+JUR f 109 - Commercial law, corporate law, business law, other private commercial law / General / Special aspects+
+JUR f 110 - Commercial law, corporate law, business law, other private commercial law / General / International aspects+
+JUR f 200 - Commercial law, corporate law, business law, other private commercial law / Commercial law+
+JUR f 210 - Commercial law, corporate law, business law, other private commercial law / Commercial law / General+
+JUR f 211 - Commercial law, corporate law, business law, other private commercial law / Commercial law / Text and decision collections+
+JUR f 212 - Commercial law, corporate law, business law, other private commercial law / Commercial law / Draft bills, materials, reform literature and history of the field of law+
+JUR f 213 - Commercial law, corporate law, business law, other private commercial law / Commercial law / Dictionaries, reference works, instruction books, case collections, finding lists, aids, synopses of jurisprudence+
+JUR f 214 - Commercial law, corporate law, business law, other private commercial law / Commercial law / Congress and convention proceedings+
+JUR f 215 - Commercial law, corporate law, business law, other private commercial law / Commercial law / Commentaries, annotated editions+
+JUR f 216 - Commercial law, corporate law, business law, other private commercial law / Commercial law / Comprehensive accounts: introductions, compendia, manuals, textbooks, collections+
+JUR f 217 - Commercial law, corporate law, business law, other private commercial law / Commercial law / Foreign and comparative law, foreign trade law+
+JUR f 218 - Commercial law, corporate law, business law, other private commercial law / Commercial law / Aspects of European law+
+JUR f 220 - Commercial law, corporate law, business law, other private commercial law / Commercial law / Individual accounts on comprehensive subjects+
+JUR f 230 - Commercial law, corporate law, business law, other private commercial law / Commercial law / Persons of commercial law, particular obligations of the merchant+
+JUR f 240 - Commercial law, corporate law, business law, other private commercial law / Commercial law / Commercial books, commercial balance sheet law+
+JUR f 250 - Commercial law, corporate law, business law, other private commercial law / Commercial law / Commercial transactions+
+JUR f 260 - Commercial law, corporate law, business law, other private commercial law / Commercial law / Commercial arbitration+
+JUR f 300 - Commercial law, corporate law, business law, other private commercial law / Corporate and business law+
+JUR f 310 - Commercial law, corporate law, business law, other private commercial law / Corporate and business law / General+
+JUR f 311 - Commercial law, corporate law, business law, other private commercial law / Corporate and business law / Text and decision collections+
+JUR f 312 - Commercial law, corporate law, business law, other private commercial law / Corporate and business law / Draft bills, materials, reform literature and history of the field of law+
+JUR f 313 - Commercial law, corporate law, business law, other private commercial law / Corporate and business law / Dictionaries, reference works, instruction books, case collections, finding lists, aids, synopses of jurisprudence+
+JUR f 314 - Commercial law, corporate law, business law, other private commercial law / Corporate and business law / Congress and convention proceedings+
+JUR f 315 - Commercial law, corporate law, business law, other private commercial law / Corporate and business law / Commentaries, annotated editions+
+JUR f 316 - Commercial law, corporate law, business law, other private commercial law / Corporate and business law / Comprehensive accounts: introductions, compendia, manuals, textbooks, collections+
+JUR f 317 - Commercial law, corporate law, business law, other private commercial law / Corporate and business law / Foreign and comparative law+
+JUR f 318 - Commercial law, corporate law, business law, other private commercial law / Corporate and business law / Aspects of European law+
+JUR f 319 - Commercial law, corporate law, business law, other private commercial law / Corporate and business law / Special aspects+
+JUR f 320 - Commercial law, corporate law, business law, other private commercial law / Corporate and business law / Partnerships+
+JUR f 330 - Commercial law, corporate law, business law, other private commercial law / Corporate and business law / Corporations+
+JUR f 331 - Commercial law, corporate law, business law, other private commercial law / Corporate and business law / Stock corporations+
+JUR f 332 - Commercial law, corporate law, business law, other private commercial law / Corporate and business law / Partnership limited by shares+
+JUR f 333 - Commercial law, corporate law, business law, other private commercial law / Corporate and business law / Limited liability company, close corporation+
+JUR f 360 - Commercial law, corporate law, business law, other private commercial law / Corporate and business law / Cooperative society and profit-making association+
+JUR f 370 - Commercial law, corporate law, business law, other private commercial law / Corporate and business law / Other corporations+
+JUR f 380 - Commercial law, corporate law, business law, other private commercial law / Corporate and business law / Law of associated enterprises, law concerning groups of companies+
+JUR f 400 - Commercial law, corporate law, business law, other private commercial law / Law of private insurance+
+JUR f 500 - Commercial law, corporate law, business law, other private commercial law / Protection of industrial property and copyright+
+JUR f 510 - Commercial law, corporate law, business law, other private commercial law / Protection of industrial property and copyright / Law of inventions, patent law+
+JUR f 520 - Commercial law, corporate law, business law, other private commercial law / Protection of industrial property and copyright / Utility models and design+
+JUR f 530 - Commercial law, corporate law, business law, other private commercial law / Protection of industrial property and copyright / Intangible property rights, trademark law+
+JUR f 540 - Commercial law, corporate law, business law, other private commercial law / Protection of industrial property and copyright / Copyright, law of contract+
+JUR f 560 - Commercial law, corporate law, business law, other private commercial law / Protection of industrial property and copyright / Product liability, liability law+
+JUR f 600 - Commercial law, corporate law, business law, other private commercial law / Competition law+
+JUR f 601 - Commercial law, corporate law, business law, other private commercial law / Competition law / Text and decision collections+
+JUR f 602 - Commercial law, corporate law, business law, other private commercial law / Competition law / Draft bills, materials, reform literature and history of the field of law+
+JUR f 603 - Commercial law, corporate law, business law, other private commercial law / Competition law / Dictionaries, reference works, instruction books, case collections, finding lists, aids, synopses of jurisprudence+
+JUR f 604 - Commercial law, corporate law, business law, other private commercial law / Competition law / Congress and convention proceedings+
+JUR f 605 - Commercial law, corporate law, business law, other private commercial law / Competition law / Commentaries, annotated editions+
+JUR f 606 - Commercial law, corporate law, business law, other private commercial law / Competition law / Comprehensive accounts: introductions, compendia, manuals, textbooks, collections+
+JUR f 607 - Commercial law, corporate law, business law, other private commercial law / Competition law / Foreign and comparative law+
+JUR f 608 - Commercial law, corporate law, business law, other private commercial law / Competition law / Aspects of European law+
+JUR f 609 - Commercial law, corporate law, business law, other private commercial law / Competition law / Special aspects+
+JUR f 610 - Commercial law, corporate law, business law, other private commercial law / Competition law / Antitrust law, law against restraint of competition+
+JUR f 613 - Commercial law, corporate law, business law, other private commercial law / Competition law / Main and special reports of the Monopolies Commission+
+JUR f 615 - Commercial law, corporate law, business law, other private commercial law / Competition law / Intellectual property rights+
+JUR f 620 - Commercial law, corporate law, business law, other private commercial law / Competition law / Law on unfair competition, law on advertising, law on discounts (rebates) and allowances, rules of fair trading+
+JUR h 100 - Labor law, social law / Labor law+
+JUR h 110 - Labor law, social law / Labor law / General+
+JUR h 111 - Labor law, social law / Labor law / Text and decision collections+
+JUR h 112 - Labor law, social law / Labor law / Draft bills, materials, reform literature and history of the field of law+
+JUR h 113 - Labor law, social law / Labor law / Dictionaries, reference works, instruction books, case collections, finding lists, aids, synopses of jurisprudence+
+JUR h 114 - Labor law, social law / Labor law / Congress and convention proceedings+
+JUR h 115 - Labor law, social law / Labor law / Commentaries, annotated editions+
+JUR h 116 - Labor law, social law / Labor law / Comprehensive accounts: introductions, compendia, manuals, textbooks, collections+
+JUR h 117 - Labor law, social law / Labor law / Foreign and comparative law+
+JUR h 118 - Labor law, social law / Labor law / Aspects of European law+
+JUR h 119 - Labor law, social law / Labor law / Special aspects of labor law+
+JUR h 120 - Labor law, social law / Labor law / Individual labor law, employment relationship+
+JUR h 130 - Labor law, social law / Labor law / Collective labor law+
+JUR h 140 - Labor law, social law / Labor law / Job placement+
+JUR h 150 - Labor law, social law / Labor law / Employment promotion+
+JUR h 160 - Labor law, social law / Labor law / Labor Court+
+JUR h 200 - Labor law, social law / Social law+
+JUR h 210 - Labor law, social law / Social law / General+
+JUR h 211 - Labor law, social law / Social law / Text and decision collections+
+JUR h 212 - Labor law, social law / Social law / Draft bills, materials, reform literature and history of the field of law+
+JUR h 213 - Labor law, social law / Social law / Dictionaries, reference works, instruction books, case collections, finding lists, aids, synopses of jurisprudence+
+JUR h 214 - Labor law, social law / Social law / Congress and convention proceedings+
+JUR h 215 - Labor law, social law / Social law / Commentaries, annotated editions+
+JUR h 216 - Labor law, social law / Social law / Comprehensive accounts: introductions, compendia, manuals, textbooks, collections+
+JUR h 217 - Labor law, social law / Social law / Foreign and comparative law+
+JUR h 218 - Labor law, social law / Social law / Aspects of European law+
+JUR h 219 - Labor law, social law / Social law / Special aspects of social law: health law+
+JUR h 220 - Labor law, social law / Social law / Social security legislation+
+JUR h 230 - Labor law, social law / Social law / Benefit laws, social compensation+
+JUR h 240 - Labor law, social law / Social law / Social Welfare Law+
+JUR h 250 - Labor law, social law / Social law / Jurisdiction of the social courts+
+JUR k 100 - Judicature, organization of the court system, law on civil proceedings and related areas / General+
+JUR k 101 - Judicature, organization of the court system, law on civil proceedings and related areas / General / Text and decision collections+
+JUR k 102 - Judicature, organization of the court system, law on civil proceedings and related areas / General / Draft bills, materials, reform literature and history of the field of law+
+JUR k 103 - Judicature, organization of the court system, law on civil proceedings and related areas / General / Dictionaries, reference works, instruction books, case collections, finding lists, aids, synopses of jurisprudence+
+JUR k 104 - Judicature, organization of the court system, law on civil proceedings and related areas / General / Congress and convention proceedings+
+JUR k 105 - Judicature, organization of the court system, law on civil proceedings and related areas / General / Commentaries, annotated editions+
+JUR k 106 - Judicature, organization of the court system, law on civil proceedings and related areas / General / Comprehensive accounts: introductions, compendia, manuals, textbooks, collections+
+JUR k 107 - Judicature, organization of the court system, law on civil proceedings and related areas / General / Foreign and comparative law+
+JUR k 108 - Judicature, organization of the court system, law on civil proceedings and related areas / General / Aspects of European law+
+JUR k 109 - Judicature, organization of the court system, law on civil proceedings and related areas / General / Special aspects of judicature+
+JUR k 200 - Judicature, organization of the court system, law on civil proceedings and related areas / Organization of the court system, administration of justice, notarial matters, judicature, judicial reform+
+JUR k 300 - Judicature, organization of the court system, law on civil proceedings and related areas / Law of costs, legal aid, compensation payment in the area of judicature+
+JUR k 400 - Judicature, organization of the court system, law on civil proceedings and related areas / Civil proceedings, law on civil proceedings, Code of Civil Procedure, arbitration+
+JUR k 450 - Judicature, organization of the court system, law on civil proceedings and related areas / Arbitration, mediation+
+JUR k 500 - Judicature, organization of the court system, law on civil proceedings and related areas / Law on enforcement proceedings+
+JUR k 600 - Judicature, organization of the court system, law on civil proceedings and related areas / Insolvency law, bankruptcy law+
+JUR k 700 - Judicature, organization of the court system, law on civil proceedings and related areas / Voluntary jurisdiction+
+JUR k 800 - Judicature, organization of the court system, law on civil proceedings and related areas / International law on civil proceedings+
+JUR m 100 - Criminal law, law on criminal proceedings, criminology / General+
+JUR m 101 - Criminal law, law on criminal proceedings, criminology / General / Text and decision collections+
+JUR m 102 - Criminal law, law on criminal proceedings, criminology / General / Draft bills, materials, reform literature and history of the field of law+
+JUR m 103 - Criminal law, law on criminal proceedings, criminology / General / Dictionaries, reference works, instruction books, case collections, finding lists, aids, synopses of jurisprudence+
+JUR m 104 - Criminal law, law on criminal proceedings, criminology / General / Congress and convention proceedings+
+JUR m 105 - Criminal law, law on criminal proceedings, criminology / General / Commentaries, annotated editions+
+JUR m 106 - Criminal law, law on criminal proceedings, criminology / General / Comprehensive accounts: introductions, compendia, manuals, textbooks, collections+
+JUR m 107 - Criminal law, law on criminal proceedings, criminology / General / Foreign and comparative law+
+JUR m 108 - Criminal law, law on criminal proceedings, criminology / General / Aspects of European law+
+JUR m 109 - Criminal law, law on criminal proceedings, criminology / General / Special aspects of criminal law+
+JUR m 200 - Criminal law, law on criminal proceedings, criminology / History of criminal law, motives, reform efforts+
+JUR m 300 - Criminal law, law on criminal proceedings, criminology / Material criminal law+
+JUR m 400 - Criminal law, law on criminal proceedings, criminology / Law on criminal proceedings, criminal justice, mutual assistance in criminal matters, extradition law+
+JUR m 500 - Criminal law, law on criminal proceedings, criminology / Execution of a sentence, incl. probation assistance, prison (jail, correctional institution, penitiary), register of convictions+
+JUR m 600 - Criminal law, law on criminal proceedings, criminology / Comparative criminal law and law on criminal proceedings, incl. law on execution of a sentence+
+JUR m 700 - Criminal law, law on criminal proceedings, criminology / Foreign criminal law, foreign law on criminal proceedings+
+JUR m 800 - Criminal law, law on criminal proceedings, criminology / Criminology+
+JUR o 100 - Public law, constitutional law / General public law, in particular on constitutional law+
+JUR o 101 - Public law, constitutional law / General public law, in particular on constitutional law / Text and decision collections+
+JUR o 102 - Public law, constitutional law / General public law, in particular on constitutional law / Draft bills, materials, reform literature and history of the field of law+
+JUR o 103 - Public law, constitutional law / General public law, in particular on constitutional law / Dictionaries, reference works, instruction books, case collections, finding lists, aids, synopses of jurisprudence+
+JUR o 104 - Public law, constitutional law / General public law, in particular on constitutional law / Congress and convention proceedings+
+JUR o 105 - Public law, constitutional law / General public law, in particular on constitutional law / Commentaries, annotated editions+
+JUR o 106 - Public law, constitutional law / General public law, in particular on constitutional law / Comprehensive accounts: introductions, compendia, manuals, textbooks, collections+
+JUR o 107 - Public law, constitutional law / General public law, in particular on constitutional law / Foreign and comparative law+
+JUR o 108 - Public law, constitutional law / General public law, in particular on constitutional law / Aspects of European Law+
+JUR o 109 - Public law, constitutional law / General public law, in particular on constitutional law / Special aspects of constitutional law+
+JUR o 200 - Public law, constitutional law / Constitutional law before 1945+
+JUR o 300 - Public law, constitutional law / Constitution: law of state organization+
+JUR o 310 - Public law, constitutional law / Constitution: law of state organization / Fundamental norms of state+
+JUR o 320 - Public law, constitutional law / Constitution: law of state organization / Other questions+
+JUR o 400 - Public law, constitutional law / Grundgesetz: material constitutional law+
+JUR o 410 - Public law, constitutional law / Grundgesetz: material constitutional law / Fundamental rights, human rights+
+JUR o 411 - Public law, constitutional law / Grundgesetz: material constitutional law / Fundamental rights, human rights / General science of fundamental rights+
+JUR o 412 - Public law, constitutional law / Grundgesetz: material constitutional law / Fundamental rights, human rights / Individual fundamental rights+
+JUR o 413 - Public law, constitutional law / Grundgesetz: material constitutional law / Fundamental rights, human rights / Other questions+
+JUR o 500 - Public law, constitutional law / Land (Federal State) constitutional law+
+JUR o 600 - Public law, constitutional law / Constitutional jurisdiction of the Federal republic and the länder+
+JUR q 100 - Public law, constitutional law / General public law, in particular administrative law+
+JUR q 101 - Public law, constitutional law / General public law, in particular administrative law / Text and decision collections+
+JUR q 102 - Public law, constitutional law / General public law, in particular administrative law / Draft bills, materials, reform literature and history of the field of law+
+JUR q 103 - Public law, constitutional law / General public law, in particular administrative law / Dictionaries, reference works, instruction books, case collections, finding lists, aids, synopses of jurisprudence+
+JUR q 104 - Public law, constitutional law / General public law, in particular administrative law / Congress and convention proceedings+
+JUR q 105 - Public law, constitutional law / General public law, in particular administrative law / Commentaries, annotated editions+
+JUR q 106 - Public law, constitutional law / General public law, in particular administrative law / Comprehensive accounts: introductions, compendia, manuals, textbooks, collections+
+JUR q 200 - Public law, constitutional law / General administrative law+
+JUR q 210 - Public law, constitutional law / General administrative law / General+
+JUR q 211 - Public law, constitutional law / General administrative law / Text and decision collections+
+JUR q 212 - Public law, constitutional law / General administrative law / Draft bills, materials, reform literature and history of the field of law+
+JUR q 213 - Public law, constitutional law / General administrative law / Dictionaries, reference works, instruction books, case collections, finding lists, aids, synopses of jurisprudence+
+JUR q 214 - Public law, constitutional law / General administrative law / Congress and convention proceedings+
+JUR q 215 - Public law, constitutional law / General administrative law / Commentaries, annotated editions+
+JUR q 216 - Public law, constitutional law / General administrative law / Comprehensive accounts: introductions, compendia, manuals, textbooks, collections+
+JUR q 217 - Public law, constitutional law / General administrative law / Foreign and comparative law+
+JUR q 218 - Public law, constitutional law / General administrative law / Aspects of European law+
+JUR q 219 - Public law, constitutional law / General administrative law / Special aspects+
+JUR q 220 - Public law, constitutional law / General administrative law / Basic terms of administrative law+
+JUR q 230 - Public law, constitutional law / General administrative law / Organization of administration+
+JUR q 240 - Public law, constitutional law / General administrative law / Administrative actions+
+JUR q 250 - Public law, constitutional law / General administrative law / Administrative procedure and administrative enforcement+
+JUR q 260 - Public law, constitutional law / General administrative law / State liability law, compensation by the state+
+JUR q 300 - Public law, constitutional law / Special administrative law+
+JUR q 310 - Public law, constitutional law / Special administrative law / Local laws+
+JUR q 320 - Public law, constitutional law / Special administrative law / Right to danger prevention, police law and administrative law+
+JUR q 325 - Public law, constitutional law / Special administrative law / Law concerning aliens, right of asylum, law of asylum proceedings+
+JUR q 330 - Public law, constitutional law / Special administrative law / Building law+
+JUR q 340 - Public law, constitutional law / Special administrative law / Public service law, civil service law+
+JUR q 350 - Public law, constitutional law / Special administrative law / Right of way+
+JUR q 360 - Public law, constitutional law / Special administrative law / Law of schools, higher education, science; education+
+JUR q 370 - Public law, constitutional law / Special administrative law / Emergency legislation+
+JUR q 380 - Public law, constitutional law / Special administrative law / Data protection legislation+
+JUR q 390 - Public law, administative law / Special administrative law / Other special administrative law+
+JUR q 500 - Public law, administative law / Economic administrative law+
+JUR q 510 - Public law, administative law / Economic administrative law / General economic administrative law+
+JUR q 512 - Public law, administative law / Economic administrative law / Bases+
+JUR q 513 - Public law, administative law / Economic administrative law / Organization of economic administration+
+JUR q 514 - Public law, administative law / Economic administrative law / Proceedings+
+JUR q 515 - Public law, administative law / Economic administrative law / Special forms of action on the part of the economic administration+
+JUR q 516 - Public law, administative law / Economic administrative law / Economic activity of the public sector = law of public enterprises+
+JUR q 517 - Public law, administative law / Economic administrative law / Law of allocation, public contracts, procurement+
+JUR q 520 - Public law, administrative law / Special economic administrative law+
+JUR q 521 - Public law, administrative law / Special economic administrative law / Industrial law+
+JUR q 522 - Public law, administrative law / Special economic administrative law / Laws governing the industries of individual sectors+
+JUR q 523 - Public law, administrative law / Special economic administrative law / Subsidy law, incl. state aid monitoring+
+JUR q 524 - Public law, administrative law / Special economic administrative law / Law of foreign trade and payments, law of the administration of foreign trade and payments+
+JUR q 525 - Public law, administrative law / Special economic administrative law / Other+
+JUR q 600 - Public law, administrative law / Administrative jurisdiction, proceedings in contentious administrative matters+
+JUR q 610 - Public law, administrative law / Administrative jurisdiction, proceedings in contentious administrative matters / General+
+JUR q 611 - Public law, administrative law / Administrative jurisdiction, proceedings in contentious administrative matters / Text and decision collections+
+JUR q 612 - Public law, administrative law / Administrative jurisdiction, proceedings in contentious administrative matters / Draft bills, materials, reform literature and history of the field of law+
+JUR q 613 - Public law, administrative law / Administrative jurisdiction, proceedings in contentious administrative matters / Dictionaries, reference works, instruction books, case collections, finding lists, aids, synopses of jurisprudence+
+JUR q 614 - Public law, administrative law / Administrative jurisdiction, proceedings in contentious administrative matters / Congress and convention proceedings+
+JUR q 615 - Public law, administrative law / Administrative jurisdiction, proceedings in contentious administrative matters / Commentaries, annotated editions+
+JUR q 616 - Public law, administrative law / Administrative jurisdiction, proceedings in contentious administrative matters / Comprehensive accounts: introductions, compendia, manuals, textbooks, collections+
+JUR q 617 - Public law, administrative law / Administrative jurisdiction, proceedings in contentious administrative matters / Foreign and comparative law+
+JUR q 618 - Public law, administrative law / Administrative jurisdiction, proceedings in contentious administrative matters / Aspects of European law+
+JUR q 619 - Public law, administrative law / Administrative jurisdiction, proceedings in contentious administrative matters / Special aspects+
+JUR q 620 - Public law, administrative law / Administrative jurisdiction, proceedings in contentious administrative matters / Legal recourse and legal action+
+JUR q 630 - Public law, administrative law / Administrative jurisdiction, proceedings in contentious administrative matters / Judgment and legal effect+
+JUR q 640 - Public law, administrative law / Administrative jurisdiction, proceedings in contentious administrative matters / Appeal and readmission+
+JUR r 100 - Law of public finance, tax law and customs law / Law of public finance+
+JUR r 120 - Law of public finance, tax law and customs law / Law of public finance+
+JUR r 130 - Law of public finance, tax law and customs law / Law of public finance / Law of the administration of the finances+
+JUR r 140 - Law of public finance, tax law and customs law / Law of public finance / Law of public property+
+JUR r 150 - Law of public finance, tax law and customs law / Law of public finance / Law of national debt+
+JUR r 160 - Law of public finance, tax law and customs law / Law of public finance / Currency law+
+JUR r 200 - Law of public finance, tax law and custom law / Tax law+
+JUR r 210 - Law of public finance, tax law and custom law / Tax law / General+
+JUR r 211 - Law of public finance, tax law and custom law / Tax law / Text and decision collections+
+JUR r 212 - Law of public finance, tax law and custom law / Tax law / Draft bills, materials, reform literature and history of the field of law+
+JUR r 213 - Law of public finance, tax law and custom law / Tax law / Dictionaries, reference works, instruction books, case collections, finding lists, aids, synopses of jurisprudence+
+JUR r 214 - Law of public finance, tax law and custom law / Tax law / Congress and convention proceedings+
+JUR r 215 - Law of public finance, tax law and custom law / Tax law / Commentaries, annotated editions+
+JUR r 216 - Law of public finance, tax law and custom law / Tax law / Comprehensive accounts: introductions, compendia, manuals, textbooks, collections+
+JUR r 217 - Law of public finance, tax law and custom law / Tax law / Foreign and comparative law+
+JUR r 218 - Law of public finance, tax law and custom law / Tax law / Aspects of European law+
+JUR r 219 - Law of public finance, tax law and custom law / Tax law / Special aspects+
+JUR r 220 - Law of public finance, tax law and custom law / Tax law / Tax system law+
+JUR r 230 - Law of public finance, tax law and custom law / Tax law / General tax law+
+JUR r 240 - Law of public finance, tax law and custom law / Tax law / Individual tax types+
+JUR r 300 - Law of public finance, tax law and custom law / Custom law+
+JUR r 400 - Law of public finance, tax law and custom law / Law of monetary policy+
+JUR t 100 - Public international law / General+
+JUR t 101 - Public international law / General / Text and decision collections+
+JUR t 102 - Public international law / General / Draft bills, materials, reform literature and history of the field of law+
+JUR t 103 - Public international law / General / Dictionaries, reference works, instruction books, case collections, finding lists, aids, synopses of jurisprudence+
+JUR t 104 - Public international law / General / Congress and convention proceedings+
+JUR t 105 - Public international law / General / Commentaries, annotated editions+
+JUR t 106 - Public international law / General / Comprehensive accounts: introductions, compendia, manuals, textbooks, collections+
+JUR t 108 - Public international law / General / Aspects of European law+
+JUR t 109 - Public international law / General / Special aspects+
+JUR t 200 - Public international law / Definition, nature, theory of public international law+
+JUR t 300 - Public international law / General science of public international law+
+JUR t 310 - Public international law / General science of public international law / Sources relating to public international law+
+JUR t 320 - Public international law / General science of public international law / Liability in public international law+
+JUR t 330 - Public international law / General science of public international law / Subject of international law+
+JUR t 340 - Public international law / General science of public international law / Law enforcement+
+JUR t 350 - Public international law / General science of public international law / Humann rights and law relating to aliens+
+JUR t 400 - Public international law / Special section of public international law+
+JUR t 410 - Public international law / Special section of public international law / International law of the sea+
+JUR t 420 - Public international law / Special section of public international law / Law of aviation+
+JUR t 430 - Public international law / Special section of public international law / Space law+
+JUR t 440 - Public international law / Special section of public international law / Protection of property, intellectual property+
+JUR t 450 - Public international law / Special section of public international law / International commercial law, international trade law+
+JUR t 460 - Public international law / Special section of public international law / Trial of war criminals, law concerning refugees+
+JUR t 470 - Public international law / Special section of public international law / Other materials concerning international public law+
+JUR t 500 - Public international law / Special legal regimes+
+JUR t 510 - Public international law / Special legal regimes / WTO = World Trade Organization+
+JUR t 520 - Public international law / Special legal regimes / UN = United Nations+
+JUR t 530 - Public international law / Special legal regimes / Other+
+JUR t 600 - Public international law / Conflict settlement+
+JUR u 100 - European law / General+
+JUR u 101 - European law / General / Text and decision collections+
+JUR u 102 - European law / General / Draft bills, materials, reform literature and history of the field of law+
+JUR u 103 - European law / General / Dictionaries, reference works, instruction books, case collections, finding lists, aids, synopses of jurisprudence+
+JUR u 104 - European law / General / Congress and convention proceedings+
+JUR u 105 - European law / General / Commentaries, annotated editions+
+JUR u 106 - European law / General / Comprehensive accounts: introductions, compendia, manuals, textbooks, collections+
+JUR u 109 - European law / General / Special aspects+
+JUR u 200 - European law / European Communities, European Union+
+JUR u 210 - European law / European Communities, European Union / Organization and structure+
+JUR u 215 - European law / European Communities, European Union / Constitution+
+JUR u 220 - European law / European Communities, European Union / Harmonization of legislation and unification of law within an EC/EU framework. Comparative law pertaining to the legislation of member states. Relation of Community legislation to the legislation of member states+
+JUR u 221 - European law / European Communities, European Union / Harmonization of legislation and unification of law within an EC/EU framework. Comparative law pertaining to the legislation of member states. Relation of Community legislation to the legislation of member states / Civil law+
+JUR u 222 - European law / European Communities, European Union / Harmonization of legislation and unification of law within an EC/EU framework. Comparative law pertaining to the legislation of member states. Relation of Community legislation to the legislation of member states / Commercial law+
+JUR u 223 - European law / European Communities, European Union / Harmonization of legislation and unification of law within an EC/EU framework. Comparative law pertaining to the legislation of member states. Relation of Community legislation to the legislation of member states / Competition law+
+JUR u 224 - European law / European Communities, European Union / Harmonization of legislation and unification of law within an EC/EU framework. Comparative law pertaining to the legislation of member states. Relation of Community legislation to the legislation of member states / Constitutional law+
+JUR u 225 - European law / European Communities, European Union / Harmonization of legislation and unification of law within an EC/EU framework. Comparative law pertaining to the legislation of member states. Relation of Community legislation to the legislation of member states / Administrative law+
+JUR u 226 - European law / European Communities, European Union / Harmonization of legislation and unification of law within an EC/EU framework. Comparative law pertaining to the legislation of member states. Relation of Community legislation to the legislation of member states / Tax law, customs law, law of public finance+
+JUR u 227 - European law / European Communities, European Union / Harmonization of legislation and unification of law within an EC/EU framework. Comparative law pertaining to the legislation of member states. Relation of Community legislation to the legislation of member states / Social law, labor law+
+JUR u 228 - European law / European Communities, European Union / Harmonization of legislation and unification of law within an EC/EU framework. Comparative law pertaining to the legislation of member states. Relation of Community legislation to the legislation of member states / Criminal law+
+JUR u 229 - European law / European Communities, European Union / Harmonization of legislation and unification of law within an EC/EU framework. Comparative law pertaining to the legislation of member states. Relation of Community legislation to the legislation of member states / Other+
+JUR u 230 - European law / European Communities, European Union / Law of organization+
+JUR u 240 - European law / European Communities, European Union / Proceedings+
+JUR u 250 - European law / European Communities, European Union / Legal sources+
+JUR u 260 - European law / European Communities, European Union / Fundamental freedoms and economic system of the EC / EU+
+JUR u 270 - European law / European Communities, European Union / Procedural law, legal protection+
+JUR u 280 - European law / European Communities, European Union / Other+
+JUR w 100 - Conflict of laws provisions, private international law / General+
+JUR w 111 - Conflict of laws provisions, private international law / General / Text and decision collections+
+JUR w 112 - Conflict of laws provisions, private international law / General / Draft bills, materials, reform literature and history of the field of law+
+JUR w 113 - Conflict of laws provisions, private international law / General / Dictionaries, reference works, instruction books, case collections, finding lists, aids, synopses of jurisprudence+
+JUR w 114 - Conflict of laws provisions, private international law / General / Congress and convention proceedings+
+JUR w 115 - Conflict of laws provisions, private international law / General / Commentaries, annotated editions+
+JUR w 116 - Conflict of laws provisions, private international law / General / Comprehensive accounts: introductions, compendia, manuals, textbooks, collections+
+JUR w 119 - Conflict of laws provisions, private international law / General / Special aspects+
+JUR w 200 - Conflict of laws provisions, private international law / Comparative private international law+
+JUR w 300 - Conflict of laws provisions, private international law / Comprehensive accounts, individual countries+
+MPI a 100 - Methods / General+
+MPI a 1000 - Methods / Operations research+
+MPI a 1010 - Methods / Operations research / General+
+MPI a 105 - Methods / General / Scientific work+
+MPI a 120 - Methods / General / Methods of political science. Comparison as method+
+MPI a 150 - Methods / General / Methods of economic science+
+MPI a 151 - Methods / General / Methods of economic science / General+
+MPI a 155 - Methods / General / Methods of economic science / Experimental economics+
+MPI a 170 - Methods / General / Methods of psychology+
+MPI a 200 - Methods / Historical methods+
+MPI a 210 - Methods / Historical methods / Heuristics, heuristic principles+
+MPI a 220 - Methods / Historical methods / (Source)criticism, text criticism, text critical method+
+MPI a 230 - Methods / Historical methods / Hermeneutics and interpretation+
+MPI a 240 - Methods / Historical methods / Analytics+
+MPI a 300 - Methods / Constructing models+
+MPI a 310 - Methods / Constructing models / General+
+MPI a 320 - Methods / Constructing models / Mathematical modeling+
+MPI a 322 - Methods / Constructing models / Dynamic systems, dynamic models+
+MPI a 324 - Methods / Constructing models / Mechanism design+
+MPI a 330 - Methods / Constructing models / Socio-scientific modeling+
+MPI a 400 - Methods / Game theory+
+MPI a 410 - Methods / Game theory / General information+
+MPI a 420 - Methods / Game theory / Two-person, zero-sum games+
+MPI a 425 - Methods / Game theory / Two-person, non-zero-sum games+
+MPI a 430 - Methods / Game theory / More-person games+
+MPI a 435 - Methods / Game theory / Differential games+
+MPI a 440 - Methods / Game theory / Cooperative and non-cooperative games+
+MPI a 445 - Methods / Game theory / Market games+
+MPI a 490 - Methods / Game theory / Other works on game theory+
+MPI a 500 - Methods / Data collection methods in the social sciences+
+MPI a 505 - Methods / Data collection methods in the social sciences / General+
+MPI a 510 - Methods / Data collection methods in the social sciences / Observation+
+MPI a 520 - Methods / Data collection methods in the social sciences / Interview and survey, questionnaire technique+
+MPI a 530 - Methods / Data collection methods in the social sciences / Field research, case studies+
+MPI a 540 - Methods / Data collection methods in the social sciences / Analysis of content and files+
+MPI a 550 - Methods / Data collection methods in the social sciences / Experimental sociology, experimental psychology+
+MPI a 560 - Methods / Data collection methods in the social sciences / Sociometry, psychometrics+
+MPI a 570 - Methods / Data collection methods in the social sciences / Test methods+
+MPI a 575 - Methods / Data collection methods in the social sciences / Data analysis in the social sciences+
+MPI a 580 - Methods / Data collection methods in the social sciences / Sociological network analysis+
+MPI a 590 - Methods / Data collection methods in the social sciences / Sample and sampling procedures+
+MPI a 600 - Methods / Legal studies methodology, legal hermeneutics+
+MPI a 605 - Methods / Legal studies methodology, legal hermeneutics / General+
+MPI a 610 - Methods / Legal studies methodology, legal hermeneutics / Logic. Legal argumentation. Topics. Dogmatics. Application of the law+
+MPI a 620 - Methods / Legal studies methodology, legal hermeneutics / Legal hermeneutics. Interpretation. Application of laws. Further legal studies of judges and researchers+
+MPI a 630 - Methods / Legal studies methodology, legal hermeneutics / Individual methodologies+
+MPI a 640 - Methods / Legal studies methodology, legal hermeneutics / Legal studies and semiotics. Legal linguistics. Legal communication theory. Cybernetics of law+
+MPI a 700 - Methods / Statistics+
+MPI a 705 - Methods / Statistics / General+
+MPI a 710 - Methods / Statistics / Explorative data analysis, procedures+
+MPI a 712 - Methods / Statistics / Frequency distributions. Sampling distributions. Theory of estimation. Test theory. Statistical decision theory+
+MPI a 714 - Methods / Statistics / Regression and correlation, factor, component, discriminant analysis, and other methods of multidimensional analysis. Association, contingency, MOS, causal analysis, path analysis, LISREL+
+MPI a 716 - Methods / Statistics / Data collection and processing procedures+
+MPI a 718 - Methods / Statistics / Setting up experiments. Variance analysis+
+MPI a 720 - Methods / Statistics / Time series analysis. Stochastics+
+MPI a 722 - Methods / Statistics / Theory of measured values+
+MPI a 724 - Methods / Statistics / Monte-Carlo methods, stochastic simulation+
+MPI a 726 - Methods / Statistics / Economic and social statistics: general information, descriptive statistics+
+MPI a 728 - Methods / Statistics / Economic and social statistics: business statistics+
+MPI a 730 - Methods / Statistics / Economic and social statistics: statistical methods in market and opinion research+
+MPI a 732 - Methods / Statistics / Computational statistics+
+MPI a 734 - Methods / Statistics / Technical statistics. Quality control+
+MPI a 736 - Methods / Statistics / Biometrics, survival analysis, event history analysis, hazard rate models+
+MPI a 738 - Methods / Statistics / Statistical methods in sociology, social ecology, demographics+
+MPI a 740 - Methods / Statistics / Statistical methods in psychology+
+MPI a 742 - Methods / Statistics / Statistical methods in political science+
+MPI a 800 - Methods / Mathematics+
+MPI a 805 - Methods / Mathematics / General+
+MPI a 810 - Methods / Mathematics / Fundamental research+
+MPI a 815 - Methods / Mathematics / Algebra, linear and square forms+
+MPI a 820 - Methods / Mathematics / Analysis (differential and integral calculus, differential equation, calculus)+
+MPI a 825 - Methods / Mathematics / Numerical mathematics+
+MPI a 830 - Methods / Mathematics / Probability theory, combinatorics, measure theory, characteristic functions+
+MPI a 835 - Methods / Mathematics / Mathematics of economics, mathematics of finance, business informatics+
+MPI a 900 - Methods / Econometrics+
+MPI a 905 - Methods / Econometrics / General+
+MPI a 910 - Methods / Econometrics / Methods of econometrics+
+MPI a 915 - Methods / Econometrics / Applied econometrics+
+MPI a 920 - Methods / Econometrics / Econometric software+
+MPI c 100 - Philosophy of science / General+
+MPI c 120 - Philosophy of science / General / History of the philosophy of science+
+MPI c 180 - Philosophy of science / General / Value and critique of science+
+MPI c 200 - Philosophy of science / Jurisprudence, legal science+
+MPI c 201 - Philosophy of science / Jurisprudence, legal science / General. General jurisprudence+
+MPI c 203 - Philosophy of science / Jurisprudence, legal science / Definition and nature of law+
+MPI c 205 - Philosophy of science / Jurisprudence, legal science / History of jurisprudence+
+MPI c 207 - Philosophy of science / Jurisprudence, legal science / History of jurisprudence / Ancient law. Oriental law. Greek law. Jewish law. Islamic law+
+MPI c 209 - Philosophy of science / Jurisprudence, legal science / History of jurisprudence / History of Roman law+
+MPI c 211 - Philosophy of science / Jurisprudence, legal science / History of jurisprudence / History of the German law and constitution+
+MPI c 213 - Philosophy of science / Jurisprudence, legal science / History of jurisprudence / European legal history+
+MPI c 215 - Philosophy of science / Jurisprudence, legal science / History of jurisprudence / Legal history outside of Europe+
+MPI c 217 - Philosophy of science / Jurisprudence, legal science / History of jurisprudence / Church law. Law and religion+
+MPI c 220 - Philosophy of science / Jurisprudence, legal science / Philosophy of law. Theory of law+
+MPI c 221 - Philosophy of science / Jurisprudence, legal science / Philosophy of law. Theory of law / General+
+MPI c 223 - Philosophy of science / Jurisprudence, legal science / Philosophy of law. Theory of law / Ontology, ontology of law+
+MPI c 225 - Philosophy of science / Jurisprudence, legal science / Philosophy of law. Theory of law / Theology of law+
+MPI c 230 - Philosophy of science / Jurisprudence, legal science / Philosophy of law. Theory of law / Justice. Injustice. Freedom, liberty+
+MPI c 232 - Philosophy of science / Jurisprudence, legal science / Philosophy of law. Theory of law / Ethics. Custom, morality. Morals. Conscience, questions of law and ethics+
+MPI c 234 - Philosophy of science / Jurisprudence, legal science / Philosophy of law. Theory of law / Society. State. Politics+
+MPI c 236 - Philosophy of science / Jurisprudence, legal science / Philosophy of law. Theory of law / Law and power. Violence. Social theory. Social order+
+MPI c 240 - Philosophy of science / Jurisprudence, legal science / Historical school of law+
+MPI c 245 - Philosophy of science / Jurisprudence, legal science / Legal positivism+
+MPI c 247 - Philosophy of science / Jurisprudence, legal science / Legal positivism / Pure legal doctrine+
+MPI c 250 - Philosophy of science / Jurisprudence, legal science / Natural law+
+MPI c 252 - Philosophy of science / Jurisprudence, legal science / Natural law / Law of reason+
+MPI c 260 - Philosophy of science / Jurisprudence, legal science / Legal norm. Norm types. Validity. Invalidity+
+MPI c 262 - Philosophy of science / Jurisprudence, legal science / Legal norm. Norm types. Validity. Invalidity / Legal order+
+MPI c 264 - Philosophy of science / Jurisprudence, legal science / Legal norm. Norm types. Validity. Invalidity / Law-making. Legislation doctrine+
+MPI c 270 - Philosophy of science / Jurisprudence, legal science / Law and economics = economic analysis, legal theory+
+MPI c 275 - Philosophy of science / Jurisprudence, legal science / Legal technique+
+MPI c 280 - Philosophy of science / Jurisprudence, legal science / Legal pluralism+
+MPI c 285 - Philosophy of science / Jurisprudence, legal science / Legal policies, legal political science+
+MPI c 295 - Philosophy of science / Jurisprudence, legal science / Other+
+MPI c 300 - Philosophy of science / Economics+
+MPI c 301 - Philosophy of science / Economics / General+
+MPI c 302 - Philosophy of science / Economics / History of economics (history of dogmas)+
+MPI c 303 - Philosophy of science / Economics / History of dogmas: precursors of economics+
+MPI c 304 - Philosophy of science / Economics / History of dogmas: mercantilism, cameralism, physiocrats+
+MPI c 306 - Philosophy of science / Economics / History of dogmas: classical economics+
+MPI c 308 - Philosophy of science / Economics / History of dogmas: pre-Marxist socialism, Marxism, neo-Marxism+
+MPI c 310 - Philosophy of science / Economics / History of dogmas: historical school of economics+
+MPI c 312 - Philosophy of science / Economics / History of dogmas: theory of final utility+
+MPI c 313 - Philosophy of science / Economics / History of dogmas: Lausanne school+
+MPI c 314 - Philosophy of science / Economics / History of dogmas: Cambridge school+
+MPI c 315 - Philosophy of science / Economics / History of dogmas: Viennese school+
+MPI c 316 - Philosophy of science / Economics / History of dogmas: older Swedish school+
+MPI c 319 - Philosophy of science / Economics / History of dogmas: Stockholm school, recent Swedish school+
+MPI c 320 - Philosophy of science / Economics / History of dogmas: Keynes, Keynesianism+
+MPI c 322 - Philosophy of science / Economics / History of dogmas: Austrian school of the second and third generations+
+MPI c 324 - Philosophy of science / Economics / History of dogmas: Freiburg school - ordoliberalism+
+MPI c 326 - Philosophy of science / Economics / History of dogmas: neoclassicism+
+MPI c 328 - Philosophy of science / Economics / History of dogmas: post-Keynesian School, neo-Keynesian theory+
+MPI c 330 - Philosophy of science / Economics / History of dogmas: neo-Ricardian theory+
+MPI c 331 - Philosophy of science / Economics / History of dogmas: Chicago school+
+MPI c 332 - Philosophy of science / Economics / History of dogmas: monetarism+
+MPI c 338 - Philosophy of science / Economics / History of dogmas: other recent developments+
+MPI c 400 - Philosophy of science / Political science+
+MPI c 401 - Philosophy of science / Political science / General. Foundations and objective of political science. Definition of politics+
+MPI c 403 - Philosophy of science / Political science / Research in political science. Organisations and associations in political science+
+MPI c 405 - Philosophy of science / Political science / History of political science+
+MPI c 500 - Philosophy of science / Psychology+
+MPI c 520 - Philosophy of science / Psychology / Approaches in cognitive science+
+MPI c 530 - Philosophy of science / Psychology / Neuroscientific approaches+
+MPI c 540 - Philosophy of science / Psychology / Approaches relating to evolutionary biology+
+MPI c 600 - Philosophy of science / Sociology+
+MPI c 601 - Philosophy of science / Sociology / General+
+MPI c 605 - Philosophy of science / Sociology / History of sociology+
+MPI c 700 - Philosophy of science / Philosophy+
+MPI c 701 - Philosophy of science / Philosophy / General+
+MPI i 100 - Institutions / General+
+MPI i 110 - Institutions / General / Regulation and governance+
+MPI i 200 - Institutions / "Old" institutionalists, history of theory+
+MPI i 300 - Institutions / Definition of institution, rules, norms+
+MPI i 400 - Institutions / Functions of the institutions for the individual+
+MPI i 500 - Institutions / Functions of the institutions for social co-existence+
+MPI i 510 - Institutions / Functions of the institutions for social co-existence / Property rights+
+MPI i 520 - Institutions / Functions of the institutions for social co-existence / Contract, contract theory+
+MPI i 530 - Institutions / Functions of the institutions for social co-existence / Organization+
+MPI i 540 - Institutions / Functions of the institutions for social co-existence / Social groups+
+MPI i 570 - Institutions / Functions of the institutions for social co-existence / Law+
+MPI i 580 - Institutions / Functions of the institutions for social co-existence / Moral, social norms, tolerance+
+MPI i 581 - Institutions / Functions of the institutions for social co-existence / Social values+
+MPI i 582 - Institutions / Functions of the institutions for social co-existence / Cooperation+
+MPI i 583 - Institutions / Functions of the institutions for social co-existence / Social justice+
+MPI i 584 - Institutions / Functions of the institutions for social co-existence / Corporate social responsibility+
+MPI i 585 - Institutions / Functions of the institutions for social co-existence / Business ethics and entrepreneurial ethics+
+MPI i 586 - Institutions / Functions of the institutions for social co-existence / Reputation+
+MPI i 590 - Institutions / Functions of the institutions for social co-existence / Trust+
+MPI i 600 - Institutions / Development and transformation of institutions+
+MPI i 610 - Institutions / Development and transformation of institutions / Constitutional theory+
+MPI i 700 - Institutions / Theory of central regulation through political institutions+
+MPI i 710 - Institutions / Theory of central regulation through political institutions / General+
+MPI i 720 - Institutions / Theory of central regulation through political institutions / Social choice theory, theory of collective decision making, collective choice theory+
+MPI i 800 - Institutions / Theory of system competition, globalization+
+MPI p 100 - Paradigms / General+
+MPI p 1500 - Paradigms / Structuralism+
+MPI p 1600 - Paradigms / Constructivism+
+MPI p 1700 - Paradigms / Behaviorism+
+MPI p 1800 - Paradigms / Discourse theory, discourse analysis+
+MPI p 200 - Paradigms / Scholastics+
+MPI p 2400 - Paradigms / Network research+
+MPI p 2500 - Paradigms / Cybernetics, neural networks+
+MPI p 2510 - Paradigms / Cybernetics, neural networks / General+
+MPI p 2520 - Paradigms / Cybernetics, neural networks / Control theory, regulation theory+
+MPI p 2530 - Paradigms / Cybernetics, neural networks / Automata theory+
+MPI p 2540 - Paradigms / Cybernetics, neural networks / Artificial intelligence+
+MPI p 2550 - Paradigms / Cybernetics, neural networks / Reliability theory, algorithm theory+
+MPI p 2600 - Paradigms / Systems theory, systems research+
+MPI p 2610 - Paradigms / Systems theory, systems research / General+
+MPI p 2620 - Paradigms / Systems theory, systems research / Sociological systems theory+
+MPI p 2640 - Paradigms / Systems theory, systems research / Theory of complex systems, complexity+
+MPI p 2650 - Paradigms / Systems theory, systems research / Catastrophe theory+
+MPI p 2660 - Paradigms / Systems theory, systems research / Chaos theory+
+MPI p 2700 - Paradigms / Information theory+
+MPI p 2710 - Paradigms / Information theory / General+
+MPI p 2800 - Paradigms / Functionalism+
+MPI p 2810 - Paradigms / Functionalism / General+
+MPI p 2900 - Paradigms / Action theories+
+MPI p 2910 - Paradigms / Action theories / General+
+MPI p 2920 - Paradigms / Action theories / Structural functionalism, systems functionalism+
+MPI p 2930 - Paradigms / Action theories / Symbolic interactionism+
+MPI p 2940 - Paradigms / Action theories / Rational choice theory, utility theory+
+MPI p 2950 - Paradigms / Action theories / Bounded rationality+
+MPI p 2960 - Paradigms / Action theories / Rationality+
+MPI p 300 - Paradigms / Humanism+
+MPI p 3000 - Paradigms / Decision theory+
+MPI p 3010 - Paradigms / Decision theory / General+
+MPI p 3020 - Paradigms / Decision theory / Decision under certainty+
+MPI p 3030 - Paradigms / Decision theory / Decision under uncertainty+
+MPI p 3032 - Paradigms / Decision theory / Decision under uncertainty: decision under risk+
+MPI p 3034 - Paradigms / Decision theory / Decision under uncertainty: decision under ambiguity+
+MPI p 3100 - Paradigms / New institutional economics+
+MPI p 3105 - Paradigms / New institutional economics / General+
+MPI p 3110 - Paradigms / New institutional economics / Transaction cost theory+
+MPI p 3120 - Paradigms / New institutional economics / Principal-agent-theory+
+MPI p 3130 - Paradigms / New institutional economics / Property-rights-theory+
+MPI p 3140 - Paradigms / New institutional economics / (New) political economics (public-choice-theory)+
+MPI p 400 - Paradigms / Liberalism+
+MPI p 500 - Paradigms / Political realism+
+MPI p 600 - Paradigms / Institutionalism+
+MPI p 610 - Paradigms / Institutionalism / General+
+MPI p 620 - Paradigms / Institutionalism / Neoliberal institutionalism+
+MPI p 630 - Paradigms / Institutionalism / Normative (reflexive) institutionalism+
+MPI p 640 - Paradigms / Institutionalism / Sociological institutionalism+
+MPI p 650 - Paradigms / Institutionalism / Historical institutionalism+
+MPI p 660 - Paradigms / Institutionalism / Evolutionary institutionalism+
+MPI p 700 - Paradigms / Mercantilism+
+MPI p 800 - Paradigms / Classical economy+
+MPI p 900 - Paradigms / Utilitarism+
+PHI a 100 - General / General accounts on philosophy+
+PHI b 100 - History of philosophy / General+
+PHI b 200 - History of philosophy / Philosophy of antiquity+
+PHI b 210 - History of philosophy / Philosophy of antiquity / Pre-Socratic philosophy+
+PHI b 220 - History of philosophy / Philosophy of antiquity / Socratism, Platonic Academy+
+PHI b 230 - History of philosophy / Philosophy of antiquity / Aristotelianism+
+PHI b 240 - History of philosophy / Philosophy of antiquity / Epicureanism, Stoicism, Pythagoreanism, Neopythagoreanism+
+PHI b 250 - History of philosophy / Philosophy of antiquity / Neoplatonism+
+PHI b 260 - History of philosophy / Philosophy of antiquity / Pre-Christian philosophy+
+PHI b 300 - History of philosophy / Philosophy of the Middle Ages+
+PHI b 310 - History of philosophy / Philosophy of the Middle Ages / Platonic and Augustinian philosophy+
+PHI b 320 - History of philosophy / Philosophy of the Middle Ages / Aristotelian-Thomistic philosophy+
+PHI b 330 - History of philosophy / Philosophy of the Middle Ages / Nominalism+
+PHI b 340 - History of philosophy / Philosophy of the Middle Ages / Mysticism+
+PHI b 350 - History of philosophy / Philosophy of the Middle Ages / Late Middle Ages+
+PHI b 400 - History of philosophy / Philosophy of the modern age+
+PHI b 410 - History of philosophy / Philosophy of the Middle Ages / Philosophy of the Renaissance+
+PHI b 420 - History of philosophy / Philosophy of the Middle Ages / Descartes and his times+
+PHI b 430 - History of philosophy / Philosophy of the Middle Ages / Kant and his times+
+PHI b 440 - History of philosophy / Philosophy of the Middle Ages / Hegel and his times+
+PHI b 450 - History of philosophy / Philosophy of the Middle Ages / Philosophy of the 19th century+
+PHI b 460 - History of philosophy / Philosophy of the Middle Ages / Philosophy of the 20th century+
+PHI b 500 - History of philosophy / History of philosophy in individual cultural areas and countries+
+PHI b 510 - History of philosophy / History of philosophy in individual cultural areas and countries / General and Western world+
+PHI b 520 - History of philosophy / History of philosophy in individual cultural areas and countries / Indian philosophy+
+PHI b 530 - History of philosophy / History of philosophy in individual cultural areas and countries / Chinese and Japanese philosophy+
+PHI b 540 - History of philosophy / History of philosophy in individual cultural areas and countries / Arabic philosophy+
+PHI b 550 - History of philosophy / History of philosophy in individual cultural areas and countries / Jewish philosophy+
+PHI c 100 - Systematic philosophy / General+
+PHI c 1000 - Systematic philosophy / Philosophical anthropology+
+PHI c 1100 - Systematic philosophy / Philosophy of nature, philosophy of the natural sciences+
+PHI c 1200 - Systematic philosophy / Political philosophy+
+PHI c 1300 - Systematic philosophy / Legal philosophy+
+PHI c 1400 - Systematic philosophy / Historical and cultural philosophy+
+PHI c 1500 - Systematic philosophy / Linguistic philosophy+
+PHI c 1600 - Systematic philosophy / Philosophy of technology+
+PHI c 1700 - Systematic philosophy / Philosophy of religion+
+PHI c 1800 - Systematic philosophy / Media philosophy+
+PHI c 1900 - Systematic philosophy / Psycholgogical philosophy+
+PHI c 200 - Systematic philosophy / Philosophy of science+
+PHI c 300 - Systematic philosophy / Logic+
+PHI c 400 - Systematic philosophy / Metaphysics, ontology+
+PHI c 500 - Systematic philosophy / Ethics+
+PHI c 600 - Systematic philosophy / Epistemology+
+PHI c 610 - Systematic philosophy / Epistemology / General+
+PHI c 620 - Systematic philosophy / Epistemology / Rationalism+
+PHI c 630 - Systematic philosophy / Epistemology / Empiricism+
+PHI c 640 - Systematic philosophy / Epistemology / Idealism+
+PHI c 700 - Systematic philosophy / Aesthetics+
+PHI c 800 - Systematic philosophy / Philosophical hermeneutics+
+PHI c 900 - Systematic philosophy / Social philosophy+
+PHI d 100 - Individual current directions of philosophy / General+
+PHI d 1000 - Individual current directions of philosophy / Intercultural philosophy+
+PHI d 200 - Individual current directions of philosophy / Positivism, neopositivism, modern empicirism, critical rationalism+
+PHI d 300 - Individual current directions of philosophy / Philosophy of life, philosophy of existence+
+PHI d 400 - Individual current directions of philosophy / Neo-Hegelianism, dialectical materialism, Marxism+
+PHI d 500 - Individual current directions of philosophy / Neo-Kantianism, transcendental philosophy+
+PHI d 600 - Individual current directions of philosophy / Phenomenology+
+PHI d 700 - Individual current directions of philosophy / Pragmatism+
+PHI d 800 - Individual current directions of philosophy / Analytic philosophy, philosophy of mind+
+PHI d 900 - Individual current directions of philosophy / Structuralism, neostructuralism, postmodernist philosophy+
+POL a 100 - General / General accounts+
+POL b 100 - Political theory / General and general accounts on political theory+
+POL b 1000 - Political theory / Political movements. Ideologies. Sociopolitical classification systems+
+POL b 1002 - Political theory / Political movements. Ideologies. Sociopolitical classification systems / General+
+POL b 1005 - Political theory / Political movements. Ideologies. Sociopolitical classification systems / History of political ideas+
+POL b 1015 - Political theory / Political movements. Ideologies. Sociopolitical classification systems / Conservatism, conservativism+
+POL b 1020 - Political theory / Political movements. Ideologies. Sociopolitical classification systems / Fundamentalism+
+POL b 1025 - Political theory / Political movements. Ideologies. Sociopolitical classification systems / Nationalism+
+POL b 1030 - Political theory / Political movements. Ideologies. Sociopolitical classification systems / Fascism+
+POL b 1035 - Political theory / Political movements. Ideologies. Sociopolitical classification systems / Antifascism+
+POL b 1040 - Political theory / Political movements. Ideologies. Sociopolitical classification systems / National socialism+
+POL b 1045 - Political theory / Political movements. Ideologies. Sociopolitical classification systems / Racism+
+POL b 1050 - Political theory / Political movements. Ideologies. Sociopolitical classification systems / Radicalism. Extremism+
+POL b 1055 - Political theory / Political movements. Ideologies. Sociopolitical classification systems / Liberalism+
+POL b 1060 - Political theory / Political movements. Ideologies. Sociopolitical classification systems / Neoliberalism+
+POL b 1065 - Political theory / Political movements. Ideologies. Sociopolitical classification systems / Christian-political ideas+
+POL b 1070 - Political theory / Political movements. Ideologies. Sociopolitical classification systems / Religious socialism+
+POL b 1075 - Political theory / Political movements. Ideologies. Sociopolitical classification systems / Socialism, postsocialism+
+POL b 1080 - Political theory / Political movements. Ideologies. Sociopolitical classification systems / Communism+
+POL b 1085 - Political theory / Political movements. Ideologies. Sociopolitical classification systems / Anarchism. Syndicalism+
+POL b 1090 - Political theory / Political movements. Ideologies. Sociopolitical classification systems / Other ideologies+
+POL b 1095 - Political theory / Political movements. Ideologies. Sociopolitical classification systems / Other+
+POL b 200 - Political theory / Basic political terms+
+POL b 210 - Political theory / Basic political terms / General+
+POL b 220 - Political theory / Basic political terms / Political culture+
+POL b 230 - Political theory / Basic political terms / Power+
+POL b 233 - Political theory / Basic political terms / Governance+
+POL b 236 - Political theory / Basic political terms / Legitimacy. Legitimation+
+POL b 300 - Political theory / Theory of the state+
+POL b 302 - Political theory / Theory of the state / State+
+POL b 304 - Political theory / Theory of the state / State symbols. Self-portrayal of the state+
+POL b 306 - Political theory / Theory of the state / State and society+
+POL b 308 - Political theory / Theory of the state / Freedom, liberty+
+POL b 309 - Political theory / Theory of the state / Tolerance+
+POL b 310 - Political theory / Theory of the state / Equality+
+POL b 312 - Political theory / Theory of the state / The state and the individual+
+POL b 314 - Political theory / Theory of the state / Human rights. Human dignity. History of human rights. Curtailing of human rights+
+POL b 316 - Political theory / Theory of the state / Sovereignty+
+POL b 318 - Political theory / Theory of the state / Evolution of modern state+
+POL b 370 - Political theory / Theory of the state / Individual rights+
+POL b 395 - Political theory / Theory of the state / Individual rights: other+
+POL b 400 - Political theory / Individual theories of the state+
+POL b 410 - Political theory / Individual theories of the state / Theories of state power+
+POL b 420 - Political theory / Individual theories of the state / Contractual theory, contractualism+
+POL b 430 - Political theory / Individual theories of the state / Idealistic state theories+
+POL b 440 - Political theory / Individual theories of the state / Socialist state theories+
+POL b 450 - Political theory / Individual theories of the state / Theory of the welfare state+
+POL b 460 - Political theory / Individual theories of the state / Anarchist state theories+
+POL b 500 - Political theory / Theories of democracy+
+POL b 502 - Political theory / Theories of democracy / General+
+POL b 505 - Political theory / Theories of democracy / Elitist theory of democracy, elite theory+
+POL b 510 - Political theory / Theories of democracy / Identity theory of democracy+
+POL b 515 - Political theory / Theories of democracy / Complex theory of democracy+
+POL b 520 - Political theory / Theories of democracy / Critical theory of democracy+
+POL b 525 - Political theory / Theories of democracy / Economic theory of democracy+
+POL b 530 - Political theory / Theories of democracy / Participatory theory of democracy+
+POL b 535 - Political theory / Theories of democracy / Pluralist theory of democracy+
+POL b 540 - Political theory / Theories of democracy / Theory of deliberative democracy+
+POL b 545 - Political theory / Theories of democracy / Theory of competitive democracy+
+POL b 550 - Political theory / Theories of democracy / Democracy from a system-theoretic perspective+
+POL b 595 - Political theory / Theories of democracy / Other theories of democracy+
+POL b 600 - Political theory / Political behavior. Political psychology+
+POL b 602 - Political theory / Political behavior. Political psychology / General+
+POL b 605 - Political theory / Political behavior. Political psychology / Political conscience. Goals, aims. Prejudice. Hatred. Fear+
+POL b 610 - Political theory / Political behavior. Political psychology / Political action and behavior. Political ethics and morals. Political responsibility+
+POL b 620 - Political theory / Political behavior. Political psychology / Behavioralism+
+POL b 630 - Political theory / Political behavior. Political psychology / National identity+
+POL b 640 - Political theory / Political behavior. Political psychology / Political utopia+
+POL b 690 - Political theory / Political behavior. Political psychology / Political participation. Citizens' initiative, action group+
+POL b 695 - Political theory / Political behavior. Political psychology / Other+
+POL b 700 - Political theory / Political decision theory+
+POL b 702 - Political theory / Political decision theory / General+
+POL b 705 - Political theory / Political decision theory / Tactics. Style. Strategy+
+POL b 710 - Political theory / Political decision theory / Methods of conflict settlement+
+POL b 715 - Political theory / Political decision theory / Political dynamics. Principle of majority rule+
+POL b 720 - Political theory / Political decision theory / Political leadership+
+POL b 725 - Political theory / Political decision theory / Political recruitment. Politics as a profession+
+POL b 730 - Political theory / Political decision theory / Political representation+
+POL b 735 - Political theory / Political decision theory / Scientific advice to politicians+
+POL b 740 - Political theory / Political decision theory / Political planning+
+POL b 745 - Political theory / Political decision theory / Goals of politics. Welfare. Guarantor state ("Gewährleistungsstaat")+
+POL b 750 - Political theory / Political decision theory / Political responsibility of science and other areas of life+
+POL b 795 - Political theory / Political decision theory / Other+
+POL b 800 - Political theory / Political change+
+POL b 802 - Political theory / Political change / General+
+POL b 805 - Political theory / Political change / Tradition, stability+
+POL b 810 - Political theory / Political change / Progress+
+POL b 815 - Political theory / Political change / Political reform+
+POL b 820 - Political theory / Political change / Political conflict+
+POL b 825 - Political theory / Political change / Political crisis+
+POL b 830 - Political theory / Political change / Revolution+
+POL b 895 - Political theory / Political change / Other+
+POL b 900 - Political theory / Political conflict+
+POL b 902 - Political theory / Political conflict / General and forms of political conflict+
+POL b 905 - Political theory / Political conflict / Unorganized movements+
+POL b 910 - Political theory / Political conflict / Demonstrations+
+POL b 915 - Political theory / Political conflict / Propaganda+
+POL b 920 - Political theory / Political conflict / Resistance. Boycott. Sabotage. Political strike. Non-violent resistance. Social defense+
+POL b 925 - Political theory / Political conflict / Coup d'état. Civil war. Guerrilla+
+POL b 930 - Political theory / Political conflict / Terror. Violence. Murder. State terror. Political persecution+
+POL b 935 - Political theory / Political conflict / Treason, high treason+
+POL b 940 - Political theory / Political conflict / State of emergency+
+POL b 995 - Political theory / Political conflict / Other+
+POL d 100 - Political systems / General+
+POL d 200 - Political systems / Theory of the state and constitutional science, state forms+
+POL d 250 - Political systems / More recent discussions on the state+
+POL d 300 - Political systems / Undemocratic systems+
+POL d 350 - Political systems / Transformation+
+POL d 400 - Political systems / Democratic systems+
+POL d 500 - Political systems / Function principles of democracy+
+POL d 510 - Political systems / Function principles of democracy / Separation of powers+
+POL d 520 - Political systems / Function principles of democracy / Constitutional state+
+POL d 530 - Political systems / Function principles of democracy / Sovereignty of the people, democratic legitimation, representation+
+POL d 600 - Political systems / Structural principles of democracy+
+POL d 610 - Political systems / Function principles of democracy / Theory of democratic regimes+
+POL d 620 - Political systems / Function principles of democracy / Mulit-level systems+
+POL d 621 - Political systems / Function principles of democracy / Multi-level systems / Federalism, general and classic (state federalism)+
+POL d 622 - Political systems / Function principles of democracy / Multi-level systems / Functional federalism+
+POL d 623 - Political systems / Function principles of democracy / Multi-level systems / German federalism, German federal states+
+POL d 624 - Political systems / Function principles of democracy / Multi-level systems / Autonomous state entities+
+POL d 625 - Political systems / Function principles of democracy / Multi-level systems / Non-state collectives+
+POL d 700 - Political systems / Actors, institutions+
+POL d 710 - Political systems / Actors, institutions / Non-governmental organizations+
+POL d 715 - Political systems / Actors, institutions / The media, the public+
+POL d 720 - Political systems / Actors, institutions / Citizens' initiatives (action groups), social movements, citizens, civic duty, civic society+
+POL d 730 - Political systems / Actors, institutions / Associations, interest groups+
+POL d 750 - Political systems / Actors, institutions / Governmental organizations+
+POL d 755 - Political systems / Actors, institutions / Parties+
+POL d 760 - Political systems / Actors, institutions / Government+
+POL d 770 - Political systems / Actors, institutions / Administration, bureaucracy+
+POL d 780 - Political systems / Actors, institutions / Justice, jurisprudence+
+POL d 790 - Political systems / Actors, institutions / Scientific advice to politicians+
+POL d 800 - Political systems / Political decision-making processes and proceedings, coordination mechanisms+
+POL d 810 - Political systems / Political decision-making processes and proceedings, coordination mechanisms / Hierarchy+
+POL d 820 - Political systems / Political decision-making processes and proceedings, coordination mechanisms / Negotiations+
+POL d 830 - Political systems / Political decision-making processes and proceedings, coordination mechanisms / Direct democracy+
+POL d 840 - Political systems / Political decision-making processes and proceedings, coordination mechanisms / Representative democracy+
+POL d 850 - Political systems / Political decision-making processes and proceedings, coordination mechanisms / Voting systems+
+POL d 860 - Political systems / Political decision-making processes and proceedings, coordination mechanisms / Participation, political participation+
+POL d 870 - Political systems / Political decision-making processes and proceedings, coordination mechanisms / Political governance+
+POL d 880 - Political systems / Political decision-making processes and proceedings, coordination mechanisms / Global governance general+
+POL d 890 - Political systems / Political decision-making processes and proceedings, coordination mechanisms / Local governance+
+POL d 900 - Political systems / Political systems of individual countries+
+POL f 100 - Political systems: individual elements / General+
+POL f 1000 - Political systems: individual elements / Jurisprudence and other control bodies+
+POL f 1005 - Political systems: individual elements / Jurisprudence and other control bodies / General, function of jurisprudence, relation of state and the law+
+POL f 1010 - Political systems: individual elements / Jurisprudence and other control bodies / Types of jurisprudence and courts, political justice+
+POL f 1011 - Political systems: individual elements / Jurisprudence and other control bodies / Types of jurisprudence and courts, political justice / Constitutional jurisdiction+
+POL f 1020 - Political systems: individual elements / Jurisprudence and other control bodies / Protection of judicature+
+POL f 1021 - Political systems: individual elements / Jurisprudence and other control bodies / Protection of judicature / Control+
+POL f 1022 - Political systems: individual elements / Jurisprudence and other control bodies / Protection of judicature / Audit courts+
+POL f 1023 - Political systems: individual elements / Jurisprudence and other control bodies / Protection of judicature / Ombudsman+
+POL f 200 - Political systems: individual elements / Political communication, public opinion+
+POL f 205 - Political systems: individual elements / Political communication, public opinion / General+
+POL f 210 - Political systems: individual elements / Political communication, public opinion / Surveys, opinion distribution+
+POL f 220 - Political systems: individual elements / Political communication, public opinion / Press, mass media, internet, political language, rhetoric+
+POL f 230 - Political systems: individual elements / Political communication, public opinion / Freedom of opinion and freedom of information, censorship, diversity of opinion+
+POL f 300 - Political systems: individual elements / Pressure groups+
+POL f 305 - Political systems: individual elements / Pressure groups / General+
+POL f 310 - Political systems: individual elements / Pressure groups / Theory of pressure groups, history+
+POL f 315 - Political systems: individual elements / Pressure groups / Addressees and forms of influence+
+POL f 320 - Political systems: individual elements / Pressure groups / Institutionalized presentation of interests, advisory boards. Democracy within associations+
+POL f 400 - Political systems: individual elements / Individual associations and political groups+
+POL f 405 - Political systems: individual elements / Individual associations and political groups / General+
+POL f 410 - Political systems: individual elements / Individual associations and political groups / Economy, employers+
+POL f 420 - Political systems: individual elements / Individual associations and political groups / Medium-sized groups+
+POL f 430 - Political systems: individual elements / Individual associations and political groups / Unions+
+POL f 440 - Political systems: individual elements / Individual associations and political groups / Political associations, ad-hoc groups+
+POL f 495 - Political systems: individual elements / Individual associations and political groups / Other+
+POL f 500 - Political systems: individual elements / Parties and political movements+
+POL f 505 - Political systems: individual elements / Parties and political movements / General+
+POL f 510 - Political systems: individual elements / Parties and political movements / Theory+
+POL f 515 - Political systems: individual elements / Parties and political movements / History+
+POL f 520 - Political systems: individual elements / Parties and political movements / Party types+
+POL f 525 - Political systems: individual elements / Parties and political movements / Party systems+
+POL f 530 - Political systems: individual elements / Parties and political movements / Function of parties+
+POL f 531 - Political systems: individual elements / Parties and political movements / Function of parties / Parties and administration+
+POL f 532 - Political systems: individual elements / Parties and political movements / Function of parties / Parties and citizens+
+POL f 533 - Political systems: individual elements / Parties and political movements / Function of parties / Parties and sympathizers, members+
+POL f 540 - Political systems: individual elements / Parties and political movements / Structure, organization, tactics+
+POL f 550 - Political systems: individual elements / Parties and political movements / International, all-encompassing outlines, party type+
+POL f 600 - Political systems: individual elements / Elections+
+POL f 605 - Political systems: individual elements / Elections / General, theory, history+
+POL f 610 - Political systems: individual elements / Elections / Right to vote (suffrage), procedural issues+
+POL f 620 - Political systems: individual elements / Elections / Voting systems+
+POL f 630 - Political systems: individual elements / Elections / Empirical psephology+
+POL f 700 - Political systems: individual elements / Parliament+
+POL f 705 - Political systems: individual elements / Parliament / General, theory, history, dissolution of parliament+
+POL f 710 - Political systems: individual elements / Parliament / Parliament and the public+
+POL f 712 - Political systems: individual elements / Parliament / Parliament and parties+
+POL f 714 - Political systems: individual elements / Parliament / Parliamentarians. Work, committees and auxiliary institutions of parliament+
+POL f 720 - Political systems: individual elements / Parliament / Parliamentary power+
+POL f 740 - Political systems: individual elements / Parliament / Legislation+
+POL f 800 - Political systems: individual elements / Government+
+POL f 805 - Political systems: individual elements / Government / General+
+POL f 810 - Political systems: individual elements / Government / Government and parliament+
+POL f 900 - Political systems: individual elements / Administration+
+POL f 905 - Political systems: individual elements / Administration / General+
+POL f 910 - Political systems: individual elements / Administration / Organization, structure, decision-making process, principle of subsidiarity+
+POL f 911 - Political systems: individual elements / Administration / Organization, structure, decision-making process, principle of subsidiarity / Administration leadership, staff+
+POL f 912 - Political systems: individual elements / Administration / Organization, structure, decision-making process, principle of subsidiarity / Economic efficiency, simplification of administration, reform of administration+
+POL f 913 - Political systems: individual elements / Administration / Organization, structure, decision-making process, principle of subsidiarity / Administrative action, administrative responsibilities+
+POL f 914 - Political systems: individual elements / Administration / Organization, structure, decision-making process, principle of subsidiarity / Public service, civil service, administrative training+
+POL f 920 - Political systems: individual elements / Administration / Types of administration+
+POL h 100 - Policy research, political areas / General+
+POL h 150 - Policy research, political areas / General / Public policy+
+POL h 200 - Policy research, political areas / Policy analysis+
+POL h 300 - Policy research, political areas / Implementation research+
+POL h 400 - Policy research, political areas / Special fields, areas of politics+
+POL h 410 - Policy research, political areas / Special fields, areas of politics / Domestic policy, home affairs; legal policy+
+POL h 415 - Policy research, political areas / Special fields, areas of politics / Security+
+POL h 420 - Policy research, political areas / Special fields, areas of politics / Cultural policy, science policy+
+POL h 430 - Policy research, political areas / Special fields, areas of politics / Defense policy+
+POL h 440 - Policy research, political areas / Special fields, areas of politics / Health policy+
+POL h 450 - Policy research, political areas / Special fields, areas of politics / Other+
+POL k 100 - Comparative political science / General+
+POL k 200 - Comparative political science / Comparison of systems+
+POL k 500 - Comparative political science / Comparison of policies+
+POL p 100 - International politics, international relations / General+
+POL p 200 - International politics, international relations / Theory of international politics, method+
+POL p 300 - International politics, international relations / International integration, international organizations, international cooperation+
+POL p 310 - International politics, international relations / International integration, international organizations, international cooperation / General+
+POL p 320 - International politics, international relations / International integration, international organizations, international cooperation / Global state, global order+
+POL p 330 - International politics, international relations / International integration, international organizations, international cooperation / European Union+
+POL p 331 - International politics, international relations / International integration, international organizations, international cooperation / European Union / Forming of the political will in the EU+
+POL p 332 - International politics, international relations / International integration, international organizations, international cooperation / European Union / Institutions+
+POL p 333 - International politics, international relations / International integration, international organizations, international cooperation / European Union / Political areas concerning the EU+
+POL p 334 - International politics, international relations / International integration, international organizations, international cooperation / European Union / Foreign-policy relations in the EU+
+POL p 335 - International politics, international relations / International integration, international organizations, international cooperation / European Union / Multi-level system+
+POL p 336 - International politics, international relations / International integration, international organizations, international cooperation / European Union / Political integration of member states+
+POL p 337 - International politics, international relations / International integration, international organizations, international cooperation / European Union / Citizenship in Europe+
+POL p 338 - International politics, international relations / International integration, international organizations, international cooperation / European Union / Regionalism+
+POL p 340 - International politics, international relations / International integration, international organizations, international cooperation / Other international organizations+
+POL p 350 - International politics, international relations / International integration, international organizations, international cooperation / United Nations+
+POL p 390 - International politics, international relations / International integration, international organizations, international cooperation / International relations with non-state actors+
+POL p 400 - International politics, international relations / International conflicts+
+POL p 410 - International politics, international relations / International conflict / International relations outside of foreign policy+
+POL p 420 - International politics, international relations / International conflicts / International politics as regime+
+POL p 500 - International politics, international relations / International economic relations+
+POL p 520 - International politics, international relations / International economic relations / International trade and economic policy+
+POL p 521 - International politics, international relations / International economic relations / General agreement on Tariffs and Trade (GATT)+
+POL p 522 - International politics, international relations / International economic relations / General Agreement on Trade in Services (GATS)+
+POL p 523 - International politics, international relations / International economic relations / World Trade Organization (WTO)+
+POL p 524 - International politics, international relations / International economic relations / UN group (UNCTAD, FAO, UNIDO... )+
+POL p 525 - International politics, international relations / International economic relations / OECD and Development Assistance Committee (DAC)+
+POL p 599 - International politics, international relations / International economic relations / Other+
+POL p 600 - International politics, international relations / Foreign policy+
+POL p 610 - International politics, international relations / Foreign policy / Theory of foreign affairs, diplomacy+
+POL p 620 - International politics, international relations / Foreign policy / Foreign policy of individual countries+
+PSY a 100 - General / General accounts on psychology+
+PSY b 100 - General psychology / General+
+PSY b 200 - General psychology / Perception, sensory information, attention+
+PSY b 300 - General psychology / Motivation+
+PSY b 400 - General psychology / Emotion+
+PSY b 500 - General psychology / Cognitive processes+
+PSY b 510 - General psychology / Cognitive processes / Thought, thinking+
+PSY b 520 - General psychology / Cognitive processes / Judgements, decisions+
+PSY b 525 - General psychology / Cognitive processes / Intuition+
+PSY b 530 - General psychology / Cognitive processes / Intelligence+
+PSY b 535 - General psychology / Cognitive processes / Conflict-solving, problem-solving, mediation+
+PSY b 540 - General psychology / Cognitive processes / Intention and action+
+PSY b 550 - General psychology / Cognitive processes / Conception, association+
+PSY b 560 - General psychology / Cognitive processes / Memory+
+PSY b 570 - General psychology / Cognitive processes / Knowledge and knowledge formation+
+PSY b 600 - General psychology / Learning+
+PSY b 700 - General psychology / Psychology of language, psycholinguistics+
+PSY b 800 - General psychology / Neuropsychology+
+PSY c 100 - Developmental psychology / General+
+PSY c 200 - Developmental psychology / General developmental psychology of the span of life+
+PSY c 300 - Developmental psychology / Development of cognitive and sensory functions+
+PSY c 400 - Developmental psychology / Physical and psychomotoric development+
+PSY c 500 - Developmental psychology / Development of language+
+PSY c 600 - Developmental psychology / Development of behavior+
+PSY c 700 - Developmental psychology / Social and moral development+
+PSY c 800 - Developmental psychology / Development of motivation and feeling+
+PSY d 100 - Differential psychology, personality psychology / General+
+PSY d 200 - Differential psychology, personality psychology / Theories of personality+
+PSY d 300 - Differential psychology, personality psychology / Typologies+
+PSY d 400 - Differential psychology, personality psychology / Intelligence. Talent. Creativity+
+PSY d 500 - Differential psychology, personality psychology / Sexuality. Gender-specific differences+
+PSY d 600 - Differential psychology, personality psychology / Particular personality traits and characteristics+
+PSY e 100 - Social psychology / General+
+PSY e 200 - Social psychology / Comparative psychology+
+PSY e 300 - Social psychology / Social psychology of interpersonal behavior+
+PSY e 350 - Social psychology / Social psychology of interpersonal behavior / Ethnopsychology, folk psychology+
+PSY e 400 - Social psychology / Social relations, group and inter-group processes+
+PSY e 500 - Social psychology / Social psychology of cognitive processes+
+PSY f 100 - Theoretic psychology / General+
+PSY g 100 - Applied psychology / General+
+PSY g 1000 - Applied psychology / Further areas of application+
+PSY g 1010 - Applied psychology / Further areas of application / Criminal psychology+
+PSY g 1020 - Applied psychology / Further areas of application / Health psychology+
+PSY g 200 - Applied psychology / Medical psychology+
+PSY g 300 - Applied psychology / Pedagogical psychology+
+PSY g 400 - Applied psychology / Psychology at the workplace+
+PSY g 500 - Applied psychology / Economic psychology+
+PSY g 510 - Applied psychology / Economic psychology / Subjective experience and behavior of people in the economic sphere+
+PSY g 520 - Applied psychology / Economic psychology / Behavior of taxpayers+
+PSY g 530 - Applied psychology / Economic psychology / Consumer behavior+
+PSY g 540 - Applied psychology / Economic psychology / Advertising+
+PSY g 550 - Applied psychology / Economic psychology / Behavioral economics+
+PSY g 560 - Applied psychology / Economic psychology / Industrial and organizational psychology+
+PSY g 570 - Applied psychology / Economic psychology / Neuroeconomics+
+PSY g 600 - Applied psychology / Media and communication psychology+
+PSY g 700 - Applied psychology / Political psychology+
+PSY g 800 - Applied psychology / Environmental psychology+
+PSY g 900 - Applied psychology / Legal psychology, forensic psychology+
+PSY g 910 - Applied psychology / Legal psychology, forensic psychology / General+
+PSY g 920 - Applied psychology / Legal psychology, forensic psychology / Court psychology+
+PSY g 922 - Applied psychology / Legal psychology, forensic psychology / Court psychology: judges, public prosecutors+
+PSY g 930 - Applied psychology / Legal psychology, forensic psychology / Credibility of testimonies+
+PSY g 935 - Applied psychology / Legal psychology, forensic psychology / Expertise, expert opinion+
+PSY g 950 - Applied psychology / Legal psychology, forensic psychology / Perspective of the perpetrator+
+SOZ a 100 - General / General accounts on sociology+
+SOZ b 100 - Societies as a whole / General+
+SOZ b 1000 - Societies as a whole / Social philosophy, philosophy of society+
+SOZ b 200 - Societies as a whole / Analyses concerning societies as a whole+
+SOZ b 300 - Societies as a whole / Pre-industrial society+
+SOZ b 400 - Societies as a whole / Industrial society+
+SOZ b 500 - Societies as a whole / Post-industrial society+
+SOZ b 600 - Societies as a whole / Sociology of change+
+SOZ b 700 - Societies as a whole / Sociology of modernism+
+SOZ b 800 - Societies as a whole / Sociology of postmodernism+
+SOZ b 900 - Societies as a whole / Sogiological visions of the future+
+SOZ c 100 - Specialist sociologies / General+
+SOZ c 1000 - Specialist sociologies / Further areas of sociology+
+SOZ c 1100 - Specialist sociologies / Further areas of sociology / Social mobility+
+SOZ c 1200 - Specialist sociologies / Further areas of sociology / Agricultural, urban and municipal sociology+
+SOZ c 1300 - Specialist sociologies / Further areas of sociology / Family sociology+
+SOZ c 1400 - Specialist sociologies / Further areas of sociology / Youth sociology+
+SOZ c 1500 - Specialist sociologies / Further areas of sociology / Sociology of the sexes+
+SOZ c 1600 - Specialist sociologies / Further areas of sociology / Sociology of technology+
+SOZ c 1700 - Specialist sociologies / Further areas of sociology / Sociology of minorities, majorities, fringe groups+
+SOZ c 1800 - Specialist sociologies / Further areas of sociology / Sociology of religion+
+SOZ c 1900 - Specialist sociologies / Further areas of sociology / Sociology of risks+
+SOZ c 1950 - Specialist sociologies / Further areas of sociology / Other+
+SOZ c 200 - Specialist sociologies / Sociology of demographics+
+SOZ c 210 - Specialist sociologies / Sociology of demographics / General+
+SOZ c 220 - Specialist sociologies / Sociology of demographics / Demographic planning+
+SOZ c 230 - Specialist sociologies / Sociology of demographics / Demographic development+
+SOZ c 240 - Specialist sociologies / Sociology of demographics / Demographic geography+
+SOZ c 250 - Specialist sociologies / Sociology of demographics / Demographic structure+
+SOZ c 290 - Specialist sociologies / Sociology of demographics / Demography, other aspects+
+SOZ c 300 - Specialist sociologies / Pedagogical sociology+
+SOZ c 310 - Specialist sociologies / Pedagogical sociology / General+
+SOZ c 320 - Specialist sociologies / Pedagogical sociology / Structure and function of educational institutions, pedagogical and sociological learning in groups+
+SOZ c 330 - Specialist sociologies / Pedagogical sociology / Educational policy and planning+
+SOZ c 400 - Specialist sociologies / Political sociology+
+SOZ c 410 - Specialist sociologies / Political sociology / General+
+SOZ c 415 - Specialist sociologies / Political sociology / Domination, power, authority+
+SOZ c 420 - Specialist sociologies / Political sociology / Welfare state, social welfare state, public welfare+
+SOZ c 430 - Specialist sociologies / Political sociology / Social questions+
+SOZ c 440 - Specialist sociologies / Political sociology / Liberalism, neoliberalism+
+SOZ c 445 - Specialist sociologies / Political sociology / Capitalism, imperialism+
+SOZ c 450 - Specialist sociologies / Political sociology / Nationalism+
+SOZ c 455 - Specialist sociologies / Political sociology / Fascism, National Socialism, right-wing extremism+
+SOZ c 460 - Specialist sociologies / Political sociology / Marxism, materialism+
+SOZ c 465 - Specialist sociologies / Political sociology / Communism+
+SOZ c 470 - Specialist sociologies / Political sociology / Socialism+
+SOZ c 475 - Specialist sociologies / Political sociology / Anarchism+
+SOZ c 480 - Specialist sociologies / Political sociology / Revolution, extra-parliamentary opposition+
+SOZ c 490 - Specialist sociologies / Political sociology / Other political movements+
+SOZ c 500 - Specialist sociologies / Social anthropology, ethnosociology+
+SOZ c 510 - Specialist sociologies / Social anthropology, ethnosociology / General+
+SOZ c 520 - Specialist sociologies / Social anthropology, ethnosociology / Social strata and classes+
+SOZ c 530 - Specialist sociologies / Social anthropology, ethnosociology / Social institutions, norm system and moral concepts+
+SOZ c 540 - Specialist sociologies / Social anthropology, ethnosociology / Cultural anthropology+
+SOZ c 600 - Specialist sociologies / Legal sociology+
+SOZ c 610 - Specialist sociologies / Legal sociology / General+
+SOZ c 620 - Specialist sociologies / Legal sociology / Law and society+
+SOZ c 630 - Specialist sociologies / Legal sociology / Court, judge, jurisdiction, police+
+SOZ c 640 - Specialist sociologies / Legal sociology / Research to legal facts+
+SOZ c 650 - Specialist sociologies / Legal sociology / Criminal sociology+
+SOZ c 700 - Specialist sociologies / Economic sociology+
+SOZ c 710 - Specialist sociologies / Economic sociology / General+
+SOZ c 715 - Specialist sociologies / Economic sociology / Economic branches general+
+SOZ c 720 - Specialist sociologies / Economic sociology / Agriculture and forestry+
+SOZ c 725 - Specialist sociologies / Economic sociology / Goods-producing industry+
+SOZ c 730 - Specialist sociologies / Economic sociology / Industry and technology, industrial sociology+
+SOZ c 735 - Specialist sociologies / Economic sociology / Services sector+
+SOZ c 740 - Specialist sociologies / Economic sociology / Work sociology+
+SOZ c 745 - Specialist sociologies / Economic sociology / Work relations, strike, employee participation+
+SOZ c 750 - Specialist sociologies / Economic sociology / Unions and professional associations, cooperatives, labor movement+
+SOZ c 755 - Specialist sociologies / Economic sociology / Unemployment+
+SOZ c 760 - Specialist sociologies / Economic sociology / Sociology of economic action, innovation+
+SOZ c 765 - Specialist sociologies / Economic sociology / Consumer sociology+
+SOZ c 770 - Specialist sociologies / Economic sociology / Tax sociology+
+SOZ c 780 - Specialist sociologies / Economic sociology / Patronage, donations+
+SOZ c 800 - Specialist sociologies / Sociology of knowledge+
+SOZ c 810 - Specialist sociologies / Sociology of knowledge+
+SOZ c 820 - Specialist sociologies / Sociology of knowledge / Intellectual sociology+
+SOZ c 830 - Specialist sociologies / Sociology of knowledge / Ideology and ideological critique+
+SOZ c 840 - Specialist sociologies / Sociology of knowledge / Information society+
+SOZ c 900 - Specialist sociologies / Sociology of communication+
+SOZ c 910 - Specialist sociologies / Sociology of knowledge / General+
+SOZ c 920 - Specialist sociologies / Sociology of knowledge / Sociology of the media+
+SOZ c 930 - Specialist sociologies / Sociology of knowledge / Mass media general+
+SOZ c 940 - Specialist sociologies / Sociology of knowledge / Newspapers and magazines+
+SOZ c 950 - Specialist sociologies / Sociology of knowledge / Radio, television, film+
+SOZ c 960 - Specialist sociologies / Sociology of knowledge / Internet+
+SOZ c 970 - Specialist sociologies / Sociology of knowledge / Sociology of communicational relations+
+STM a 100 - General / General accounts of science, technics, medicine+
+STM a 900 - General / Special aspects+
+STM b 100 - Biology / General+
+STM b 200 - Biology / Evolution+
+STM b 300 - Biology / Genetics+
+STM b 900 - Biology / Special aspects+
+STM c 100 - Chemistry / General+
+STM c 900 - Chemistry / Special aspects+
+STM d 100 - Physics / General+
+STM d 900 - Physics / Special aspects+
+STM e 100 - Technics / General+
+STM e 200 - Technics / Standardization, norms+
+STM e 300 - Technics / Informatics+
+STM e 900 - Technics / Special aspects+
+STM f 100 - Medicine / General+
+STM f 200 - Medicine / Medical technology+
+STM f 900 - Medicine / Special aspects+
+TEL a 100 - General / Information material+
+TEL a 1000 - General / Basics of telecommunication+
+TEL a 1005 - General / Basics of telecommunication / General+
+TEL a 1010 - General / Basics of telecommunication / Information transmission (technology)+
+TEL a 1011 - General / Basics of telecommunication / Information transmission (technology) / General+
+TEL a 1012 - General / Basics of telecommunication / Information transmission (technology) / Modulation process+
+TEL a 1013 - General / Basics of telecommunication / Information transmission (technology) / Multiplexing+
+TEL a 1014 - General / Basics of telecommunication / Information transmission (technology) / Transmission according to information type+
+TEL a 1020 - General / Basics of telecommunication / Switching technology+
+TEL a 1021 - General / Basics of telecommunication / Switching technology / General+
+TEL a 1022 - General / Basics of telecommunication / Switching technology / Circuit switching+
+TEL a 1023 - General / Basics of telecommunication / Switching technology / Packet switching+
+TEL a 1030 - General / Basics of telecommunication / Line-bound transmission+
+TEL a 1031 - General / Basics of telecommunication / Line-bound transmission / General+
+TEL a 1032 - General / Basics of telecommunication / Line-bound transmission / (Theory of) line-bound transmission+
+TEL a 1033 - General / Basics of telecommunication / Line-bound transmission / Cables and lines in information transmission+
+TEL a 1034 - General / Basics of telecommunication / Line-bound transmission / Telecommunications, telephony, telephone engineering, teletypewriter engineering+
+TEL a 1040 - General / Basics of telecommunication / Line-bound transmission+
+TEL a 1041 - General / Basics of telecommunication / Optical information transmission / General+
+TEL a 1050 - General / Basics of telecommunication / High-frequency technology and radio engineering+
+TEL a 1051 - General / Basics of telecommunication / High-frequency technology and radio engineering / General+
+TEL a 1052 - General / Basics of telecommunication / High-frequency technology and radio engineering / Special aspects: satellites+
+TEL a 1053 - General / Basics of telecommunication / High-frequency technology and radio engineering / Special aspects: commercial radio technology, mobile radio communication+
+TEL a 1054 - General / Basics of telecommunication / High-frequency technology and radio engineering / Special aspects: antennas, directional radio technology, radar technology, microwaves, amateur radio, CB radio+
+TEL a 1060 - General / Basics of telecommunication / Radio and television engineering+
+TEL a 1061 - General / Basics of telecommunication / Radio and television engineering / General+
+TEL a 1062 - General / Basics of telecommunication / Radio and television engineering / Digital television, digital radio, digital audio technology+
+TEL a 1063 - General / Basics of telecommunication / Radio and television engineering / Cable television technology, cable television+
+TEL a 1064 - General / Basics of telecommunication / Radio and television engineering / Satellite radio and satellite television technology+
+TEL a 1070 - General / Basics of telecommunication / Multimedia technology+
+TEL a 1071 - General / Basics of telecommunication / Multimedia technology / General+
+TEL a 1100 - General / Research+
+TEL a 1200 - General / Corporations, institutions+
+TEL a 1300 - General / Archives, collections+
+TEL a 1400 - General / Apprenticeship, profession, further training+
+TEL a 200 - General / Dictionaries, reference works, encyclopaedias+
+TEL a 300 - General / Directories+
+TEL a 400 - General / Statistics, tables, data+
+TEL a 500 - General / Norms, guidelines+
+TEL a 600 - General / Congress and convention proceedings+
+TEL a 700 - General / Maps, atlases+
+TEL a 800 - General / History of telecommunication+
+TEL a 900 - General / Comprehensive accounts+
+TEL a 950 - General / Comprehensive accounts / Country-related (comprehensive) accounts+
+TEL b 100 - Special items / General+
+TEL b 200 - Special items / Networks, data networks+
+TEL b 205 - Special items / Networks, data networks / General+
+TEL b 210 - Special items / Networks, data networks / Computer networks general+
+TEL b 212 - Special items / Networks, data networks / Computer networks general / Special computer networks+
+TEL b 213 - Special items / Networks, data networks / Computer networks general / TCP/IP networks+
+TEL b 214 - Special items / Networks, data networks / Computer networks general / Intranet+
+TEL b 220 - Special items / Networks, data networks / Network architectures+
+TEL b 222 - Special items / Networks, data networks / Network architectures / (Special) Telecommunications networks in general+
+TEL b 225 - Special items / Networks, data networks / Network architectures / Optical networks+
+TEL b 230 - Special items / Networks, data networks / Telecommunications networks+
+TEL b 232 - Special items / Networks, data networks / Telecommunications networks / Leased lines+
+TEL b 233 - Special items / Networks, data networks / Telecommunications networks / Private radio networks+
+TEL b 234 - Special items / Networks, data networks / Telecommunications networks / Analogue telephone network via modem+
+TEL b 235 - Special items / Networks, data networks / Telecommunications networks / Digital ISDN network+
+TEL b 236 - Special items / Networks, data networks / Telecommunications networks / Mobile network+
+TEL b 237 - Special items / Networks, data networks / Telecommunications networks / Satellite communication+
+TEL b 240 - Special items / Networks, data networks / Information systems+
+TEL b 250 - Special items / Networks, data networks / Electronic networks+
+TEL b 260 - Special items / Networks, data networks / Access networks+
+TEL b 300 - Special items / Services+
+TEL b 305 - Special items / Services / General+
+TEL b 310 - Special items / Services / Telecommunications services+
+TEL b 312 - Special items / Services / Telecommunications services / Telegraphy, telex, teletype message+
+TEL b 313 - Special items / Services / Telecommunications services / Telephony, telecommunications+
+TEL b 314 - Special items / Services / Telecommunications services / Telecontrol+
+TEL b 315 - Special items / Services / Telecommunications services / Telefax, telecopy+
+TEL b 316 - Special items / Services / Telecommunications services / Viewdata, teletext+
+TEL b 320 - Special items / Services / Data transmission services+
+TEL b 322 - Special items / Services / Data transmission services / Analogue information transmission+
+TEL b 323 - Special items / Services / Data transmission services / Digital information transmission+
+TEL b 324 - Special items / Services / Data transmission services / Video signal general+
+TEL b 330 - Special items / Services / Voice services+
+TEL b 332 - Special items / Services / Voice services / Messaging via SMS service+
+TEL b 333 - Special items / Services / Voice services / Callback service, call-by-call service, preselecting service, voice flat rate+
+TEL b 334 - Special items / Services / Voice services / Internet voice telephony+
+TEL b 340 - Special items / Services / Internet services+
+TEL b 342 - Special items / Services / Internet services / Flat rate+
+TEL b 345 - Special items / Services / Internet services / Internet commerce, E-Business+
+TEL b 350 - Special items / Services / Premium-rate services+
+TEL b 360 - Special items / Services / Services for business clients+
+TEL b 362 - Special items / Services / Services for business clients / E-commerce solutions, M-commerce solutions+
+TEL b 363 - Special items / Services / Services for business clients / Virtual private network (VPN)+
+TEL b 364 - Special items / Services / Services for business clients / Application service provider+
+TEL b 365 - Special items / Services / Services for business clients / Centrex+
+TEL b 370 - Special items / Services / Convergent services+
+TEL b 372 - Special items / Services / Convergent services / Unified Messaging Service (UMS)+
+TEL b 400 - Special items / Terminals+
+TEL b 405 - Special items / Terminals / General+
+TEL b 410 - Special items / Terminals / Telephones+
+TEL b 415 - Special items / Terminals / Mobile telephones+
+TEL b 420 - Special items / Terminals / VoIP or SIP telephones+
+TEL b 425 - Special items / Terminals / Personal computer, notebooks, laptops+
+TEL b 430 - Special items / Terminals / Answering machines+
+TEL b 435 - Special items / Terminals / Voicemail+
+TEL b 440 - Special items / Terminals / Fax machines+
+TEL b 445 - Special items / Terminals / Walkie-talkies+
+TEL b 450 - Special items / Terminals / PDAs+
+TEL b 455 - Special items / Terminals / Modems+
+TEL b 460 - Special items / Terminals / Televisions+
+TEL b 465 - Special items / Terminals / Radios, HiFi systems+
+TEL b 500 - Special items / Telecommunication in a broader sense+
+TEL b 505 - Special items / Telecommunication in a broader sense / General+
+TEL b 510 - Special items / Telecommunication in a broader sense / Postal services and telecommunications+
+TEL b 511 - Special items / Telecommunication in a broader sense / Postal services and telecommunication / General+
+TEL b 512 - Special items / Telecommunication in a broader sense / Postal services and telecommunications+
+TEL b 520 - Special items / Telecommunication in a broader sense / Broadcasting+
+TEL b 521 - Special items / Telecommunication in a broader sense / Broadcasting / General+
+TEL b 522 - Special items / Telecommunication in a broader sense / Broadcasting / Special aspects+
+TEL b 530 - Special items / Telecommunication in a broader sense / Multimedia+
+TEL b 531 - Special items / Telecommunication in a broader sense / Multimedia / General+
+TEL b 532 - Special items / Telecommunication in a broader sense / Multimedia / Special aspects+
+TEL b 600 - Special items / Comparison of several items+
+TEL d 100 - Goals and problems / General+
+TEL d 200 - Goals and problems / Coordination and coordination deficits+
+TEL d 250 - Goals and problems / Coordination and coordination deficits / Questions of competition policy+
+TEL d 300 - Goals and problems / Distribution+
+TEL d 400 - Goals and problems / Inalienability and security of supply+
+TEL d 500 - Goals and problems / Conflict-solving+
+TEL d 600 - Goals and problems / Information and risk problems+
+TEL d 700 - Goals and problems / Temporal dimension+
+TEL d 800 - Goals and problems / Operationalizing of goals+
+TEL d 900 - Goals and problems / Convergence problems+
+TEL d 910 - Goals and problems / Convergence problems / Gateways and converters+
+TEL f 100 - Instruments / General+
+TEL f 200 - Instruments / Market structure+
+TEL f 300 - Instruments / Market behavior+
+TEL f 310 - Instuments / Market behavior / General and comparative+
+TEL f 320 - Instruments / Market behavior / Positive regulation+
+TEL f 330 - Instruments / Market behavior / Negative regulation+
+TEL f 333 - Instruments / Market behavior / Negative regulation / Operation maintenance center, network management center+
+TEL f 340 - Instruments / Market behavior / Incentives+
+TEL f 350 - Instruments / Market behavior / Entrepreneurial state action+
+TEL f 360 - Instruments / Market behavior / State information action+
+TEL f 370 - Instruments / Market behavior / Regulation through organizations and proceedings+
+TEL f 400 - Instruments / Market result+
+TEL h 100 - Actors / General+
+TEL h 200 - Actors / Governmental organizations+
+TEl h 210 - Actors / Governmental organizations / United Nations+
+TEL h 220 - Actors / Governmental organizations / European Union+
+TEL h 230 - Actors / Governmental organizations / States, governments+
+TEL h 240 - Actors / Governmental organizations / Federal states+
+TEL h 250 - Actors / Governmental organizations / Local authorities+
+TEL h 300 - Actors / Non-governmental organizations+
+TEL h 310 - Actors / Non-governmental organizations / Associations+
+TEL h 320 - Actors / Non-governmental organizations / Parties+
+TEL h 330 - Actors / Non-governmental organizations / The public, the media+
+TEL h 340 - Actors / Non-governmental organizations / Private business+
+TEL h 400 - Actors / Producers+
+TEL h 500 - Actors / Network operators, providers, resellers, distribution partners+
+TEL h 510 - Actors / Network operators, providers, resellers, distribution partners / Universal network operators+
+TEL h 515 - Actors / Network operators, providers, resellers, distribution partners / Backbone network operators+
+TEL h 520 - Actors / Network operators, providers, resellers, distribution partners / Connection network operators+
+TEL h 525 - Actors / Network operators, providers, resellers, distribution partners / Access network operators+
+TEL h 530 - Actors / Network operators, providers, resellers, distribution partners / Mobile virtual network operators+
+TEL h 535 - Actors / Network operators, providers, resellers, distribution partners / Resellers+
+TEL h 540 - Actors / Network operators, providers, resellers, distribution partners / Service providers+
+TEL h 545 - Actors / Network operators, providers, resellers, distribution partners / Internet service providers+
+TEL h 550 - Actors / Network operators, providers, resellers, distribution partners / Distribution partners+
+TEL h 555 - Actors / Network operators, providers, resellers, distribution partners / Call centers+
+TEL k 100 - Proceedings, decision processes and proceedings / General+
+TEL k 200 - Proceedings, decision processes and proceedings / Telecommunications law+
+TEL k 210 - Proceedings, decision processes and proceedings / Telecommunications law / Telecommunications and constitutional law, constitutional law of telecommunications+
+TEL k 215 - Proceedings, decision processes and proceedings / Telecommunications law / Telecommunications law+
+TEL k 220 - Proceedings, decision processes and proceedings / Telecommunications law / Secrecy of telecommunications, data protection, public security+
+TEL k 300 - Proceedings, decision processes and proceedings / Postal law+
+TEL k 400 - Proceedings, decision processes and proceedings / Media and broadcasting law, television law+
+TEL k 450 - Proceedings, decision processes and proceedings / Press law+
+TEL k 500 - Proceedings, decision processes and proceedings / Data protection law+
+TEL k 600 - Proceedings, decision processes and proceedings / Computer law, EDP law, law of the internet+
+TEL p 100 - Political economy / General+
+TEL p 200 - Political economy / Politics, economy, financing+
+TEL p 205 - Political economy / Politics, economy, financing / General+
+TEL p 210 - Political economy / Politics, economy, financing / Politics and telecommunications+
+TEL p 215 - Political economy / Politics, economy, financing / Economy and telecommunications+
+TEL p 220 - Political economy / Politics, economy, financing / Financing, cost, insurance+
+TEL r 100 - International / General+
+TEL r 200 - International / Treaties and agreements relating to public international law+
+TEL r 300 - International / International regimes+
+TEL r 400 - International / Multilevel analysis+
+TEL r 500 - International / International cooperation+
+TEL r 600 - International / International telecommunications law+
+TEL r 700 - International / International data protection law+
+UMW a 100 - General / Information material+
+UMW a 1000 - General / Environmental analytics+
+UMW a 1100 - General / Research+
+UMW a 1200 - General / Corporations, institutions+
+UMW a 1300 - General / Archives, collections+
+UMW a 1400 - General / Apprenticeship, profession, further training+
+UMW a 200 - General / Dictionaries, reference works, encyclopedias+
+UMW a 300 - General / Directories+
+UMW a 400 - General / Statistics, tables, data+
+UMW a 500 - General / Norms, guidelines+
+UMW a 600 - General / Congress and convention proceedings+
+UMW a 700 - General / Maps, atlases+
+UMW a 800 - General / History+
+UMW a 900 - General / Comprehensive accounts+
+UMW a 950 - General / Comprehensive accounts / Country-related (comprehensive) accounts+
+UMW b 100 - Special items / General+
+UMW b 1000 - Special items / Health. Alimentation+
+UMW b 1005 - Special items / Health. Alimentation / General+
+UMW b 1010 - Special items / Health. Alimentation / Environment and medicine+
+UMW b 1015 - Special items / Health. Alimentation / Social and environmental hygiene+
+UMW b 1020 - Special items / Health. Alimentation / Adverse drug reactions+
+UMW b 1030 - Special items / Health. Alimentation / Alimentation+
+UMW b 1031 - Special items / Health. Alimentation / Alimentation / Genetic manipulation in the nutritional sector+
+UMW b 1032 - Special items / Health. Alimentation / Alimentation / Damages through stimulants+
+UMW b 1100 - Special items / Chemical and physical impact on the environment+
+UMW b 1105 - Special items / Chemical and physical impact on the environment / General+
+UMW b 1110 - Special items / Chemical and physical impact on the environment / Chemical impact+
+UMW b 1115 - Special items / Chemical and physical impact on the environment / Physical impact+
+UMW b 1120 - Special items / Chemical and physical impact on the environment / Radioactive impact+
+UMW b 1125 - Special items / Chemical and physical impact on the environment / Tremor, shock, explosion+
+UMW b 200 - Special items / Air+
+UMW b 205 - Special items / Air / General. History+
+UMW b 210 - Special items / Air / Climate change+
+UMW b 215 - Special items / Air / Weather, atmospheric conditions+
+UMW b 220 - Special items / Air / Air pollution control+
+UMW b 225 - Special items / Air / Air pollution+
+UMW b 230 - Special items / Air / Unpleasant odor+
+UMW b 235 - Special items / Air / Damages+
+UMW b 240 - Special items / Air / The air in living and working spaces. Indoor temperature+
+UMW b 245 - Special items / Air / Heating, temperature regulation+
+UMW b 250 - Special items / Air / Air research+
+UMW b 255 - Special items / Air / Cost, financing+
+UMW b 300 - Special items / Noise+
+UMW b 305 - Special items / Noise / General. History+
+UMW b 310 - Special items / Noise / Sound and sound waves+
+UMW b 315 - Special items / Noise / Causes of noise and noise exposure+
+UMW b 320 - Special items / Noise / Noise in residential areas and houses+
+UMW b 325 - Special items / Noise / Noise suppression, noise abatement, silence+
+UMW b 330 - Special items / Noise / Noise protection+
+UMW b 335 - Special items / Noise / Harm caused by noise+
+UMW b 340 - Special items / Noise / Noise research+
+UMW b 345 - Special items / Noise / Measuring, measuring technology+
+UMW b 350 - Special items / Noise / Question of cost, financing+
+UMW b 400 - Special items / Water+
+UMW b 405 - Special items / Noise / General. History+
+UMW b 410 - Special items / Water / Inland waters, general water quality+
+UMW b 415 - Special items / Water / Water biology+
+UMW b 420 - Special items / Water / Water chemistry+
+UMW b 425 - Special items / Water / Water hygiene, water protection, water body restoration+
+UMW b 430 - Special items / Water / Water balance+
+UMW b 435 - Special items / Water / Water demand, securing of water supply+
+UMW b 440 - Special items / Water / Water usage, water supply, water reserves+
+UMW b 445 - Special items / Water / Hydraulic engineering, irrigation+
+UMW b 450 - Special items / Water / Water pollution+
+UMW b 455 - Special items / Water / Sewage treatment, sewage removal+
+UMW b 460 - Special items / Water / Water research+
+UMW b 465 - Special items / Water / Cost, financing+
+UMW b 470 - Special items / Water / Oceans and coastal waters+
+UMW b 475 - Special items / Water / Fishery, marine matters+
+UMW b 500 - Special items / Land, soil+
+UMW b 505 - Special items / Land, soil / General. History+
+UMW b 510 - Special items / Land, soil / Damages to soil and counter-measures, soil erosion+
+UMW b 530 - Special items / Land, soil / Soil conservation, soil protection+
+UMW b 535 - Special items / Land, soil / Land use+
+UMW b 540 - Special items / Land, soil / Soil care and improvement. Land reclaiming+
+UMW b 545 - Special items / Land, soil / Land consolidation+
+UMW b 550 - Special items / Land, soil / Property and land lease. Agrarian reform. Land policy+
+UMW b 555 - Special items / Land, soil / Land market and value+
+UMW b 560 - Special items / Land, soil / Agriculture+
+UMW b 580 - Special items / Land, soil / Agriculture / Agricultural policy+
+UMW b 590 - Special items / Land, soil / Forestry+
+UMW b 600 - Special items / Hazardous materials+
+UMW b 700 - Special items / Environmental pollution and waste management+
+UMW b 705 - Special items / Environmental pollution and waste management / General. History+
+UMW b 710 - Special items / Environmental pollution and waste management / Man and the environment, human ecology+
+UMW b 712 - Special items / Environmental pollution and waste management / Environmental hazard, environmental impact assessment, environmental compatibility+
+UMW b 716 - Special items / Environmental pollution and waste management / Natural and environmental disasters+
+UMW b 720 - Special items / Environmental pollution and waste management / Environmental technology (engineering ecology)+
+UMW b 730 - Special items / Environmental pollution and waste management / Waste+
+UMW b 732 - Special items / Environmental pollution and waste management / Waste / Definition of waste and position of term in relation to other areas+
+UMW b 733 - Special items / Environmental pollution and waste management / Waste / Comprehensive accounts+
+UMW b 740 - Special items / Environmental pollution and waste management / Waste / Waste reduction, waste utilization, waste disposal+
+UMW b 743 - Special items / Environmental pollution and waste management / Waste / Waste treatment+
+UMW b 745 - Special items / Environmental pollution and waste management / Waste / Tasks and status of waste management representatives+
+UMW b 747 - Special items / Environmental pollution and waste management / Waste / Waste shipment+
+UMW b 750 - Special items / Environmental pollution and waste / Waste / Waste, special waste, waste management, ecological recycling management+
+UMW b 753 - Special items / Environmental pollution and waste management / Waste / Personnel (instruction and further training)+
+UMW b 755 - Special items / Environmental pollution and waste management / Waste / Research and development+
+UMW b 900 - Special items / Comparison of several items+
+UMW d 100 - Goals and problems / General+
+UMW d 1000 - Goals and problems / Environmental problems, environmental conservation+
+UMW d 1005 - Goals and problems / Nature and landscape protection, preservation of the countryside / General+
+UMW d 1010 - Goals and problems / Nature and landscape protection, preservation of the countryside / Sustainability, general+
+UMW d 1015 - Goals and problems / Nature and landscape protection, preservation of the countryside / Environment and society, environmental ethics+
+UMW d 1020 - Goals and problems / Nature and landscape protection, preservation of the countryside / Environment and church+
+UMW d 1025 - Goals and problems / Nature and landscape protection, preservation of the countryside / Environment and culture+
+UMW d 1030 - Goals and problems / Nature and landscape protection, preservation of the countryside / Environment and education+
+UMW d 1035 - Goals and problems / Nature and landscape protection, preservation of the countryside / Future prospects, future development+
+UMW d 1040 - Goals and problems / Nature and landscape protection, preservation of the countryside / Natural resources+
+UMW d 1100 - Goals and problems / Environment and work+
+UMW d 1105 - Goals and problems / Environment and work / General+
+UMW d 1110 - Goals and problems / Environment and work / Employment protection+
+UMW d 1115 - Goals and problems / Environment and work / Stress+
+UMW d 1120 - Goals and problems / Environment and work / Rest and recreation+
+UMW d 1200 - Goals and problems / Climate protection+
+UMW d 200 - Goals and problems / Coordination and coordination deficits+
+UMW d 250 - Goals and problems / Coordination and coordination deficits / Questions of competition policy+
+UMW d 300 - Goals and problems / Distribution+
+UMW d 400 - Goals and problems / Inalienability and security of supply+
+UMW d 500 - Goals and problems / Conflict-solving+
+UMW d 600 - Goals and problems / Information and risk problems+
+UMW d 700 - Goals and problems / Temporal dimension+
+UMW d 800 - Goals and problems / Operationalization of goals+
+UMW d 900 - Goals and problems / Nature and landscape protection, preservation of the countryside+
+UMW d 905 - Goals and problems / Nature and landscape protection, preservation of the countryside / General. History+
+UMW d 910 - Goals and problems / Nature and landscape protection, preservation of the countryside / Nature conservation+
+UMW d 915 - Goals and problems / Nature and landscape protection, preservation of the countryside / Nature reserves and protected landscapes. National parks+
+UMW d 920 - Goals and problems / Nature and landscape protection, preservation of the countryside / Habitat protection, habitat mapping+
+UMW d 925 - Goals and problems / Nature and landscape protection, preservation of the countryside / Protection of species and diversity of species+
+UMW d 930 - Goals and problems / Nature and landscape protection, preservation of the countryside / Impact of agricultural use+
+UMW d 945 - Goals and problems / Nature and landscape protection, preservation of the countryside / Animal protection+
+UMW d 950 - Goals and problems / Nature and landscape protection, preservation of the countryside / Plant protection+
+UMW f 100 - Instruments / General and comparative+
+UMW f 200 - Instruments / Positive regulation+
+UMW f 300 - Instruments / Negative regulation+
+UMW f 400 - Instruments / Incentive+
+UMW f 500 - Instruments / Entrepreneurial state action+
+UMW f 600 - Instruments / State information action+
+UMW f 700 - Instruments / Regulation through organizations and proceedings+
+UMW h 100 - Actors / General+
+UMW h 200 - Actors / Governmental organizations+
+UMW h 210 - Actors / Governmental organizations / United Nations+
+UMW h 220 - Actors / Governmental organizations / European Union+
+UMW h 230 - Actors / Governmental organizations / States, governments+
+UMW h 240 - Actors / Governmental organizations / Federal states+
+UMW h 250 - Actors / Governmental organizations / Local authorities+
+UMW h 300 - Actors / Non-governmental organizations+
+UMW h 310 - Actors / Non-governmental organizations / Associations+
+UMW h 320 - Actors / Non-governmental organizations / Parties+
+UMW h 330 - Actors / Non-governmental organizations / The public, the media+
+UMW h 340 - Actors / Non-governmental organizations / Private business+
+UMW h 400 - Actors / Population+
+UMW h 410 - Actors / Population / General+
+UMW h 420 - Actors / Population / Population increase, overpopulation, population planning+
+UMW k 100 - Proceedings, decision processes and proceedings / General+
+UMW k 200 - Proceedings, decision processes and proceedings / Environmental law+
+UMW k 205 - Proceedings, decision processes and proceedings / Environmental law / Nature conservation law, landscape protection, protection of the environment, landscape conservation law, animal protection law+
+UMW k 210 - Proceedings, decision processes and proceedings / Environmental law / Environment and food law+
+UMW k 215 - Proceedings, decision processes and proceedings / Environmental law / Law on environmental chemicals and biocides, law governing materials ("Stoffrecht")+
+UMW k 220 - Proceedings, decision processes and proceedings / Environmental law / Law on plant protection and pest control+
+UMW k 225 - Proceedings, decision processes and proceedings / Environmental law / Waste legislation, waste disposal legislation, pollution and law+
+UMW k 230 - Proceedings, decision processes and proceedings / Environmental law / Environment and water rights, law on water protection+
+UMW k 235 - Proceedings, decision processes and proceedings / Environmental law / Law on immission control+
+UMW k 240 - Proceedings, decision processes and proceedings / Environmental law / Environment and atomic energy law, energy law, power-producing industry law, law on the prevention of radiation+
+UMW k 245 - Proceedings, decision processes and proceedings / Environmental law / Environment and law on genetic engineering+
+UMW k 250 - Proceedings, decision processes and proceedings / Environmental law / Environment and regional planning legislation, building laws, soil conservation+
+UMW k 255 - Proceedings, decision processes and proceedings / Environmental law / Environment and constitutional law, trade tax, tax law and transport law+
+UMW k 260 - Proceedings, decision processes and proceedings / Environmental law / Environment and civil law, criminal law+
+UMW k 265 - Proceedings, decision processes and proceedings / Environmental law / Polluter principle+
+UMW k 267 - Proceedings, decision processes and proceedings / Environmental law / Precautionary principle+
+UMW k 270 - Proceedings, decision processes and proceedings / Environmental law / Environmental compatibility of legal provisions+
+UMW k 275 - Proceedings, decision processes and proceedings / Environmental law / Agricultural law+
+UMW k 280 - Proceedings, decision processes and proceedings / Environmental law / Environmental liability law+
+UMW k 285 - Proceedings, decision processes and proceedings / Environmental law / Environmental and administrative law+
+UMW p 100 - Political economy / General+
+UMW p 200 - Political economy / Politics. Economy. Financing+
+UMW p 205 - Political economy / Politics. Economy. Financing / General+
+UMW p 210 - Political economy / Politics. Economy. Financing / Environmental policy+
+UMW p 215 - Political economy / Politics. Economy. Financing / Economics and the environment. Environmental economics+
+UMW p 220 - Political economy / Politics. Economy. Financing / Financing. Costs. Insurance+
+UMW r 100 - International / General+
+UMW r 200 - International / Treaties and agreements relating to public international law+
+UMW r 300 - International / International regimes+
+UMW r 400 - International / Multilevel analysis+
+UMW r 500 - International / International cooperation+
+UMW r 600 - International / International law concerning environment protection+
+VER a 100 - General / Information material+
+VER a 1000 - General / Basic information on traffic and transport+
+VER a 1100 - General / Research+
+VER a 1200 - General / Corporations, institutions+
+VER a 1300 - General / Archives, collections+
+VER a 1400 - General / Apprenticeship, profession, further training+
+VER a 200 - General / Dictionaries, reference works, encyclopaedias+
+VER a 300 - General / Directories+
+VER a 400 - General / Statistics, tables, data+
+VER a 500 - General / Norms, guidelines+
+VER a 600 - General / Congress and convention proceedings+
+VER a 700 - General / Maps, atlases+
+VER a 800 - General / History of the transport system+
+VER a 900 - General / Comprehensive accounts+
+VER a 950 - General / Comprehensive accounts / Country-related (comprehensive) accounts+
+VER b 100 - Special items / General+
+VER b 200 - Special items / Road traffic+
+VER b 205 - Special items / Road traffic / General. History of transport+
+VER b 210 - Special items / Road traffic / Transport routes, roads, transport facilities+
+VER b 215 - Special items / Road traffic / Goods: road vehicles+
+VER b 220 - Special items / Road traffic / Persons+
+VER b 225 - Special items / Road traffic / Vehicle manufacturing, automotive engineering+
+VER b 230 - Special items / Road traffic / Traffic route engineering, tunnel construction, bridge construction+
+VER b 235 - Special items / Road traffic / Cost, financing+
+VER b 300 - Special items / Railway transportation, railroading+
+VER b 305 - Special items / Railway transportation, railroading / General. History of the railroad and railway transportation+
+VER b 310 - Special items / Railway transportation, railroading / Routes, lines+
+VER b 315 - Special items / Railway transportation, railroading / Goods: rail cars+
+VER b 320 - Special items / Railway transportation, railroading / Persons+
+VER b 325 - Special items / Railway transportation, railroading / Railway property, repair workshops+
+VER b 330 - Special items / Railway transportation, railroading / Railway carriage depoit, railway carriage manufacturing+
+VER b 335 - Special items / Railway transportation, railroading / Cost, financing+
+VER b 400 - Special items / Aviation+
+VER b 405 - Special items / Aviation / General. History of aviation+
+VER b 410 - Special items / Aviation / Routes+
+VER b 415 - Special items / Aviation / Goods: aircraft+
+VER b 420 - Special items / Aviation / Persons+
+VER b 425 - Special items / Aviation / Airport, airfield+
+VER b 430 - Special items / Aviation / Airport operations and service+
+VER b 435 - Special items / Aviation / Airport operations and service+
+VER b 440 - Special items / Aviation / Air transportation, air traffic, aeronautics, navigation+
+VER b 445 - Special items / Aviation / Repair, service+
+VER b 450 - Special items / Aviation / Cost, financing+
+VER b 500 - Special items / Ship transport+
+VER b 505 - Special items / Aviation / General. History of ship transport+
+VER b 510 - Special items / Aviation / Inland waterways transport, canals+
+VER b 515 - Special items / Aviation / Ocean and coastal shipping+
+VER b 520 - Special items / Aviation / Routes+
+VER b 525 - Special items / Space flight and rocketry, space+
+VER b 530 - Special items / Aviation / Persons+
+VER b 535 - Special items / Aviation / Harbor, port operations, ports+
+VER b 540 - Special items / Aviation / Shipbuilding, ship machinery, ship furnishings and equipment+
+VER b 545 - Special items / Aviation / Ship's command, nautics, navigation+
+VER b 550 - Special items / Aviation / Ship repair, maintenance, shipyard+
+VER b 555 - Special items / Aviation / Cost financing+
+VER b 600 - Special items / Space flight and rocketry, space+
+VER b 605 - Special items / Space flight and rocketry, space / General. History of space flight+
+VER b 610 - Special items / Space flight and rocketry, space / Routes+
+VER b 615 - Special items / Space flight and rocketry, space / Goods: spacecraft+
+VER b 620 - Special items / Space flight and rocketry, space / Persons+
+VER b 625 - Special items / Space flight and rocketry, space / Rocketry, rocket propulsion+
+VER b 630 - Special items / Space flight and rocketry, space / Spacecraft manufacturing, spacecraft engineering+
+VER b 635 - Special items / Space flight and rocketry, space / Ground organization of space flight+
+VER b 640 - Special items / Space flight and rocketry, space / Space flight systems, manned space flight+
+VER b 645 - Special items / Space flight and rocketry, space / Remote sensing, satellite prospection+
+VER b 650 - Special items / Space flight and rocketry, space / Cost, financing+
+VER b 700 - Special items / Transport+
+VER b 705 - Special items / Transport / General+
+VER b 710 - Special items / Transport / Passenger transport+
+VER b 715 - Special items / Transport / Postal service+
+VER b 720 - Special items / Transport / Goods transportation, shipping+
+VER b 725 - Special items / Transport / Lifting and conveyor technique+
+VER b 730 - Special items / Transport / Packaging technique, transport containers+
+VER b 735 - Special items / Transport / Storage technique+
+VER b 740 - Special items / Transport / Intermodal and multimodal transport and traffic+
+VER b 800 - Special items / Tourism+
+VER b 900 - Special items / Comparison of several items+
+VER d 100 - Goals and problems / General+
+VER d 1000 - Goals and problems / Environmentally friendly automotive engineering+
+VER d 1100 - Goals and problems / Traffic problems, traffic in built-up areas+
+VER d 1200 - Goals and problems / Road safety training+
+VER d 1300 - Goals and problems / Transport and environment protection+
+VER d 200 - Goals and problems / Coordination and coordination deficits+
+VER d 250 - Goals and problems / Coordination and coordination deficits / Questions of competition policy+
+VER d 300 - Goals and problems / Distribution+
+VER d 400 - Goals and problems / Inalienability and security of supply+
+VER d 500 - Goals and problems / Conflict-solving+
+VER d 600 - Goals and problems / Information and risk problems+
+VER d 700 - Goals and problems / Temporal dimension+
+VER d 800 - Goals and problems / Operationalization of goals+
+VER d 900 - Goals and problems / Road safety, accident research, security and safety issues+
+VER f 100 - Instruments / General+
+VER f 200 - Instruments / Market structure+
+VER f 300 - Instruments / Market behavior+
+VER f 310 - Instruments / Market behavior / General and comparative+
+VER f 320 - Instruments / Market behavior / Positive regulation+
+VER f 330 - Instruments / Market behavior / Negative regulation+
+VER f 340 - Instruments / Market behavior / Incentives+
+VER f 350 - Instruments / Market behavior / Entrepreneurial state action+
+VER f 360 - Instruments / Market behavior / State information action+
+VER f 370 - Instruments / Market behavior / Regulation through organizations and proceedings+
+VER f 400 - Instruments / Market result+
+VER h 100 - Actors / General+
+VER h 200 - Actors / Governmental organizations+
+VER h 210 - Actors / Governmental organizations / United nations+
+VER h 220 - Actors / Governmental organizations / European Union+
+VER h 230 - Actors / Governmental organizations / States, governments+
+VER h 240 - Actors / Governmental organizations / Federal states+
+VER h 250 - Actors / Governmental organizations / Local authorities+
+VER h 300 - Actors / Non-governmental organizations+
+VER h 310 - Actors / Non-governmental organizations / Associations+
+VER h 320 - Actors / Non-governmental organizations / Parties+
+VER h 330 - Actors / Non-governmental organizations / The public, the media+
+VER h 340 - Actors / Non-governmental organizations / Private business+
+VER k 100 - Proceedings, decision processes and proceedings / General+
+VER k 200 - Proceedings, decision processes and proceedings / Transport law+
+VER k 205 - Proceedings, decision processes and proceedings / Transport law / General+
+VER k 210 - Proceedings, decision processes and proceedings / Transport law / Law on shipping+
+VER k 215 - Proceedings, decision processes and proceedings / Transport law / Overlapping norms between common carriers+
+VER p 100 - Political economy / General+
+VER p 200 - Political economy / Politics, economy, financing+
+VER p 205 - Political economy / Politics, economy, financing / General+
+VER p 210 - Political economy / Politics, economy, financing / Transport policy+
+VER p 215 - Political economy / Politics, economy, financing / Traffic management, traffic and transport business, transport economics, transport industry+
+VER p 220 - Political economy / Politics, economy, financing / Financing, cost, insurance+
+VER p 225 - Political economy / Politics, economy, financing / Means of transport, choice of transportation means+
+VER p 230 - Political economy / Politics, economy, financing / Local traffic, public transport+
+VER p 235 - Political economy / Politics, economy, financing / Transport psychology+
+VER p 240 - Political economy / Politics, economy, financing / Transport sociology+
+VER r 100 - International / General+
+VER r 200 - International / Treaties and agreements relating to public international law+
+VER r 300 - International / International regimes+
+VER r 400 - International / Multilevel analysis+
+VER r 500 - International / International cooperation+
+VER r 600 - International / International transport law+
+WIR a 100 - General / General accounts on business studies and economics, political economy+
+WIR a 120 - General / Teaching and education methods+
+WIR a 150 - General / Organization and management, organizational theories+
+WIR b 100 - Economic systems / General+
+WIR b 200 - Economic systems / Market-economic systems (public, private, free, social market economy)+
+WIR b 300 - Economic systems / Planned economic systems+
+WIR b 400 - Economic systems / Other economic systems and intermediate forms+
+WIR b 500 - Economic systems / Transformation of economic systems+
+WIR d 100 - Economic theory / General+
+WIR d 200 - Economic theory / Microeconomics+
+WIR d 205 - Economic theory / Microeconomics / General+
+WIR d 210 - Economic theory / Microeconomics / Household theory, consumer theory+
+WIR d 220 - Economic theory / Microeconomics / Consumer behavior+
+WIR d 230 - Economic theory / Microeconomics / Demand theory+
+WIR d 240 - Economic theory / Microeconomics / Cost and production theory+
+WIR d 250 - Economic theory / Microeconomics / Theory of the firm+
+WIR d 300 - Economic theory / Mesoeconomics+
+WIR d 305 - Economic theory / Mesoeconomics / General+
+WIR d 310 - Economic theory / Mesoeconomics / Market theory+
+WIR d 312 - Economic theory / Mesoeconomics / Market theory / Types and forms of market+
+WIR d 313 - Economic theory / Mesoeconomics / Market theory / Natural monopoly+
+WIR d 314 - Economic theory / Mesoeconomics / Market theory / Market equilibrium+
+WIR d 315 - Economic theory / Mesoeconomics / Market theory / General equilibrium theory+
+WIR d 316 - Economic theory / Mesoeconomics / Market theory / Competition+
+WIR d 320 - Economic theory / Mesoeconomics / Welfare theory+
+WIR d 322 - Economic theory / Mesoeconomics / Welfare theory / Market failure+
+WIR d 323 - Economic theory / Mesoeconomics / Welfare theory / Market failure / Causes of market failure: asymmetric information+
+WIR d 324 - Economic theory / Mesoeconomics / Welfare theory / Market failure / Causes of market failure: external effects+
+WIR d 325 - Economic theory / Mesoeconomics / Welfare theory / Market failure / Causes of market failure: network effects+
+WIR d 326 - Economic theory / Mesoeconomics / Welfare theory / Market failure / Causes of market failure: public goods+
+WIR d 327 - Economic theory / Mesoeconomics / Welfare theory / Market failure / Causes of market failure: market power (monopolies)+
+WIR d 330 - Economic theory / Mesoeconomics / Industrial organization+
+WIR d 340 - Economic theory / Mesoeconomics / Price theory+
+WIR d 350 - Economic theory / Mesoeconomics / Competition theory+
+WIR d 360 - Economic theory / Mesoeconomics / Industrial location theory+
+WIR d 370 - Economic theory / Mesoeconomics / Temporal dimension+
+WIR d 373 - Economic theory / Mesoeconomics / Temporal dimension / Evolutionary economics+
+WIR d 375 - Economic theory / Mesoeconomics / Temporal dimension / Economics of innovation+
+WIR d 400 - Economic theory / Macroeconomics+
+WIR d 405 - Economic theory / Macroeconomics / General+
+WIR d 410 - Economic theory / Macroeconomics / Production factors and distribution quotas, productivity+
+WIR d 412 - Economic theory / Macroeconomics / Production factors and distribution quotas, productivity / Capital and interest+
+WIR d 413 - Economic theory / Macroeconomics / Production factors and distribution quotas, productivity / Work and wage+
+WIR d 414 - Economic theory / Macroeconomics / Production factors and distribution quotas, productivity / Land and rent charge+
+WIR d 415 - Economic theory / Macroeconomics / Production factors and distribution quotas, productivity / Entrepreneur and profit+
+WIR d 420 - Economic theory / Macroeconomics / National income and expenditure+
+WIR d 422 - Economic theory / Macroeconomics / National income and expenditure / General+
+WIR d 424 - Economic theory / Macroeconomics / National income and expenditure / Circulation theory+
+WIR d 426 - Economic theory / Macroeconomics / National income and expenditure / National income: national product, GDP = gross domestic product, GNP = gross national product+
+WIR d 428 - Economic theory / Macroeconomics / National income and expenditure / Input-output-calculation+
+WIR d 430 - Economic theory / Macroeconomics / Temporal dimensions of macroeconomics+
+WIR d 435 - Economic theory / Macroeconomics / Statistical models (equilibrium models)+
+WIR d 440 - Economic theory / Macroeconomics / Dynamic models (disequilibrium models)+
+WIR d 450 - Economic theory / Macroeconomics / Distribution theory (distribution of income and wealth)+
+WIR d 452 - Economic theory / Macroeconomics / Distribution of income: macroeconomic, functional distribution theory+
+WIR d 460 - Economic theory / Macroeconomics / Income and labor theory+
+WIR d 470 - Economic theory / Macroeconomics / Labor market theory+
+WIR d 480 - Economic theory / Macroeconomics / Growth and development+
+WIR d 482 - Economic theory / Macroeconomics / Growth and development / General+
+WIR d 484 - Economic theory / Macroeconomics / Growth and development / Technical progress and productivity+
+WIR d 486 - Economic theory / Macroeconomics / Growth and development / Industrialization+
+WIR d 488 - Economic theory / Macroeconomics / Growth and development / Growth and development policy+
+WIR d 490 - Economic theory / Macroeconomics / Theory of economic cycles+
+WIR d 498 - Economic theory / Macroeconomics / Money, currency, exchange and inflation theory+
+WIR f 100 - Economic policy / General and globalization+
+WIR f 1000 - Economic policy / Policy of safeguarding+
+WIR f 1010 - Economic policy / Policy of safeguarding / Safeguarding against risks relating to illness and care+
+WIR f 1020 - Economic policy / Policy of safeguarding / Old-age pension fund, pension insurance scheme+
+WIR f 1030 - Economic policy / Policy of safeguarding / Unemployment insurance+
+WIR f 1100 - Economic policy / Labor and employment policy+
+WIR f 1200 - Economic policy / Research policy+
+WIR f 1300 - Economic policy / Consumer policy+
+WIR f 200 - Economic theory / Theory of economic policy+
+WIR f 210 - Economic policy / Theory of economic policy / Goals, definition of aims+
+WIR f 220 - Economic policy / Theory of economic policy / Instruments+
+WIR f 230 - Economic policy / Theory of economic policy / Economic policy makers+
+WIR f 300 - Economic policy / Competition policy and market structure policy in the broader sense+
+WIR f 310 - Economic policy / Competition policy and market structure policy in the broader sense / Guiding principles of competition policy+
+WIR f 311 - Economic policy / Competition policy and market structure policy in the broader sense / Market liberalization+
+WIR f 315 - Economic policy / Competition policy and market structure policy in the broader sense / Competition and innovation+
+WIR f 320 - Economic policy / Competition policy and market structure policy in the broader sense / Instruments, antitrust economics+
+WIR f 321 - Economic policy / Competition policy and market structure policy in the broader sense / Instruments: cartel prohibition+
+WIR f 322 - Economic policy / Competition policy and market structure policy in the broader sense / Instruments: control of abusive practices+
+WIR f 323 - Economic policy / Competition policy and market structure policy in the broader sense / Instruments: merger control+
+WIR f 350 - Economic policy / Competition policy and market structure policy in the broader sense / Market structure policy in a broader sense+
+WIR f 400 - Economic policy / Sectoral structure policy+
+WIR f 410 - Economic policy / Sectoral structure policy / General+
+WIR f 420 - Economic policy / Sectoral structure policy / Data and accounts of individual sectors+
+WIR f 421 - Economic policy / Sectoral structure policy / Primary sector+
+WIR f 422 - Economic policy / Sectoral structure policy / Secondary sector+
+WIR f 423 - Economic policy / Sectoral structure policy / Tertiary sector+
+WIR f 430 - Economic policy / Sectoral structure policy / Sectoral regulation+
+WIR f 431 - Economic policy / Sectoral structure policy / Sectoral regulation: primary sector+
+WIR f 432 - Economic policy / Sectoral structure policy / Sectoral regulation: secondary sector+
+WIR f 433 - Economic policy / Sectoral structure policy / Sectoral regulation: tertiary sector+
+WIR f 440 - Economic policy / Sectoral structure policy / Public enterprises+
+WIR f 450 - Economic policy / Sectoral structure policy / Privatization+
+WIR f 500 - Economic policy / Spatial structure policy+
+WIR f 510 - Economic policy / Spatial structure policy / General+
+WIR f 520 - Economic policy / Spatial structure policy+
+WIR f 600 - Economic policy / Growth and development policy+
+WIR f 700 - Economic policy / Stability policy+
+WIR f 710 - Economic policy / Stability policy / Business cycle policy+
+WIR f 720 - Economic policy / Stability policy / Monetary policy+
+WIR f 730 - Economic policy / Stability policy / Inflation and deflation+
+WIR f 740 - Economic policy / Stability policy / Income policy+
+WIR f 750 - Economic policy / Stability policy / Pricing policy+
+WIR f 800 - Economic policy / Basic principles of social policy+
+WIR f 810 - Economic policy / Stability policy / Comprehensive accounts+
+WIR f 820 - Economic policy / Basic principles of social policy / Data on income distribution amongst personnel+
+WIR f 900 - Economic policy / Distribution policy in a broader sense+
+WIR f 910 - Economic policy / Distribution policy in a broader sense / Secondary distribution+
+WIR f 920 - Economic policy / Distribution policy in a broader sense / Influence on primary distribution+
+WIR f 921 - Economic policy / Distribution policy in a broader sense / Influence on primary distribution / Wealth policy+
+WIR f 922 - Economic policy / Distribution policy in a broader sense / Influence on primary distribution / Education policy, economics of education+
+WIR i 100 - Finance / Public authorities, public economics+
+WIR i 110 - Finance / Public authorities, public economics / General+
+WIR i 120 - Finance / Public authorities, public economics / Public economy, civil service+
+WIR i 130 - Finance / Public authorities, public economics / Local economy+
+WIR i 140 - Finance / Public authorities, public economics / Public corporations+
+WIR i 200 - Finance / History of finance+
+WIR i 210 - Finance / History of finance / General+
+WIR i 300 - Finance / Theory of finance+
+WIR i 310 - Finance / Theory of finance / General+
+WIR i 320 - Finance / Theory of finance / Budget theory+
+WIR i 330 - Finance / Theory of finance / Tax effects+
+WIR i 335 - Finance / Theory of finance / Shadow economy+
+WIR i 340 - Finance / Theory of finance / Theory of federalism+
+WIR i 400 - Finance / Finance policy+
+WIR i 410 - Finance / Finance policy / General+
+WIR i 420 - Finance / Finance policy / Tax policy+
+WIR i 430 - Finance / Finance policy / Fiscal policy, fiscal federalism+
+WIR i 440 - Finance / Finance policy / Financial equalization+
+WIR i 450 - Finance / Finance policy / Administration of the finances (financial institutions)+
+WIR i 460 - Finance / Finance policy / International finance policy, financial equalization at international level+
+WIR i 465 - Finance / Finance policy / International reactions+
+WIR i 470 - Finance / Finance policy / Intergenerational distribution effects of debt+
+WIR i 490 - Finance / Finance policy / Financial planning+
+WIR i 500 - Finance / Finance psychology, finance sociology+
+WIR i 510 - Finance / Finance psychology, finance sociology / Finance psychology+
+WIR i 520 - Finance / Finance policy / Finance sociology+
+WIR i 600 - Finance / Public revenue+
+WIR i 610 - Fiannce / Public revenue / General+
+WIR i 620 - Finance / Public revenue / Dues, contributions, charges+
+WIR i 630 - Finance / Public revenue / Taxes, tax systems+
+WIR i 635 - Finance / Public revenue / Tax competition+
+WIR i 640 - Finance / Public revenue / Tax types+
+WIR i 650 - Finance / Public revenue / National debt, budget deficit+
+WIR i 700 - Finance / Public expenditure+
+WIR i 710 - Finance / Public expenditure / General+
+WIR i 720 - Finance / Public expenditure / Public expenditure+
+WIR i 730 - Finance / Public revenue / Subventions, transfers+
+WIR i 740 - Finance / Public revenue / Public contracts+
+WIR i 750 - Finance / Public revenue / Public loans+
+WIR i 760 - Finance / Public expenditure / Reparations+
+WIR i 770 - Finance / Public expenditure / Public goods, merit goods+
+WIR k 100 - Foreign trade and world economy / General+
+WIR k 200 - Foreign trade and world economy / Goods-related (real) foreign-trade theory+
+WIR k 210 - Foreign trade and world economy / Goods-related (real) foreign-trade theory / Services trade+
+WIR k 220 - Foreign trade and world economy / Goods-related (real) foreign-trade theory / Multinational corporations+
+WIR k 230 - Foreign trade and world economy / Goods-related (real) foreign-trade theory / Meaning of direct investments, foreign investments, foreign direct investment+
+WIR k 240 - Foreign trade and world economy / Goods-related (real) foreign-trade theory / Migration+
+WIR k 250 - Foreign trade and world economy / Goods-related (real) foreign-trade theory / International competition for business location+
+WIR k 260 - Foreign trade and world economy / Goods-related (real) foreign-trade theory / Industrial relations+
+WIR k 300 - Foreign trade and world economy / Monetary foreign-trade theory, portfolio+
+WIR k 310 - Foreign trade and world economy / Monetary foreign-trade theory, portfolio / Balance of payments+
+WIR k 320 - Foreign trade and world economy / Monetary foreign-trade theory, portfolio / Currency market and exchange rate, exchange rate regime and adaption mechanisms+
+WIR k 330 - Foreign trade and world economy / Monetary foreign-trade theory, portfolio / Purchasing-power parity+
+WIR k 340 - Foreign trade and world economy / Monetary foreign-trade theory, portfolio / International capital movements+
+WIR k 350 - Foreign trade and world economy / Monetary foreign-trade theory, portfolio / Development aid, developing countries+
+WIR k 360 - Foreign trade and world economy / Monetary foreign-trade theory, portfolio / International debt+
+WIR k 400 - Foreign trade and world economy / International economic integration+
+WIR k 410 - Foreign trade and world economy / International economic integration / Globalization, criticism of globalization+
+WIR k 420 - Foreign trade and world economy / International economic integration / Integration theory, theory of optimal currency area+
+WIR k 430 - Foreign trade and world economy / International economic integration / Institutionalization of economic integration+
+WIR k 431 - Foreign trade and world economy / International economic integration / Institutionalization of economic integration / Free-trade area, custums unions+
+WIR k 432 - Foreign trade and world economy / International economic integration / Institutionalization of economic integration / Common market+
+WIR k 433 - Foreign trade and world economy / International economic integration / Institutionalization of economic integration / Regional integration+
+WIR k 440 - Foreign trade and world economy / International economic integration / European economic integration+
+WIR k 500 - Foreign trade and world economy / Business aspects of foreign-trade theory+
+WIR k 600 - Foreign trade and world economy / Foreign economic policy+
+WIR k 610 - Foreign trade and world economy / Foreign economic policy / Trade policy+
+WIR k 620 - Foreign trade and world economy / Foreign economic policy / Foreign-exchange policy+
+WIR m 100 - Economic and social history / General+
+WIR m 200 - Economic and social history / Germany+
+WIR m 300 - Economic and social history / Europe general and other European countries+
+WIR m 400 - Economic and social history / America, Africa, Asia, Australia, New Zealand, Polynesia+
+WIR m 500 - Economic and social history / Prehistory and protohistory, antiquity and Middle Ages (until 1300)+
+WIR m 600 - Economic and social history / Late Middle Ages until the Industrial Revolution (1300 until 1914)+
+WIR m 700 - Economic and social history / Contemporary economic and social history (since 1914)+
+WIR m 800 - Economic and social history / History of firms and entrepreneurs+
+WIR r 100 - Economics. Material on national and regional statistics. Economic policy in individual countries / General+
+WIR r 200 - Economics. Material on national and regional statistics. Economic policy in individual countries / Industrialized countries+
+WIR r 300 - Economics. Material on national and regional statistics. Economic policy in individual countries / Developing countries+
+WIR r 400 - Economics. Material on national and regional statistics. Economic policy in individual countries / Germany+
+WIR r 500 - Economics. Material on national and regional statistics. Economic policy in individual countries / Other European countries, EU+
+WIR r 600 - Economics. Material on national and regional statistics. Economic policy in individual countries / America, Africa, Asia, Australia, New Zealand, Polynesia+
+WIR t 100 - General business studies+
+WIR t 110 - General business studies / General+
+WIR t 120 - General business studies / Enterprise foundation+
+WIR t 125 - General business studies / Entrepreneurship+
+WIR t 130 - General business studies / Corporate governance+
+WIR t 131 - General business studies / Corporate governance / General+
+WIR t 132 - General business studies / Corporate governance / Planning+
+WIR t 133 - General business studies / Corporate governance / Organization+
+WIR t 134 - General business studies / Corporate governance / Controlling+
+WIR t 135 - General business studies / Corporate governance / Personnel+
+WIR t 136 - General business studies / Corporate governance / Cooperation and negotiation+
+WIR t 137 - General business studies / Corporate governance / Corporate culture+
+WIR t 140 - General business studies / Production+
+WIR t 141 - General business studies / Production / General+
+WIR t 142 - General business studies / Production / Research and development within the business, incl. innovation, knowledge+
+WIR t 150 - General business studies / Corporate finance+
+WIR t 151 - General business studies / Corporate finance / General+
+WIR t 152 - General business studies / Corporate finance / Investment and financing+
+WIR t 153 - General business studies / Corporate finance / Risk management+
+WIR t 154 - General business studies / Corporate finance / Price calculation, cost accounting+
+WIR t 155 - General business studies / Corporate finance / Cost accounting, accountancy+
+WIR t 160 - General business studies / Rationalization and growth+
+WIR t 161 - General business studies / Rationalization and growth / General+
+WIR t 162 - General business studies / Rationalization and growth / Financial restructuring+
+WIR t 163 - General business studies / Rationalization and growth / Takeovers, mergers+
+WIR t 170 - General business studies / Distribution and sales+
+WIR t 171 - General business studies / Distribution and sales / General+
+WIR t 172 - General business studies / Distribution and sales / Marketing, advertising+
+WIR t 180 - General business studies / Liquidation of firms+
+WIR t 200 - Specialized business studies+
+WIR t 210 - Specialized business studies / General+
+WIR t 220 - Specialized business studies / Industrial management+
+WIR t 230 - Specialized business studies / Services enterprise+
+WIR t 240 - Specialized business studies / Commercial enterprise+
+WIR t 250 - Specialized business studies / Auditing and trust+
+WIR t 260 - Specialized business studies / Insurance business management+
+WIR t 290 - Specialized business studies / Other specialized business studies+
