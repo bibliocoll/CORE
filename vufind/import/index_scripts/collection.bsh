@@ -4,17 +4,26 @@ import org.marc4j.marc.DataField;
 
 public Set getCollection(Record record){
     Set result = new LinkedHashSet();
+
+    ControlField id = (ControlField) record.getVariableField("001");
+    if (id != null) {
+       if (id.getData().substring(0,4).equals("esci")) {
+           result.add("PubMan");
+       }
+    }
+
     // check if ID in 003 starts with EBX -> eBook (MPG)
-    ControlField id = (ControlField) record.getVariableField("003");
+    id = (ControlField) record.getVariableField("003");
     if (id != null) {
        if (id.getData().substring(0,3).equals("EBX")) {
            result.add("MPG E-Books");
        }
        else if (id.getData().substring(0,3).equals("DE-")) {
           result.add("EZB");
-       } else {
+       } else if (result.isEmpty()) {
            result.add("Local Library Catalog");
        }
     }
+
     return result;
 }

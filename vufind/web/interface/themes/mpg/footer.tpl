@@ -24,14 +24,14 @@
 <div><p><strong>{translate text='Library'}</strong></p>
   <ul>
         <li><a href="http://intern.coll.mpg.de/library/page/library">{translate text='Homepage'}</a></li>
-        <li><a href="http://www.coll.mpg.de/bib/aleph-rss/rss.php?myquery=wab=new-acq&mybase=rdg01">{translate text='New Aquisitions'} <img src="{$path}/interface/themes/default/images/silk/feed.png"></a></li>
+        <li><a href="http://www.coll.mpg.de/bib/aleph-rss/rss.php?myquery=wab=new-acq&mybase=rdg01">{translate text='New Acquisitions'} <img src="{$path}/interface/themes/default/images/silk/feed.png"></a></li>
   </ul>
 </div>
 *}
 
 <a href="http://intern.coll.mpg.de/library/page/library">{translate text='Library'}</a>
 <a href="http://intern.coll.mpg.de/biblio/ask-a-librarian">{translate text='Ask a Librarian'}</a>
-<a href="http://intern.coll.mpg.de/library/page/service-alerts">{translate text='New Aquisitions'}</a>
+<a href="http://intern.coll.mpg.de/library/page/service-alerts">{translate text='New Acquisitions'}</a>
 <a id="footerRSS" href="http://www.coll.mpg.de/bib/aleph-rss/rss.php?myquery=wab=new-acq&mybase=rdg01"><img src="{$path}/interface/themes/default/images/silk/feed.png"></a>
 
 <br clear="all">

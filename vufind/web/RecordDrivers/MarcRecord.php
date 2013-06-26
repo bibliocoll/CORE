@@ -1356,13 +1356,14 @@ class MarcRecord extends IndexRecord
     }
 
     protected function getMPGdownLinkRecords()
+    // Unsolved Sorting Issues: does not work if +1000 or date only in MARC 952 (sorting in array, not $solr->search).
     {
         $solr = ConnectionManager::connectToIndex();
         $link = null;
         if ($aleph_id = $this->marcRecord->getField("001")) {
           $id = $aleph_id->getData();
-          // max. 200 downlinks:
-          $idlinks = $solr->search("ppnlink:" .$id, null, null, 0, 200, null, '', null, null, 'author, title, id, publishDate',  HTTP_REQUEST_METHOD_POST , false, false);    
+          // max. 1000 downlinks:
+          $idlinks = $solr->search("ppnlink:" .$id, null, null, 0, 1000, null, '', null, null, 'author, title, id, publishDate',  HTTP_REQUEST_METHOD_POST , false, false);    
           if ($idlinks['response']['numFound'] > 0) {
             $linked_entries = array();
 

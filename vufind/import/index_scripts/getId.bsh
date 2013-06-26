@@ -5,7 +5,16 @@ import org.marc4j.marc.DataField;
 
 public String getId(Record record) {
   String result = "";
-  ControlField id = (ControlField) record.getVariableField("003");
+
+  ControlField id = (ControlField) record.getVariableField("001");
+  if (id != null) {
+     if (id.getData().substring(0,4).equals("esci")) {
+         result = id.getData();
+         return result;
+     }
+  }
+
+  id = (ControlField) record.getVariableField("003");
   if (id != null) {
        if (id.getData().substring(0,3).equals("DE-")) {
          result = record.getVariableField("001").getData();

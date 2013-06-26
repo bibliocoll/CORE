@@ -31,6 +31,8 @@
     {/if}
     {* RDG: jquery qtips *}
     {css media="screen" filename="jquery.qtip.min.css"}
+    {* RDG: Newbie mode *}
+   {css media="screen" filename="jquery.newbie.css"}
     <script language="JavaScript" type="text/javascript">
       path = '{$url}';
     </script>
@@ -48,6 +50,14 @@
     {* RDG: jquery qtips *}
     {js filename="jquery.qtip.min.js"}
     {js filename="jquery.qtip.funcs.js"}
+    {* RDG: Newbie mode *}
+    {if ($userLang == "de")}
+    {js filename="jquery.newbie.lang.de.js"}
+    {else}
+    {js filename="jquery.newbie.lang.en.js"}
+    {/if}
+    {js filename="jquery.newbie.js"}
+    {js filename="rdg-extra.js"}
     <!-- altmetrics.com mashup -->
     <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
   </head>
@@ -193,6 +203,11 @@
     <!--[IF lte IE 8]>
     </div>
     <![ENDIF]-->
+
+    {* RDG: NewbieMode on/off? *}
+    {if ($newbieMode == "on")}
+    <div id="newbieModeOn" style="display:none"></div>
+    {/if}
 
   </body>
 </html>

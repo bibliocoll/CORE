@@ -314,6 +314,7 @@ class IndexRecord implements RecordInterface
         $interface->assign('MPGSource', $this->getMPGSource());
         $interface->assign('coreGBVSource', $this->getGBVSource());
         $interface->assign('coreGBVJournalLink', $this->getGBVLink("773"));
+        $interface->assign('coreCollections', $this->getCollection());
 
         // RDG: Seitenzahl anzeigen
         $interface->assign('corePhysical', $this->getPhysicalDescriptions());
@@ -2072,6 +2073,12 @@ class IndexRecord implements RecordInterface
     protected function getDOI()
     {
         return null;
+    }
+
+    protected function getCollection()
+    {
+        return isset($this->fields['collection']) ?
+            $this->fields['collection'] : array();
     }
 
 }

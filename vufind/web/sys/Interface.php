@@ -40,6 +40,7 @@ require_once 'sys/mobile_device_detect.php';
 class UInterface extends Smarty
 {
     public $lang;
+    public $newbieMode; /* RDG */
     private $_vufindTheme;   // which theme(s) are active?
 
     /**
@@ -258,6 +259,13 @@ class UInterface extends Smarty
         $this->lang = $lang;
         $this->assign('userLang', $lang);
         $this->assign('allLangs', $configArray['Languages']);
+    }
+
+    /* RDG: Newbie mode */
+    public function setNewbieMode($newbieMode)
+    {
+        $this->newbieMode = $newbieMode;
+        $this->assign('newbieMode', $newbieMode);
     }
     
     /**

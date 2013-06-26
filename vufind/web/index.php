@@ -125,6 +125,22 @@ $translator = new I18N_Translator(
 );
 $interface->setLanguage($language);
 
+/* RDG: Newbie Mode */
+if (isset($_POST['newbieMode'])) {
+  if ($_POST['newbieMode'] == "on") {
+    setcookie('newbieMode', "on", null, '/');
+    $newbieMode = "on";
+  } else {
+    setcookie('newbieMode', "off", null, '/');
+    $newbieMode = "off";
+  }
+} else {
+  //  $newbieMode = "off";
+   $newbieMode = (isset($_COOKIE['newbieMode'])) ? $_COOKIE['newbieMode'] : "off";
+}
+$interface->setNewbieMode($newbieMode);
+
+
 // Setup Local Database Connection
 ConnectionManager::connectToDatabase();
 

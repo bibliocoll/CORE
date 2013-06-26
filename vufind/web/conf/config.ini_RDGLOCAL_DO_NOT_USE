@@ -137,12 +137,12 @@ method         = DB
 ; statistics.
 [Statistics]
 enabled         = false
-solr            = http://localhost:8080/solr
+solr            = http://localhost:28083/solr
 
 ; This section requires no changes for most installations
 [Index]
 engine          = Solr
-url             = http://localhost:8080/solr
+url             = http://localhost:28083/solr
 local           = /usr/local/vufind/solr
 default_core    = biblio
 ; This setting needs to match the <maxBooleanClauses> setting in your solrconfig.xml
@@ -573,7 +573,7 @@ RefWorks = true
 EndNote = true
 MARC = false
 RDF = false
-BibTeX = false
+BibTeX = true
 
 ; This section controls whether or not display the bulk export options and which
 ; options to display.  Valid methods are EndNote and MARC - The method must also

@@ -37,16 +37,39 @@
     <div class="homeFloatChild"><p><strong>{translate text='Browse'}</strong></p>
       <ul>
         <li><a href="{$path}/Classification/Classification">{translate text='Classification'}</a></li>
-        <li><a href="{$path}/Browse/Home">{translate text='Collection'}</a></li>
+        {* <li><a href="{$path}/Browse/Home">{translate text='Collection'}</a></li> *}
         <li><a href="{$path}/AlphaBrowse/Home">{translate text='Alphabetically'}</a></li>
       </ul>
     </div>
     <div class="homeFloatChild"><p><strong>{translate text='Choose a List'}</strong></p>
-      <a href="{$url}/Search/Results?lookfor=litratio2013&type=AllFields&submit=Find">
-	<img src="{$path}/interface/themes/mpg/images/rdg/abruf-ratio-2013.png" class="tooltip" title="Ratio Literature Seminar 2013"></img>
+      <a href="{$url}/Search/Results?lookfor=AwrdPbl&type=AllFields&submit=Find">Awarded Publications</br></a>
+      <a href="#" id="toggle_ratio_lists">Ratio <span class="textarrow">&#x25BE;</span></a>
+      <div id="ratio_lists" style="display:none">
+      <a href="{$url}/Search/Results?lookfor=LitRatio2013&type=AllFields&submit=Find">
+	   <img src="{$path}/interface/themes/mpg/images/rdg/abruf-ratio-2013.png" class="tooltip" title="Ratio Literature Seminar 2013"></img>
       </a>
+      <a href="{$url}/Search/Results?lookfor=LitRatio-Trust&type=AllFields&submit=Find">
+	   <img src="{$path}/interface/themes/mpg/images/rdg/abruf-ratio-trust.png" class="tooltip" title="Ratio Literature: Trust"></img>
+      </a>
+      <a href="{$url}/Search/Results?lookfor=LitRatio-SocialPreferences&type=AllFields&submit=Find">
+	   <img src="{$path}/interface/themes/mpg/images/rdg/abruf-ratio-social.png" class="tooltip" title="Ratio Literature: Social Preferences"></img>
+      </a>
+{*      
+      <a href="{$url}/Search/Results?lookfor=LitRatio-CooperationPunishment&type=AllFields&submit=Find">
+	   <img src="{$path}/interface/themes/mpg/images/rdg/abruf-ratio-coop.png" class="tooltip" title="Ratio Literature: Cooperation & Punishment"></img>
+      </a>
+*}
+      <a href="{$url}/Search/Results?lookfor=LitRatio-Voting&type=AllFields&submit=Find">
+	   <img src="{$path}/interface/themes/mpg/images/rdg/abruf-ratio-voting.png" class="tooltip" title="Ratio Literature: Voting"></img>
+      </a>
+{*
+      <a href="{$url}/Search/Results?lookfor=LitRatio-Norms&type=AllFields&submit=Find">
+	   <img src="{$path}/interface/themes/mpg/images/rdg/abruf-ratio-norms.png" class="tooltip" title="Ratio Literature: Norms"></img>
+      </a>
+*}      
+      </div>
     </div>
-    
+  
   {*
     <div id="betafeedback">
       <a href="mailto:biblio@coll.mpg.de">{translate text="This is a beta version - Please give us feedback on things you miss or (do not) like!"}</a>

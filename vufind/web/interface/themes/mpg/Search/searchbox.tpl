@@ -25,7 +25,7 @@
         <option value="{$searchVal}"{if $searchIndex == $searchVal} selected{/if}>{translate text=$searchDesc}</option>
       {/foreach}
       </select>
-      <input id="defaultSearchButton" type="submit" name="submit" value="{translate text="Find"}">&nbsp;
+      <input id="defaultSearchButton" type="submit" name="submitButton" value="{translate text="Find"}">&nbsp;
  <!-- <a href="{$path}/Search/Advanced" class="small">{translate text="Advanced"}</a> -->
 
       {* Do we have any checkbox filters? *}

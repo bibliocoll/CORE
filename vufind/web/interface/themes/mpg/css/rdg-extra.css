@@ -165,3 +165,10 @@ min-height:10em;
 padding:0;
 }
 
+/* featuredFacet: eine Facette wird hervorgehoben */
+#featuredFacet {
+background-color:#ffffff;
+padding:10px;
+font-weight:bold;
+margin-top:-9px;
+}

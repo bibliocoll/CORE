@@ -41,25 +41,31 @@ function getResolverLinksDirect(openURL, id, strings)
 
     var isHoldings = $('#tabnav').find('li[class="active"] > a[href*="Holdings"]').attr("href");
     if (isHoldings) {
-    // loading spinner
-    $('.recordsubcontent:first').prepend('<div id="SFXdirect" class="showFulltextLinkRecord">'+
-					 '<span class="check" style="font-size:x-small">checking for full text</span>'+
-					 '<img class="check" src="<?php echo $configArray['Site']['path'];?>/images/loading.gif" /></div>');
-    
-    var url = path + "/AJAX/JSON?method=getResolverLinks"
-        + "&openurl=" + encodeURIComponent(openURL);
-    
-    $.ajax({
-	type: "GET",
-	url: url,
-	dataType: "json",
-	success: function(response) {
-	    // Check current language:
-		<?php if (isset($_COOKIE['language']) && $_COOKIE['language'] == 'de') { ?>
+	// get active only when there is no fulltext link in our data already (relies on existence of class in holdings.tpl!)
+	if ($('.showFulltextLinkRecord').length == 0) {
+	    // loading spinner
+	    $('.recordsubcontent:first').prepend('<div id="SFXdirect" class="showFulltextLinkRecord">'+
+						 '<span class="check" style="font-size:x-small">checking for full text</span>'+
+						 '<img class="check" src="<?php echo $configArray['Site']['path'];?>/images/loading.gif" /></div>');
+	    
+	    var url = path + "/AJAX/JSON?method=getResolverLinks"
+		+ "&from=direct&openurl=" + encodeURIComponent(openURL);
+	    
+	    $.ajax({
+		type: "GET",
+		url: url,
+		dataType: "json",
+		success: function(response) {
+		    // Check current language:
+			<?php if (isset($_COOKIE['language']) && $_COOKIE['language'] == 'de') { ?>
                          var sfxButtonText = "Volltext"
-                <?php } else { ?>
+                        <?php } else { ?>
                          var sfxButtonText = "Get full text";
-                <?php } ?>
+                        <?php } ?>
+			// doublecheck: if no cookie is set, but browser decides on German 
+			if ($('#mylang option:selected').val() == "de") {
+			    var sfxButtonText = "Volltext";
+			}
     		    if (response.status == 'OK' && response.data) {
 			// inject hidden JSON response (we are lazy and use the default response, which unfortunately has some HTML markup)
 			$('#SFXdirect').append('<div id="SFXinjection" style="display:none">'+response.data+'</div>');
@@ -81,7 +87,7 @@ function getResolverLinksDirect(openURL, id, strings)
 	}
 
     });
-
+	}
     }
 }
     
@@ -91,6 +97,23 @@ function toggleCoreSummary() {
     $('#coreSummaryMoreHide').toggle();
     $('#coreSummaryMoreText').toggle();
     $('#coreSummaryDots').toggle();
+}
+
+/* showDownLinks, default: show only 50 */
+function toggleDownLinks() {
+    var next = $('.downLinkRow:hidden').slice(0,50);
+    var nextLength = $(next).length;
+    $(next).css("display","table-row");
+    var indexTotal = $('.downLinkRow').length-1;
+    if (indexTotal > 10) { var warnLimit = "(max. 1000)"; } else { var warnLimit = ''; }
+    var indexVisible = $('.downLinkRow:visible').length-1;
+    var someLeft = $('.downLinkRow:hidden').length; console.log(someLeft);
+    $('#showMoreDownLinks span').html('displaying '+indexVisible+' of '+indexTotal+' '+warnLimit);
+    $('#showMoreDownLinks a:last').css("display","inline");
+    $('#showMoreDownLinks').insertAfter('.downLinkRow:visible:last');
+    if (someLeft == 0) {
+	$('#showMoreDownLinks a').remove();
+    }
 }
 
 
@@ -113,6 +136,12 @@ $(document).ready(function() {
     /* show/hide description functionality*/
    $(".coreSummaryToggle").click(function() {
        toggleCoreSummary();
+    });
+
+    /* showDownLinks */
+    $("#showMoreDownLinks a").click(function() {
+	event.preventDefault ? event.preventDefault() : event.returnValue = false;
+	toggleDownLinks();
     });
 
 });

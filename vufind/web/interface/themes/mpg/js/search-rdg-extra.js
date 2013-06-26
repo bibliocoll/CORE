@@ -3,7 +3,7 @@ Header ("Content-type: text/javascript");
 $configArray = parse_ini_file('../../../../conf/config.ini', true);
 ?>
 /* Extra functions for Search module */
-/* Daniel Zimmel <zimmel@coll.mpg.de */
+/* Daniel Zimmel <zimmel@coll.mpg.de> */
 
 /* define functions */
 function getALEPHBorrowerResults(elem)
@@ -106,7 +106,8 @@ function GroupDuplicateEntries() {
     $(".title").each(function() {
 	// clean up for valid HTML; for mbW try maybe .split('.')[0]
 	// beware of funny characters, they might vanish from the results (.hide) if you do not match good enough!
-	var title = $(this).text().replace(/[\s:,&"']/g,'-'); 
+        var title = $(this).text().replace(/[\s:,&"'%?$§@]/g,'-');
+        var title = title.replace(/[<>]/g,'').toLowerCase();
 	var author = $(this).parent().next().children('a').text().split(',')[0];
 	var title = title+author; // make it more robust
 	$(this).addClass(title); // add our new class
@@ -125,6 +126,14 @@ function GroupDuplicateEntries() {
 	    found[title] = true;
 	}
     });
+}
+
+/* repeat a facet and display on top for emphasis */
+function featuredFacet() {
+    var featuredFacet = $('.sidegroup:first').find('dd:contains("Local Library Catalog"),dd:contains("Bibliotheksbestand")').html();
+    if (!$('ul[class="filters"]').length && featuredFacet != null) {
+    $(".sidegroup:first").find('dl:first').before('<div id="featuredFacet">'+featuredFacet+'</div>');
+    }
 }
 
 /* call functions */
@@ -146,5 +155,7 @@ $(document).ready(function() {
 
 // group duplicates
     GroupDuplicateEntries();
+// featured facet
+    featuredFacet();
 
 });

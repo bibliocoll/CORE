@@ -1,5 +1,5 @@
 /* Definitionen für dynamische Tooltips mit qtip2.js  */
-/* Daniel Zimmel 2012 <zimmel@coll.mpg.de>            */
+/* RDG */
 $(document).ready(function() {
 <?php
 Header ("Content-type: text/javascript");
@@ -49,27 +49,70 @@ $configArray = parse_ini_file('../../../../conf/config.ini', true);
     });
 
     /**********************************************************************/
-    /* für Suchbox/Shards: dynamisch Info-Buttons und Tooltips generieren */
+    /* Facetten: bei Quellen einen Tooltip einbauen mit Erläuterungen     */
     /**********************************************************************/
+/*    
     $('label[for="LibraryCatalog"]').append("&nbsp;<img src=\"<?php echo $configArray['Site']['path'];?>/interface/themes/mpg/images/rdg/question-button.png\"/>");
     $('label[for="OLC"]').append("&nbsp;<img src=\"<?php echo $configArray['Site']['path'];?>/interface/themes/mpg/images/rdg/question-button.png\"/>");
-    $("label[for='LibraryCatalog']").qtip({
+*/
+    $(".sidegroup:first").find('dd:contains("Local Library Catalog"),dd:contains("Bibliotheksbestand")').qtip({
 	content: {
 		<?php if (isset($_COOKIE['language']) && $_COOKIE['language'] == 'de') { ?>
 	    text: 'Bibliothekskatalog: enthält tausende Bücher und Aufsätze, verfügbar in der Institutsbibliothek. Er beinhaltet Bestandsinformationen, gewährt direkten Zugriff auf einen großen Bestand an E-Books, und Sie können unsere lokale Systematik durchstöbern'
 							  <?php } else { ?>
 	    text: 'Library Catalog: includes thousands of books and articles available in the institute\'s library. It provides access to holdings information, direct access to a large set of e-books, and you can search our local classification'
 									 <?php } ?>
-	}
+	}, position: { my: 'bottom left', at: 'top center' }
     });
-    $("label[for='OLC']").qtip({
+
+    $(".sidegroup:first").find('dd:contains("OLC")').qtip({
 	content: {
 		<?php if (isset($_COOKIE['language']) && $_COOKIE['language'] == 'de') { ?>
             text: 'Online Contents: eine große Sammlung von Aufsätzen und Inhaltsverzeichnissen für eine Reihe wichtiger Zeitschriften. OLC enthält Aufsätze und Rezensionen von 1993 bis heute'  
 							  <?php } else { ?>
 	    text: 'Online Contents: a huge collection of articles and tables of contents for a lot of important journals. OLC contains articles and reviews from 1993 until today.'
 									 <?php } ?>
-	}
+	}, position: { my: 'bottom left', at: 'top center' }
+    });
+
+    $(".sidegroup:first").find('dd:contains("NL")').qtip({
+	content: {
+		<?php if (isset($_COOKIE['language']) && $_COOKIE['language'] == 'de') { ?>
+            text: 'Nationallizenzen: Im Rahmen von Nationallizenzen durch die Deutsche Forschungsgemeinschaft (DFG) bereitgestellte Ressourcen (Zeitschriften, Aufsätze...) verschiedener Disziplinen zur Nutzung in Deutschland'  
+							  <?php } else { ?>
+	    text: 'Nationally licenced content: Access to resources financed by The Deutsche Forschungsgemeinschaft (DFG) from anywhere in Germany to a large digital body of texts and subject databases from various fields'
+									 <?php } ?>
+	}, position: { my: 'bottom left', at: 'top center' }
+    });
+
+    $(".sidegroup:first").find('dd:contains("DOAJ")').qtip({
+	content: {
+		<?php if (isset($_COOKIE['language']) && $_COOKIE['language'] == 'de') { ?>
+            text: 'DOAJ: Directory of Open Access Journals: enthält Aufsätze und Zeitschriften, welche frei zugänglich publiziert worden sind (open access)'  
+							  <?php } else { ?>
+	    text: 'DOAJ: Directory of Open Access Journals: contains articles and journals that have been published freely accessible (open access)'
+									 <?php } ?>
+	}, position: { my: 'bottom left', at: 'top center' }
+    });
+
+    $(".sidegroup:first").find('dd:contains("Max-Planck E-Buch"),dd:contains("Max-Planck E-Book")').qtip({
+	content: {
+		<?php if (isset($_COOKIE['language']) && $_COOKIE['language'] == 'de') { ?>
+            text: 'Zentral in der Max-Planck-Gesellschaft lizenzierte E-Books'  
+							  <?php } else { ?>
+	    text: 'Site licensed e-books in the Max Planck Society'
+									 <?php } ?>
+	}, position: { my: 'bottom left', at: 'top center' }
+    });
+
+   $(".sidegroup:first").find('dd:contains("Zeitschriftenbibliothek"),dd:contains("Electronic Journal Library")').qtip({
+	content: {
+		<?php if (isset($_COOKIE['language']) && $_COOKIE['language'] == 'de') { ?>
+            text: 'Zusätzlich zu den lokal vorgehaltenen Zeitschriften enthält die Elektronische Zeitschriftenbibliothek alle zentral in der Max-Planck-Gesellschaft lizenzierten Zeitschriften'  
+							  <?php } else { ?>
+	    text: 'In addition to the locally licensed journals, the Electronic Journal Library contains all site licensed journals in the Max Planck Society'
+									 <?php } ?>
+	}, position: { my: 'bottom left', at: 'top center' }
     });
 
     /*********************************************************************/

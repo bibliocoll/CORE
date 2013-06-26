@@ -1,0 +1,114 @@
+<?php
+Header ("Content-type: text/css");
+$configArray = parse_ini_file('../../../../conf/config.ini', true);
+?>
+
+.SwitchToNewbieMode {
+font-size: 10pt;
+/*color:#ffffff;*/
+/*border: 1px solid navy;*/
+padding:8px;
+/* display:none; */ deactivate?
+}
+
+.SwitchToNewbieMode:hover {
+box-shadow: 0 0 5px #efefef;
+-webkit-box-shadow: 0 0 5px #efefef;
+-moz-box-shadow: 0 0 5px #efefef;
+/*background-color:rgb(255,215,0);*/
+background-color:#ebdc38;
+}
+
+
+.Newbie {
+border:1px solid #534646;
+border-radius: 5px;
+padding:10px;
+background-color:#ebdc38;
+font-size: 10pt;
+font-weight:bold;
+color:#534646;
+position:relative; /* important, important! */
+}
+
+#LeaveNewbieMode {
+padding:5px;
+color:#534646;
+}
+
+#LeaveNewbieMode:hover {
+box-shadow: 0 0 5px #efefef;
+-webkit-box-shadow: 0 0 5px #efefef;
+-moz-box-shadow: 0 0 5px #efefef;
+background-color:#c4c3bf;
+}
+
+.close-tip {
+position: absolute;
+/* border: 1px solid #534646; */
+/* padding:2px; */
+right: 3px;
+top: 3px;
+color: #777777 !important;
+text-decoration: none;
+font-size: 20px;
+font-weight: normal;
+line-height: 0.5 !important;
+}
+
+.Newbie .nub {
+display: block;
+position: absolute;
+left: 22px;
+width: 0;
+height: 0;
+border: solid 14px;
+}
+
+.Newbie .nub.bottom {
+border-color: #534646 !important;
+border-bottom-color: transparent !important;
+border-left-color: transparent !important;
+border-right-color: transparent !important;
+bottom: -28px;
+bottom: none;
+}
+
+.Newbie .nub.top {
+border-color: #534646 !important;
+border-top-color: transparent !important;
+border-left-color: transparent !important;
+border-right-color: transparent !important;
+top: -28px;
+top: none;
+}
+
+.Newbie .nub.right {
+left:auto;
+right:92px
+}
+
+#NewbieHomepage {
+display:block;
+/*position:absolute;*/
+position:relative;
+width:100%
+/* left:30px; */
+/* top:30px; */
+}
+
+#NewbieFacetten,
+#NewbieExplainSource,
+#NewbieZeitleiste,
+#NewbieFindText,
+#NewbieLogIn,
+#NewbieDetails,
+#NewbieExportData,
+#NewbieTags,
+#NewbieAddToFavorites,
+#NewbieNewAcq,
+#NewbieLiteraturagent {
+position:absolute;
+display:none; 
+}
+

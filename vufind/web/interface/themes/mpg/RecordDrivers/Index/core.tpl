@@ -208,7 +208,7 @@
     <th>{translate text='Source'}: </th>
     <td>
       {if !empty($coreGBVJournalLink)}<a href="{$url}/Search/Results?lookfor=aleph_id:{$coreGBVJournalLink.0}+OR+id:{$coreGBVJournalLink.0}">{/if}{translate text=$coreGBVSource}{if !empty($coreGBVJournalLink)}</a>{/if}
-      {if !empty($coreGBVJournalLink)}<br/><a href="{$url}/Search/Results?lookfor=ppnlink:{$coreGBVJournalLink.0}">{translate text="MoreArticles"}</a>{/if}
+      {if !empty($coreGBVJournalLink)}<br/><a id="MoreArticles" href="{$url}/Search/Results?lookfor=ppnlink:{$coreGBVJournalLink.0}">{translate text="MoreArticles"}</a>{/if}
     </td>
   </tr>
   {/if}
@@ -478,7 +478,7 @@
   </tr>
 {/if}
 *}
-  <tr align="top">
+  <tr id="MPGUpLink" align="top">
     <th><a href="{$url}/Search/Results?lookfor=ppnlink:{$MPGUpLink}">{translate text='otherTitles'}</a></th>
     <td>&nbsp;</td>
   </tr>
@@ -499,6 +499,18 @@
     </tr>
   {/if}
 *}
+  {if !empty($coreCollections)}
+    {foreach from=$coreCollections item=collection name=collectionLoop}
+      {if $collection == "DOAJ"}
+    <tr align="top">
+      <th>&nbsp;</th>
+      <td><a rel="license" href="http://creativecommons.org/licenses/by-sa/1.0/"><img alt="Creative Commons License" style="border-width:0" 
+src="http://i.creativecommons.org/l/by-sa/1.0/80x15.png" /></a> Source: <a 
+href="http://www.doaj.org/">Directory of Open Access Journals</a> (DOAJ). </td>
+    </tr>
+      {/if}
+    {/foreach}
+  {/if}
 </table>
 {* End Main Details *}
 {* altmetrics.com *}

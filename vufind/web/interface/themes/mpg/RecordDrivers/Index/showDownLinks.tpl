@@ -4,10 +4,11 @@
   {*$downLinks|@print_r*}
 
    {foreach from=$downLinks item=entries key=key name=loop}
-   <tr><th>{translate text='Title'}:</th>
+   <tr class="downLinkRow" {if ($smarty.foreach.loop.iteration > 50)} style="display:none"{else}style="display:table-row"{/if}>
+   <th>{translate text='Title'}:</th>
    <td>
    {if !empty($entries.author)}
-     {if is_array($entries.author)}{$entries.author[0]}{else}{$entries.author}{/if}:&nbsp;
+     {if is_array($entries.author)}{$entries.author[0]|escape}{else}{$entries.author|escape}{/if}:&nbsp;
    {/if}
    {if !empty($entries.publishDate)}
    <a href="{$path}/Record/{$entries.id}">{$entries.publishDate}</a>. 
@@ -18,10 +19,16 @@
      </a> 
    {/if}
    </td></tr>
-   {/foreach}
 
-      <td>&nbsp;</td>
-    </tr>
+   {if $smarty.foreach.loop.iteration == 50}
+   <tr class="downLinkRow" style="display:table-row" id="showMoreDownLinks"><th></th>
+     <td><span><a href="#">{translate text="There are more entries"}&nbsp;&gt; </span>
+       <a style="display:none" href="#">{translate text="more"}</a>
+     </td>
+   </tr>
+   {/if}
+       
+   {/foreach}
   {/if}
 
 
