@@ -261,7 +261,7 @@ major           = studentmajor
 
 ; This setting controls the image to display when no book cover is available.
 ; The path is relative to web subdirectory of the VuFind install directory:
-noCoverAvailableImage = images/noCover2.gif
+noCoverAvailableImage = images/noCover2.png
 
 ; You can select from Syndetics, SyndeticsPlus, Amazon Editorial, Amazon or the
 ; Guardian
@@ -509,6 +509,7 @@ searches = searches.ini     ; search definitions and preferences
 Summon = Summon.ini         ; extra Summon configuration details
 WorldCat = WorldCat.ini     ; extra WorldCat configuration details
 sms = sms.ini               ; SMS carriers configuration details
+databaseRecommendations = databaseRecommendations.ini   ; RDG: load databases for recommendations
 
 ; If you uncomment the following lines, any settings you create in a file
 ; called config.local.ini will override the defaults found in config.ini.

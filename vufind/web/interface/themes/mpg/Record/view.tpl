@@ -21,7 +21,14 @@
                   {foreach from=$exportFormats item=exportFormat}
                     <li><a {if $exportFormat=="RefWorks"}target="{$exportFormat}Main" {/if}href="{$url}/Record/{$id|escape:"url"}/Export?style={$exportFormat|escape:"url"}">{translate text="Export to"} {$exportFormat|escape}</a></li>
                   {/foreach}
+                    {* because batch export only works with favorites, we place a hint *}
+                    <li id="multiExportNote"><span>{translate text="If you want to export lists, please add to your favorites"}!</span></li>
                 </ul>
+              </li>
+ {* we want to show that export is not available for index-based records (class="notloggedin" is only lazy, not connected with login) *}
+            {else}
+              <li>
+                <span class="notloggedin tooltip fav" title="{translate text='Export is not available for this record type'}">{translate text="Export to"}</span>
               </li>
             {/if}
 	    {* RDG: check Login! *}

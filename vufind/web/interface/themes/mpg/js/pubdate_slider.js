@@ -1,3 +1,6 @@
+<?php
+Header ("Content-type: text/javascript");
+?>
 YAHOO.util.Event.onDOMReady(function () {
     // create the slider for any date facets found
     var Dom = YAHOO.util.Dom;

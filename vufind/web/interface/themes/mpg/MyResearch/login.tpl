@@ -5,7 +5,7 @@
       <div class="resulthead"><h3>{translate text='Login'}</h3></div>
       <div class="page">
         <a href="https://intern.coll.mpg.de/biblio/vufind/login.php">{translate text='Please login first to use this function!'}</a>
-
+{*
         {if $message}<div class="error">{$message|translate}</div>{/if}
         {if $authMethod != 'Shibboleth'}
           <form method="post" action="{$url}/MyResearch/Home" name="loginForm">
@@ -38,7 +38,7 @@
         <script type="text/javascript">var o = document.getElementById('mainFocus'); if (o) o.focus();</script>
           {if $authMethod == 'DB'}<a href="{$url}/MyResearch/Account">{translate text='Create New Account'}</a>{/if}
         {/if}
-
+*}
       </div>
       <b class="bbot"><b></b></b>
     </div>

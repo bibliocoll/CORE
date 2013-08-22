@@ -1,4 +1,6 @@
-/**
+<?php
+Header ("Content-type: text/javascript");
+?>/**
 \file yui.flot.js
 \brief Javascript plotting library for YUI based on Flot v. 0.5.
 \details
@@ -131,7 +133,7 @@ Datasource is optional, you only need it if one of your axes has its mode set to
 				},
 				selection: {
 					mode: null, // one of null, "x", "y" or "xy"
-					color: "#e8cfac"
+					color: "#d7e3eb" /* "#e8cfac" */
 				},
 				crosshair: {
 					mode: null, // one of null, "x", "y" or "xy",

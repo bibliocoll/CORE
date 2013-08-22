@@ -30,8 +30,9 @@
     <div class="homeFloatChild"><p><strong>{translate text='Search Options'}</strong></p>
       <ul>
 	<li><a href="{$path}/Search/History">{translate text='Search History'}</a></li>
-    <li><a href="{$path}/Search/Advanced">{translate text='Advanced Search'}</a></li>
+        <li><a href="{$path}/Search/Advanced">{translate text='Advanced Search'}</a></li>
 	<li><a href="{$url}/Help/Home?topic=search" onClick="window.open('{$url}/Help/Home?topic=search', 'Help', 'width=625, height=510'); return false;">{translate text='Search Tips'}</a></li>
+        <li><a href="#ytvideos">{translate text='Video Tutorials'}</a>&nbsp;&nbsp; </li>
       </ul>
     </div>
     <div class="homeFloatChild"><p><strong>{translate text='Browse'}</strong></p>
@@ -43,6 +44,8 @@
     </div>
     <div class="homeFloatChild"><p><strong>{translate text='Choose a List'}</strong></p>
       <a href="{$url}/Search/Results?lookfor=AwrdPbl&type=AllFields&submit=Find">Awarded Publications</br></a>
+      <a href="{$url}/Search/Results?lookfor=ThReGrp&type=AllFields&submit=Find">Theory Reading Group</br></a>
+      <a href="{$url}/Search/Results?lookfor=IntuitExp&type=AllFields&submit=Find">Intuitive Experts</br></a>
       <a href="#" id="toggle_ratio_lists">Ratio <span class="textarrow">&#x25BE;</span></a>
       <div id="ratio_lists" style="display:none">
       <a href="{$url}/Search/Results?lookfor=LitRatio2013&type=AllFields&submit=Find">
@@ -62,11 +65,18 @@
       <a href="{$url}/Search/Results?lookfor=LitRatio-Voting&type=AllFields&submit=Find">
 	   <img src="{$path}/interface/themes/mpg/images/rdg/abruf-ratio-voting.png" class="tooltip" title="Ratio Literature: Voting"></img>
       </a>
-{*
       <a href="{$url}/Search/Results?lookfor=LitRatio-Norms&type=AllFields&submit=Find">
 	   <img src="{$path}/interface/themes/mpg/images/rdg/abruf-ratio-norms.png" class="tooltip" title="Ratio Literature: Norms"></img>
       </a>
-*}      
+      <a href="{$url}/Search/Results?lookfor=LitRatioAllgemein&type=AllFields&submit=Find">
+	   <img src="{$path}/interface/themes/mpg/images/rdg/abruf-ratio-misc.png" class="tooltip" title="Ratio Literature: Miscellaneous"></img>
+      </a>
+      <a href="{$url}/Search/Results?lookfor=LitRatio2007&type=AllFields&submit=Find">
+	   <img src="{$path}/interface/themes/mpg/images/rdg/abruf-ratio-2007.png" class="tooltip" title="Ratio Literature Seminar 2007"></img>
+      </a>
+      <a href="{$url}/Search/Results?lookfor=LitRatio2006&type=AllFields&submit=Find">
+	   <img src="{$path}/interface/themes/mpg/images/rdg/abruf-ratio-2006.png" class="tooltip" title="Ratio Literature Seminar 2006"></img>
+      </a>
       </div>
     </div>
   
@@ -140,3 +150,28 @@
 document.searchForm.lookfor.focus();
 </script>
 
+{if ($userLang == "de")}	
+  <div id="ytvideos">
+    <div class="ytvideo">
+      <iframe width="640" height="360" src="//www.youtube-nocookie.com/embed/qrMG9GcA7s4?rel=0" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div class="ytvideo">
+      <iframe width="640" height="360" src="//www.youtube-nocookie.com/embed/CPGZQtBjB6E?rel=0" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div class="ytvideo">
+      <iframe width="640" height="360" src="//www.youtube-nocookie.com/embed/yBr_wn73MLY?rel=0" frameborder="0" allowfullscreen></iframe> 
+    </div>
+  </div>
+{else}
+  <div id="ytvideos">
+    <div class="ytvideo">
+      <iframe width="640" height="360" src="//www.youtube-nocookie.com/embed/8DYnMyK1-Mc?rel=0" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div class="ytvideo">
+      <iframe width="640" height="360" src="//www.youtube-nocookie.com/embed/YuE_KY7gieo?rel=0" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div class="ytvideo">
+      <iframe width="640" height="360" src="//www.youtube-nocookie.com/embed/effmGhvnybk?rel=0" frameborder="0" allowfullscreen></iframe>
+    </div>
+  </div>
+{/if}

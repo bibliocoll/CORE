@@ -30,7 +30,9 @@
     </ul>
   {/if}
   {if $sideFacetSet && $recordCount > 0}
-    {foreach from=$sideFacetSet item=cluster key=title}
+   {foreach from=$sideFacetSet item=cluster key=title}
+     {* RDG: um NotationBase ergaenzt (soll nicht angezeigt werden, auch nicht wenn Filter gesetzt, nur f. Datenbankempfehlungen) *}
+      {if !($cluster.label == "NotationBase")}    
       {if !($cluster.label == "Topic" && !$localfilter == "true")}
       <dl class="narrowList navmenu narrow_begin">
         <dt>{translate text=$cluster.label}</dt>
@@ -85,6 +87,49 @@
         {/if}
       </dl>
       {/if}
+      {/if}
     {/foreach}
   {/if}
 </div>
+
+  {* RDG: START DATABASE RECOMMENDATION *}
+  {if $recordCount > 0}
+  {if $sideFacetSet && $recordCount > 0}
+  {foreach from=$sideFacetSet item=cluster key=title}
+      {if ($cluster.label == "NotationBase")}
+           {* get the first value (it is the one with the most entries) *}
+           {* if the same fields are populated via a shard (without local ini), it might not work anymore *}
+            {if ($cluster.list[0].value)}
+              {assign var=DBSubject value=$cluster.list[0].value}
+            {/if}
+            {* Only show if we have entries in config file *}
+            {if ($dbR.$DBSubject)}
+            {* end div yui-b and start another one *}
+            </div>
+            <div class="yui-b">	    
+              <div class="sidegroup RecommendedDatabase">
+                <h4>{translate text='Recommended databases for your search'}</h4>
+                <dl class="narrowList navmenu narrow_begin">
+                {* read databases from config file *}
+                {foreach from=$dbR.$DBSubject item=db name=dbs key=k}
+                  {* first entry: display *}
+                  {if $smarty.foreach.dbs.first}
+                    <dd><a class="dblink" href="http://intern.coll.mpg.de/library/db/{$db}" target="top">{$k}</a></dd>
+                    <dd id="more{$title}"><a id="dbsMore" href="#" onClick="moreFacets('{$title}'); return false;">{translate text='more'} ...</a></dd>
+                 </dl>
+                 <dl class="narrowList navmenu narrowGroupHidden" id="narrowGroupHidden_{$title}">
+                  {else}
+                    <dd><a class="dblink" href="http://intern.coll.mpg.de/library/db/{$db}" target="top">{$k}</a></dd>	 
+                 {/if}
+               {/foreach}
+               {if $smarty.foreach.dbs.total > 1}
+               <dd><a id="dbsLess" href="#" onClick="lessFacets('{$title}'); return false;">{translate text='less'} ...</a></dd>
+               {/if}
+                 </dl>	       
+              </div>
+            {/if}
+     {/if} 
+  {/foreach}
+  {/if}
+  {/if}
+  {* RDG: END DATABASE RECOMMENDATION *}

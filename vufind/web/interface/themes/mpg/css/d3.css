@@ -1,0 +1,84 @@
+<?php
+Header ("Content-type: text/css");
+?>
+
+.container { overflow: hidden; margin: 20px; margin-top:-35px}
+
+.chart { float: left; width: 600px; height: 600px; background: #fff; margin: 0 20px 0 0; -webkit-touch-callout: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; }
+
+svg { width: 100%; height: 100%; }
+
+path.g-1 { fill: #1f77b4; }
+path.g-2 { fill: #aec7e8; }
+path.g-3 { fill: #ff7f0e; }
+path.g-4 { fill: #ffbb78; }
+path.g-5 { fill: #2ca02c; }
+path.g-6 { fill: #98df8a; }
+path.g-7 { fill: #d62728; }
+path.g-8 { fill: #ff9896; }
+path.g-9 { fill: #9467bd; }
+path.g-10 { fill: #c5b0d5; }
+path.g-11 { fill: #8c564b; }	
+path.g-12 { fill: #c49c94; }	
+path.g-13 { fill: #e377c2; }
+path.g-14 { fill: #f7b6d2; }
+path.g-15 { fill: #7f7f7f; }
+path.g-16 { fill: #c7c7c7; }
+path.g-17 { fill: #bcbd22; }
+path.g-18 { fill: #dbdb8d; }
+path.g-19 { fill: #17becf; }
+path.g-20 { fill: #9edae5; }
+
+svg > g.label { text-anchor: middle; }
+svg > g.labels g.label { -moz-pointer-events: none; -webkit-pointer-events: none; -o-pointer-events: none; pointer-events: none; }
+svg > g.labels g.label rect { stroke: none; fill: #fff; fill-opacity: .5; shape-rendering: crispEdges; }
+svg > g.labels g.label text { font-size: 12px; text-anchor: left; }
+svg > g.labels g.label.active rect { fill-opacity: 1; }
+
+#showFacetVisualization span, #showFacetVisualization img {
+cursor: pointer;
+}
+
+#showFacetVisualization span {
+text-decoration:underline;
+color: #039;
+}
+
+
+#showFacetVisualization img { 
+padding: 2px;
+margin-right:30px;
+-moz-transition: none 0s ease 0s;
+border: 0 none;
+border-radius: 4px;
+cursor: pointer;
+display: inline-block;
+/*    background-color: #126497;*/
+background-color: #A3AFB6;
+background-image: -moz-linear-gradient(center top , #A3AFB6, #A3AFB6);
+background-repeat: repeat-x;
+border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+width:70px;
+}
+
+#showFacetVisualization img:hover {
+/* background-color:#3CA63B;*/
+background-color: #126497;
+background-image: -moz-linear-gradient(center top , #1C7DBA, #126497);
+box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1) inset, 0 1px 5px rgba(0, 0, 0, 0.25);
+background-color: #0B5482;
+color: #FFFFFF;
+text-decoration:none;
+}
+
+#visualizationheader td {
+font-size:large;
+font-weight:bold;
+padding-top:40px;
+text-align:center;
+}
+
+/* some changes to original css */
+.facetsTop {
+margin-bottom:20px;
+}

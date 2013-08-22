@@ -115,6 +115,16 @@ $configArray = parse_ini_file('../../../../conf/config.ini', true);
 	}, position: { my: 'bottom left', at: 'top center' }
     });
 
+   $(".sidegroup:first").find('dd:contains("VUB")').qtip({
+	content: {
+		<?php if (isset($_COOKIE['language']) && $_COOKIE['language'] == 'de') { ?>
+            text: 'Ausgewählte Neuerscheinungen, bei Interesse für die Bibliothek bestellbar'  
+							  <?php } else { ?>
+	    text: 'Selected recently published titles that you can order via the library'
+									 <?php } ?>
+	}, position: { my: 'bottom left', at: 'top center' }
+    });
+
     /*********************************************************************/
     /* für alle entsprechenden Klassen als einfachen Tooltip aktivieren  */
     /*********************************************************************/

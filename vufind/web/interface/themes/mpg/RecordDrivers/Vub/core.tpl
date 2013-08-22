@@ -57,15 +57,15 @@
 {if $f9842n}{$f9842n|escape}. {/if}{if $f9842a}{$f9842a|escape}{/if} {if $f9842b}: {$f9842b|escape}{/if}{if $f9842c}<br>{$f9842c|escape}{/if}<br>
 {if $MPGtitle}{$MPGtitle|regex_replace:"/\/$/"|escape}
 {else}
-{$coreShortTitle|escape}
-{if $coreSubtitle}: {$coreSubtitle|escape}{/if}
+{$coreShortTitle|replace:";":": "|escape} {* 'replace' really should happen in the data, not here ... *}
+{*{if $coreSubtitle}: {$coreSubtitle|escape}{/if}*}
 {if $coreTitleSection}{$coreTitleSection|escape}{/if}
 {/if}
 {* {if $coreTitleStatement}{$coreTitleStatement|escape}{/if} *}
 </h1>
 {* End Title *}
 {if $coreSummary}
- <p class="summaryBox">{$coreSummary|truncate:300:"":true|escape}<span id="coreSummaryDots">...</span><span id="coreSummaryMoreText" style="display:none">{$coreSummary|substr:300:1000}</span>
+ <p class="summaryBox">{$coreSummary|truncate:300:"":true|escape|replace:"§":"<br/>"}<span id="coreSummaryDots">...</span><span id="coreSummaryMoreText" style="display:none">{$coreSummary|substr:300:1000|replace:"§":"<br/>"}</span>
   <a id="coreSummaryMoreShow" class="coreSummaryToggle" href="#">{translate text='Full description'}</a>
   <a id="coreSummaryMoreHide" class="coreSummaryToggle" href="#" style="display:none">{translate text='Hide description'}</a>
  </p>

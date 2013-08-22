@@ -1,3 +1,18 @@
+{*RDG*} 
+{if !empty($coreCollections)}
+  {foreach from=$coreCollections item=collection name=collectionLoop}
+    {if $collection == "VUB"}
+      <div id="vub" class="othercontent">
+        {translate text="Are you interested in this title"}? 
+        {translate text="Feel free to send us a purchase suggestion"}! 
+        <br/><button><a
+	href="http://intern.coll.mpg.de/node/3160/?title={$coreShortTitle|escape:"url"}&author={$coreMainAuthor|escape:"url"}&isbn={$isbn|escape:"url"}&publications={$corePublications.0|escape:"url"}&from=CORE"
+	target="top">{translate text="order here"} ({translate
+	text="internal only"})</a></button></div>
+    {/if}       
+  {/foreach}
+{/if}
+
 {foreach from=$holdings item=holding key=location}
 <h4>{translate text=$location}</h4>
 <table class="holdings" summary="{translate text='Holdings details from'} {translate text=$location}">

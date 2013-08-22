@@ -1,3 +1,6 @@
+<?php
+Header ("Content-type: text/javascript");
+?>
 lang = {
     SwitchToNewbieMode: "Neu hier? Probieren Sie doch mal den Hinweis-Modus!",
     Banner: "Sie sind gerade im Hinweis-Modus!",

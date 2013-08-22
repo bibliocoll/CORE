@@ -1,3 +1,6 @@
+<?php
+Header ("Content-type: text/javascript");
+?>
 lang = {
     SwitchToNewbieMode: "New here? Switch to introduction mode!",
     Banner: "You are now in introduction mode!",

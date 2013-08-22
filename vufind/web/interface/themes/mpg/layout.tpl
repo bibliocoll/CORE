@@ -29,6 +29,8 @@
     {if $module=='Classification' || $module=='Record'}
     {css media="screen" filename="jquery-ui-1.8.12.custom.css"}
     {/if}
+    {* RDG: jquery visualization *}
+    {css media="screen" filename="d3.css"}
     {* RDG: jquery qtips *}
     {css media="screen" filename="jquery.qtip.min.css"}
     {* RDG: Newbie mode *}
@@ -58,8 +60,10 @@
     {/if}
     {js filename="jquery.newbie.js"}
     {js filename="rdg-extra.js"}
-    <!-- altmetrics.com mashup -->
-    <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    {* RDG: Visualization of top facets *}
+    {js filename="d3.v3.min.js"}
+    {js filename="d3.ay-pie-chart.js"}
+    {js filename="d3.get-data.js"}
   </head>
 
   <body>
@@ -172,7 +176,7 @@
     <div id="clipbox1-ie" class="clipbox-ie">
     <![ENDIF]-->
     <div id="clipbox1" class="clipbox ui-widget">
-      <a title="Ask us!" href="mailto:biblio@coll.mpg.de?subject=VuFind Feedback">
+      <a title="Ask us!" href="mailto:biblio@coll.mpg.de?subject=CORE Feedback">
 	<div class="clipboxinner"><!--[IF lte IE 8]>&nbsp;<![ENDIF]--></div>
       </a>
     </div>
@@ -208,6 +212,10 @@
     {if ($newbieMode == "on")}
     <div id="newbieModeOn" style="display:none"></div>
     {/if}
+
+    <!-- altmetrics.com mashup -->
+    <!-- do not include in head to avoid issues with advanced.js -->
+    <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
   </body>
 </html>

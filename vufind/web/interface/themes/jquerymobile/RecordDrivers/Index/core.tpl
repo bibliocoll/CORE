@@ -12,7 +12,7 @@
 {if $MPGtitle}{$MPGtitle|escape}
 {else}
 {$coreShortTitle|escape}
-{if $coreSubtitle}{$coreSubtitle|escape}{/if}
+{if $coreSubtitle}: {$coreSubtitle.0|escape}{/if}
 {if $coreTitleSection}{$coreTitleSection|escape}{/if}
 {/if}
 </h3>
