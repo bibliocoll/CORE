@@ -904,7 +904,8 @@ class MarcRecord extends IndexRecord
                     $address = $address->getData();
 
                     // Is there a description?  If not, just use the URL itself.
-                    $desc = $url->getSubfield('z');
+                    // $desc = $url->getSubfield('z');
+                    $desc = ''; /* RDG: do not use 'z' in any case! (button logic) */
                     if ($desc) {
                         $desc = $desc->getData();
                     } elseif ($desc = $url->getSubfield('3')) {
@@ -1666,7 +1667,9 @@ class MarcRecord extends IndexRecord
     protected function getMPGAbrufzeichen()
     {
       //  return $this->_getFieldArray('993');
-      $az = $this->_getFieldArray('993');
+      $ar993 = $this->_getFieldArray('993'); // MAB 078
+      $ar996 = $this->_getFieldArray('996'); // MAB 076
+      $az = array_merge($ar993,$ar996);
 
       // add "newbook" to array for recent acquisitions:
       $curdate = date('ym');

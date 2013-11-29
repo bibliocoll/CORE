@@ -32,6 +32,8 @@
           {/foreach}
           </div>
           {/if}
+	{* for search-rdg-extra.js, featuredFacet(): *}
+	<div id="noteFilterLocal" style="display:none"><a href="">{translate text="show me only what is in the library"}</a></div>
         </div>
 
         <div class="yui-u toggle">

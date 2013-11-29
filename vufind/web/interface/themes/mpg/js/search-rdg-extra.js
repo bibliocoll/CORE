@@ -55,7 +55,7 @@ function getVlibSourcesNoResults(myset)
 	    $(res).find('item').each(function() {
 		var title = $(this).find('title').text();
 		var link = $(this).find('link').text();
-		var description = $(this).find('description').text().replace(/"/g,"");
+		var description = $(this).find('description').text().replace(/"/g,"").replace(/<[A-Za-z0-9&;\s\/\=\.:-]+>/g,"");
 		$("#ajaxInsert").append('<br/><span><img src="<?php echo $configArray['Site']['path'];?>/interface/themes/mpg/images/rdg/question-button.png" class="tooltip" title="'+description+'"/>'+
                                         '<a href="'+link+'" target="top">'+title+'</a></span>');
 	    });
@@ -89,7 +89,7 @@ function getVlibSourcesResults(myset)
 	    $(res).find('item').each(function() {
 		var title = $(this).find('title').text();
 		var link = $(this).find('link').text();
-		var description = $(this).find('description').text().replace(/"/g,"");
+		var description = $(this).find('description').text().replace(/["]/g,"").replace(/<[A-Za-z0-9&;\s\/\=\.:-]+>/g,"");
 		$("#ajaxInsert").append('<br/><span><img src="<?php echo $configArray['Site']['path'];?>/interface/themes/mpg/images/rdg/question-button.png" class="tooltip" title="'+description+'"/>'+
                                         '<a href="'+link+'" target="top">'+title+'</a></span>');
 	    });
@@ -106,7 +106,7 @@ function GroupDuplicateEntries() {
     $(".title").each(function() {
 	// clean up for valid HTML; for mbW try maybe .split('.')[0]
 	// beware of funny characters, they might vanish from the results (.hide) if you do not match good enough!
-        var title = $(this).text().replace(/[\s:,&"'%?$§@]/g,'-');
+        var title = $(this).text().replace(/[\s:,\.&"'%?$§@\/]/g,'-');
         var title = title.replace(/[<>]/g,'').toLowerCase();
 	var author = $(this).parent().next().children('a').text().split(',')[0];
 	var title = title+author; // make it more robust
@@ -131,8 +131,13 @@ function GroupDuplicateEntries() {
 /* repeat a facet and display on top for emphasis */
 function featuredFacet() {
     var featuredFacet = $('.sidegroup:first').find('dd:contains("Local Library Catalog"),dd:contains("Bibliotheksbestand")').html();
+    var featuredFacetHref = $('.sidegroup:first').find('dd:contains("Local Library Catalog"),dd:contains("Bibliotheksbestand")').children("a").attr("href");
     if (!$('ul[class="filters"]').length && featuredFacet != null) {
-    $(".sidegroup:first").find('dl:first').before('<div id="featuredFacet">'+featuredFacet+'</div>');
+	/* show on top of filters */
+	$(".sidegroup:first").find('dl:first').before('<div id="featuredFacet">'+featuredFacet+'</div>');
+	/* show on top of results */
+	$("#noteFilterLocal > a").attr('href', featuredFacetHref);
+	$("#noteFilterLocal").css('display','block');
     }
 }
 

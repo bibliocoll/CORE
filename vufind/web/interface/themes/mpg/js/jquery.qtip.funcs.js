@@ -144,7 +144,7 @@ $configArray = parse_ini_file('../../../../conf/config.ini', true);
     function runEffect() {
 	var selectedEffect = "scale";
 	var options = {};
-	$("#dbetaText").toggle("bounce", {times: 3}, "slow");
+	$("#dbetaText").toggle("bounce", {times: 3}, "fast");
 	$("#dbetaText").removeAttr("id");
     };
     /* zeige Text nach 3 Sekunden automatisch: */

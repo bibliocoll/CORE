@@ -520,3 +520,5 @@ href="http://www.doaj.org/">Directory of Open Access Journals</a> (DOAJ). </td>
     </div>
   {/if}
 
+{* RDG: include ISBN, if we need it for a js or similar *}
+<div id="hiddenisbn" style="display:none">{$isbn}</div>

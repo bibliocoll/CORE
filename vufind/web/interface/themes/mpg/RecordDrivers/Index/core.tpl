@@ -140,13 +140,13 @@
   {if !empty($coreMainAuthor)}
   <tr valign="top">
     <th>{translate text='Main Author'}: </th>
-    <td><a href="{$url}/Author/Home?author={$coreMainAuthor|regex_replace:"/\[.*\]/"|escape:"url"}">{$coreMainAuthor|escape}</a></td>
+    <td><a href="{$url}/Author/Home?author={$coreMainAuthor|regex_replace:"/\[.*\]/"|regex_replace:"/Hrsg./":""|escape:"url"}">{$coreMainAuthor|escape}</a></td>
   </tr>
   {elseif !empty($coreTopMainAuthor)}
   {assign var='firstTopShown' value='true'}
   <tr valign="top">
     <th>{translate text='Main Author (top)'}: </th>
-    <td><a href="{$url}/Author/Home?author={$coreTopMainAuthor|regex_replace:"/\[.*\]/"|escape:"url"}">{$coreTopMainAuthor|escape}</a></td>
+    <td><a href="{$url}/Author/Home?author={$coreTopMainAuthor|regex_replace:"/\[.*\]/"|regex_replace:"/Hrsg./":""|escape:"url"}">{$coreTopMainAuthor|escape}</a></td>
   </tr>
   {/if}
 
@@ -162,7 +162,7 @@
     <th>{translate text='Additional Corporate Bodies'}: </th>
     <td>
       {foreach from=$MPGSecondaryCorps item=field name=loop}
-        <a href="{$url}/Author/Home?author={$field|regex_replace:"/\[.*\]/"|escape:"url"}">{$field|escape}</a>{if !$smarty.foreach.loop.last}; {/if}
+        <a href="{$url}/Author/Home?author={$field|regex_replace:"/\[.*\]/"|regex_replace:"/Hrsg./":""|escape:"url"}">{$field|escape}</a>{if !$smarty.foreach.loop.last}; {/if}
       {/foreach}
     </td>
   </tr>
@@ -173,7 +173,7 @@
     <th>{translate text='Other Authors'}: </th>
     <td>
       {foreach from=$coreContributors item=field name=loop}
-        <a href="{$url}/Author/Home?author={$field|regex_replace:"/\[.*\]/"|escape:"url"}">{$field|escape}</a>{if !$smarty.foreach.loop.last}; {/if}
+        <a href="{$url}/Author/Home?author={$field|regex_replace:"/\[.*\]/"|regex_replace:"/Hrsg./":""|escape:"url"}">{$field|escape}</a>{if !$smarty.foreach.loop.last}; {/if}
       {/foreach}
     </td>
   </tr>
@@ -186,7 +186,7 @@
     <td>
       {if $firstTopShown=='true'}
       {foreach from=$MPGsecondaryTopAuthors item=field name=loop}
-        <a href="{$url}/Author/Home?author={$field|regex_replace:"/\[.*\]/"|escape:"url"}">{$field|escape}</a>{if !$smarty.foreach.loop.last}; {/if}
+        <a href="{$url}/Author/Home?author={$field|regex_replace:"/\[.*\]/"|regex_replace:"/Hrsg./":""|escape:"url"}">{$field|escape}</a>{if !$smarty.foreach.loop.last}; {/if}
       {/foreach}
     </td>
   </tr>
@@ -195,7 +195,7 @@
     <th>{translate text='Other Authors (top)'}: </th>
     <td>
       {foreach from=$MPGTopAuthorsAll item=field name=loop}
-        <a href="{$url}/Author/Home?author={$field|regex_replace:"/\[.*\]/"|escape:"url"}">{$field|escape}</a>{if !$smarty.foreach.loop.last}; {/if}
+        <a href="{$url}/Author/Home?author={$field|regex_replace:"/\[.*\]/"|regex_replace:"/Hrsg./":""|escape:"url"}">{$field|escape}</a>{if !$smarty.foreach.loop.last}; {/if}
       {/foreach}
       {/if}
     </td>
@@ -520,3 +520,5 @@ href="http://www.doaj.org/">Directory of Open Access Journals</a> (DOAJ). </td>
     </div>
   {/if}
 
+{* RDG: include ISBN, if we need it for a js or similar *}
+<div id="hiddenisbn" style="display:none">{$isbn}</div>

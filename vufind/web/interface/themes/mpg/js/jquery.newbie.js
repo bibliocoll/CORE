@@ -18,6 +18,7 @@ function runEffect(myId) {
 
 function closeTip() {
     $(".close-tip").click(function() {
+	event.preventDefault(); // avoid scrolling to top
 	$(this).parent(".Newbie").toggle();
     });
 }

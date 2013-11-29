@@ -23,7 +23,6 @@ function getALEPHBorrower(id)
 	url: url,
 	dataType: "text",
 	success: function(res) {
-	    // alert(res);
 	    $(".checkAJAX:first").replaceWith('ID '+res+' <a href="http://intern.coll.mpg.de/library/page/aleph-user#'+res+
 					'" target="top">(Details/Name)</a>');
 	},
@@ -40,8 +39,7 @@ function getResolverLinksDirect(openURL, id, strings)
     // get active only on Holdings Tab
 
     var isHoldings = $('#tabnav').find('li[class="active"] > a[href*="Holdings"]').attr("href");
-    if (isHoldings) {
-	// get active only when there is no fulltext link in our data already (relies on existence of class in holdings.tpl!)
+    if (isHoldings) {	// get active only when there is no fulltext link in our data already (relies on existence of class in holdings.tpl!)
 	if ($('.showFulltextLinkRecord').length == 0) {
 	    // loading spinner
 	    $('.recordsubcontent:first').prepend('<div id="SFXdirect" class="showFulltextLinkRecord">'+
@@ -71,9 +69,16 @@ function getResolverLinksDirect(openURL, id, strings)
 			$('#SFXdirect').append('<div id="SFXinjection" style="display:none">'+response.data+'</div>');
 		    	$('#SFXdirect .check').remove();
 			// read from hidden injection, find first full text link only and append a full text button:
-			$('#SFXinjection').find('div[class="openurls"]:first > ul > li > a:first').prependTo('#SFXdirect');
-			$('#SFXdirect a').text(sfxButtonText);
-			$('#SFXdirect a').attr('title','Full text via SFX');
+			var hasFulltextLinks = $('#SFXinjection').find('div[class="openurls"]:first > ul > li > a:first');
+			if ($(hasFulltextLinks).length) {
+			    // $('#SFXinjection').find('div[class="openurls"]:first > ul > li > a:first').prependTo('#SFXdirect');
+			    $('#SFXdirect').append(hasFulltextLinks);
+			    $('#SFXdirect a').text(sfxButtonText);
+			    $('#SFXdirect a').attr('title','Full text via SFX');
+			} else {
+			    // show order button with some fancy jQuery effect!
+			    $("#orderBoxLiteraturagent").toggle("clip");
+			}
     		    } else if (response.data) {
     			strings.error = response.data;
     			this.error();
@@ -90,6 +95,42 @@ function getResolverLinksDirect(openURL, id, strings)
 	}
     }
 }
+
+/* if we do not have a TOC, try to fetch one via JSONP from the SeeAlso-Webservice */
+function getSeeAlsoToC() {
+    var isbn = $('#hiddenisbn').text();
+    var url = "http://beacon.findbuch.de/articles/isbn-toc?format=seealso&id="+isbn;
+ 
+    if (isbn) {
+    $.ajax({
+	type: "GET",
+	url: url,
+	dataType: "jsonp",
+	success: function(res) {
+	 // Check current language:
+          <?php if (isset($_COOKIE['language']) && $_COOKIE['language'] == 'de') { ?>
+            var TocText = "Inhaltsverzeichnis"
+          <?php } else { ?>
+            var TocText = "Table of contents";
+          <?php } ?>
+	 // doublecheck: if no cookie is set, but browser decides on German 
+	   if ($('#mylang option:selected').val() == "de") {
+	    var TocText = "Inhaltsverzeichnis";
+	   }
+	    var tocURL = res[3][0];
+	    var tocSource = res[2][0];
+	    if (tocURL) {
+		$('div.recordsubcontent:first').prepend('<div class="showTocLinkRecord"><a href="'+tocURL+'" title="'+tocSource+'">'+TocText+'</a><br/></div>');
+	    }
+	},
+	error: function() { 
+	    /* do nothing, silent fail */
+	}
+	
+    });    
+    }
+}
+
     
 
 function toggleCoreSummary() {
@@ -107,7 +148,7 @@ function toggleDownLinks() {
     var indexTotal = $('.downLinkRow').length-1;
     if (indexTotal > 10) { var warnLimit = "(max. 1000)"; } else { var warnLimit = ''; }
     var indexVisible = $('.downLinkRow:visible').length-1;
-    var someLeft = $('.downLinkRow:hidden').length; console.log(someLeft);
+    var someLeft = $('.downLinkRow:hidden').length;
     $('#showMoreDownLinks span').html('displaying '+indexVisible+' of '+indexTotal+' '+warnLimit);
     $('#showMoreDownLinks a:last').css("display","inline");
     $('#showMoreDownLinks').insertAfter('.downLinkRow:visible:last');
@@ -144,5 +185,10 @@ $(document).ready(function() {
 	toggleDownLinks();
     });
 
+    /* try to fetch a ToC if we don't have one */
+    var thereIsAToc = $('div.showTocLinkRecord').length;
+    if (!thereIsAToc) {
+	getSeeAlsoToC();
+    }
 });
 

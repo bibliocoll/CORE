@@ -3,15 +3,15 @@
 
     {* Beta-Streifen *}
     <div id="dbeta">
-      <img src="{$path}/interface/themes/mpg/images/rdg/beta.png"/>
+{*      <img src="{$path}/interface/themes/mpg/images/rdg/beta.png"/> *}
       {* Hinweis-Text direkt formatieren, sonst buggy mit jQuery/CSS-Ladereihenfolge *}
-      <div id="dbetaText" style="text-align:right;display:none;position:absolute;top:-25px;right:5px;color:#fff"><a style="color:#fff" href="mailto:biblio@coll.mpg.de">{translate text="This is a beta version - Please give us feedback on things you miss or (do not) like!"}</a></div>
+      <div id="dbetaText" style="text-align:right;display:none;position:absolute;top:-25px;right:5px;color:#fff"><span style="color:#fff">{translate text="CORE &ndash; Collective Goods Research &amp; Explore"}</span></div>
     </div>
 
     
     <b class="btop"><b></b></b>
     <div class="searchHomeContent">
-      {*    <img src="{$path}/interface/themes/mpg/images/rdg/core_long.png" alt="MPI for Research on Collective Goods - Library" title="CORE - Collective Goods Research Explorer" width="470">
+      {*    <img src="{$path}/interface/themes/mpg/images/rdg/core_long.png" alt="MPI for Research on Collective Goods - Library" title="CORE &ndash; Collective Goods Research &amp; Explore" width="470">
       *}
       {* Logo wird extern eingebunden - s. vufind-rdg.css #LogoExternHome *}
       <div id="LogoExternHome" title="CORE - Collective Goods Research &amp; Explore">
@@ -30,7 +30,7 @@
     <div class="homeFloatChild"><p><strong>{translate text='Search Options'}</strong></p>
       <ul>
 	<li><a href="{$path}/Search/History">{translate text='Search History'}</a></li>
-        <li><a href="{$path}/Search/Advanced">{translate text='Advanced Search'}</a></li>
+ {*       <li><a href="{$path}/Search/Advanced">{translate text='Advanced Search'}</a></li> *}
 	<li><a href="{$url}/Help/Home?topic=search" onClick="window.open('{$url}/Help/Home?topic=search', 'Help', 'width=625, height=510'); return false;">{translate text='Search Tips'}</a></li>
         <li><a href="#ytvideos">{translate text='Video Tutorials'}</a>&nbsp;&nbsp; </li>
       </ul>
@@ -42,12 +42,47 @@
         <li><a href="{$path}/AlphaBrowse/Home">{translate text='Alphabetically'}</a></li>
       </ul>
     </div>
-    <div class="homeFloatChild"><p><strong>{translate text='Choose a List'}</strong></p>
-      <a href="{$url}/Search/Results?lookfor=AwrdPbl&type=AllFields&submit=Find">Awarded Publications</br></a>
-      <a href="{$url}/Search/Results?lookfor=ThReGrp&type=AllFields&submit=Find">Theory Reading Group</br></a>
-      <a href="{$url}/Search/Results?lookfor=IntuitExp&type=AllFields&submit=Find">Intuitive Experts</br></a>
-      <a href="#" id="toggle_ratio_lists">Ratio <span class="textarrow">&#x25BE;</span></a>
-      <div id="ratio_lists" style="display:none">
+    <div class="homeFloatChild"><p><strong>{translate text='Publications of the MPI'}</strong></p>
+      <a href="#" id="toggle_start_list_publications" class="magicbutton">{translate text="choose a list"}... <span class="textarrow">&#x25BE;</span></a>
+      <div id="start_list_publications" style="display:none">
+      <a href="{$url}/Search/Results?lookfor=&type=AllFields&filter[]=affiliation_txtF_mv%3A%22MPI+Collective+Goods%22&view=list">	
+        <img src="{$path}/interface/themes/mpg/images/rdg/abruf-R.png" class="tooltip" title="MPI Coll. Publication"></img>
+      </a>
+      <a href="{$url}/Search/Results?lookfor=&type=AllFields&filter[]=rdgfilter_txtF_mv%3A%22peer+reviewed%22&view=list">
+        <img src="{$path}/interface/themes/mpg/images/rdg/abruf-PR.png" class="tooltip" title="Peer Reviewed Publication"></img>
+      </a>
+      <a href="{$url}/Search/Results?lookfor=AwrdPbl&type=AllFields&submit=Find">
+	<img src="{$path}/interface/themes/mpg/images/rdg/abruf-awarded.png" class="tooltip" title="Awarded Publication"></img>
+      </a>
+       <a href="{$url}/Search/Results?lookfor=CollOAgold+OR+CollOAgreen&type=AllFields&submit=Find">
+	<img src="{$path}/interface/themes/mpg/images/rdg/abruf-OA.png" class="tooltip" title="Open Access Publication"></img>
+      </a>
+      <a href="{$url}/Search/Results?lookfor=JiteKonf&type=AllFields&submit=Find">
+	<img src="{$path}/interface/themes/mpg/images/rdg/abruf-JITEKonf.png" class="tooltip" title="JITE Conference"></img>
+      </a>
+      </div>
+    </div>
+    <div class="homeFloatChild"><p><strong>{translate text='Literature recommendations'}</strong></p>
+      <a href="#" id="toggle_start_list_recommendations" class="magicbutton">{translate text="choose a list"}... <span class="textarrow">&#x25BE;</span></a>
+      <div id="start_list_recommendations" style="display:none">
+      <a href="{$url}/Search/Results?lookfor=ThReGrp&type=AllFields&submit=Find">
+	<img src="{$path}/interface/themes/mpg/images/rdg/abruf-theory.png" class="tooltip" title="Theory Reading Group"></img>
+      </a>
+      <a href="{$url}/Search/Results?lookfor=IntuitExp&type=AllFields&submit=Find">
+	<img src="{$path}/interface/themes/mpg/images/rdg/abruf-intuit.png" class="tooltip" title="Intuitive Experts"></img>
+      </a>
+      <a href="{$url}/Search/Results?lookfor=BhvLawEc&type=AllFields&submit=Find">
+	<img src="{$path}/interface/themes/mpg/images/rdg/abruf-BhvLawEC.png" class="tooltip" title="Behavioral Law and Economics"></img>
+      </a>
+{*
+      <a href="{$url}/Search/Results?lookfor=GreLiGreLa&type=AllFields&submit=Find">
+	<img src="{$path}/interface/themes/mpg/images/rdg/abruf-GreLiGreLa.png" class="tooltip" title="Great Literature for Great Lawyers"></img>
+      </a>
+*}
+{*     
+      <a href="#" id="toggle_ratio_lists" class="magicbutton">Ratio <span class="textarrow">&#x25BE;</span></a>
+      <div id="ratio_lists">
+*}
       <a href="{$url}/Search/Results?lookfor=LitRatio2013&type=AllFields&submit=Find">
 	   <img src="{$path}/interface/themes/mpg/images/rdg/abruf-ratio-2013.png" class="tooltip" title="Ratio Literature Seminar 2013"></img>
       </a>
@@ -77,15 +112,12 @@
       <a href="{$url}/Search/Results?lookfor=LitRatio2006&type=AllFields&submit=Find">
 	   <img src="{$path}/interface/themes/mpg/images/rdg/abruf-ratio-2006.png" class="tooltip" title="Ratio Literature Seminar 2006"></img>
       </a>
-      </div>
+{*
+      </div><br/>
+*}
     </div>
-  
-  {*
-    <div id="betafeedback">
-      <a href="mailto:biblio@coll.mpg.de">{translate text="This is a beta version - Please give us feedback on things you miss or (do not) like!"}</a>
-    </div>
-    *}
     <br clear="all">
+    </div>
   </div>
 </div>
 

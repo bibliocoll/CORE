@@ -132,6 +132,11 @@ class SideFacets implements RecommendationInterface
         $interface->assign(
             'sideFacetSet', $this->_searchObject->getFacetList($this->_mainFacets)
         );
+        // RDG:
+        $iniName = "databaseRecommendations";
+        $config = getExtraConfigArray($iniName);
+        $interface->assign('dbR', $config);
+                           
     }
 
     /**

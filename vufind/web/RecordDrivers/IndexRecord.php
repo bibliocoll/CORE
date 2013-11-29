@@ -316,11 +316,12 @@ class IndexRecord implements RecordInterface
         $interface->assign('coreGBVJournalLink', $this->getGBVLink("773"));
         $interface->assign('coreCollections', $this->getCollection());
 
-        // RDG: Seitenzahl anzeigen
+        // RDG:
         $interface->assign('corePhysical', $this->getPhysicalDescriptions());
 	$interface->assign('coreMPGSubjectsRSWK', $this->getMPGSubjectHeadingsRSWK());
 	$interface->assign('coreMPGSubjectsSTW', $this->getMPGSubjectHeadingsSTW());
 	$interface->assign('coreMPGSubjectsSH', $this->getMPGSubjectHeadingsSH());
+        $interface->assign('isGBVRecord', $this->isGBVRecord());
 
         // DOI für Altmetric
         $interface->assign('coreDOI', $this->getDOI());
@@ -817,6 +818,7 @@ class IndexRecord implements RecordInterface
         $interface->assign('summGBVSource', $this->getGBVSource());
         // RDG:
         $interface->assign('abrufzeichen', $this->getMPGAbrufzeichen());
+        $interface->assign('summCollections', $this->getCollection());
 
         $mainAuthor = $this->getPrimaryAuthor();
         if ($MPGPrimaryAuthor = $this->getMPGPrimaryAuthor()) $mainAuthor = $MPGPrimaryAuthor;
@@ -2045,12 +2047,32 @@ class IndexRecord implements RecordInterface
         return null;
     }
 
+   protected function getMPGSubjectHeadingsRSWK()
+    {
+        return null;
+    }
+
+   protected function getMPGSubjectHeadingsSTW()
+    {
+        return null;
+    }
+
+   protected function getMPGSubjectHeadingsSH()
+    {
+        return null;
+    }
+
     protected function getMPGdownLinkRecords()
     {
         return null;
     }
 
     protected function getMPGdownLinkArticles()
+    {
+        return null;
+    }
+
+    protected function getVubAvailability()
     {
         return null;
     }

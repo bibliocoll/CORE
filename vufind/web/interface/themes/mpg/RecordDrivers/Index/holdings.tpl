@@ -1,3 +1,19 @@
+{* begin SFX response injection: show order button if no fulltext links are found (only if $isGBVRecord) *}
+{* switch on in record-rdg-extra.js *} 
+{if $isGBVRecord}
+      <div id="orderBoxLiteraturagent" class="othercontent" style="display:none">
+        {translate text="It seems that there is no fulltext available at the moment"}.<br/><br/>
+        {translate text="Are you interested in this title"}? 
+        {translate text="Our literature agents will get this article for you"}!
+        <div class="magicbuttonbox">	
+          <a class="magicbutton" href="http://intern.coll.mpg.de/node/3159/?{$coreOpenURL}&from=CORE">
+           {translate text="order here"} ({translate text="internal only"})
+	  </a>
+        </div>
+      </div>
+{/if}
+{* end SFX response injection *}
+
 {if $driverMode && !empty($holdings)}
   {if $showLoginMsg}
     <div class="userMsg">

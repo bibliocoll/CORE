@@ -17,7 +17,7 @@
       <div class="resultItemLine2">
       {if !empty($summAuthor)}
       {translate text='by'}
-      <a href="{$url}/Author/Home?author={$summAuthor|escape:"url"}">{if !empty($summHighlightedAuthor)}{$summHighlightedAuthor|highlight}{else}{$summAuthor|escape}{/if}</a>
+      <a href="{$url}/Author/Home?author={$summAuthor|regex_replace:"/\[.*\]/":""|regex_replace:"/Hrsg./":""|escape:"url"}">{if !empty($summHighlightedAuthor)}{$summHighlightedAuthor|highlight}{else}{$summAuthor|escape}{/if}</a>
       {/if}
       {if $summGBVSource}{$summGBVSource}
       {else if $summDate}{translate text='Published'} {$summDate.0|escape}
@@ -73,6 +73,8 @@
       </div>
       {foreach from=$summFormats item=format}
         <div class="resultsFormat"><span class="iconlabel {$format|lower|regex_replace:"/[^a-z0-9]/":""}">{translate text=$format}</span></div>
+        {*RDG: assign a variable for later (see below), doesn't matter if multiple formats *}
+	{assign var="format" value=$format}
       {/foreach}
     </div>
   </div>
@@ -90,14 +92,22 @@
         getSaveStatuses('{$summId|escape:"javascript"}');
       </script>
     </div>
-      {if $summOpenUrl || !empty($summURLs)}
-        {if $summOpenUrl}
-         <div class="previewDiv">
-          {include file="Search/openurl.tpl" openUrl=$summOpenUrl}
-         </div>
+    {* RDG: do not show SFX for library holdings *}
+    {if !empty($summCollections)}
+      {foreach from=$summCollections item=collection name=collectionLoop}
+        {if $collection == "Local Library Catalog" && $format == "Book"}
+            <div class="isInLibrary">{translate text="Local Library Catalog"}</div>
+        {else}
+           {if $summOpenUrl || !empty($summURLs)}	
+              {if $summOpenUrl}
+                 <div class="previewDiv">
+                 {include file="Search/openurl.tpl" openUrl=$summOpenUrl}
+                 </div>
+              {/if}
+           {/if}
         {/if}
-      {/if}
-
+      {/foreach}
+    {/if}
     {if $abrufzeichen}
         {include file="RecordDrivers/Index/abrufzeichen.tpl"}
     {/if}
